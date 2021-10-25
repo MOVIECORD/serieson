@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-10-25T14:15:06.999Z</updated>
+    <updated>2021-10-25T15:14:31.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13609&amp;productType=movie" class=" NPI=a:list">😎가격인하에 전용 쿠폰까지 얹어서! '인질' 지금이 소장할 때!</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[💛가장 조용한 곳에서 들려온 희망의 노래 '코다' 가격인하 & 전용쿠폰 혜택]]></title>
+        <id>https://serieson.naver.com/event/details.nhn?eventNo=13616&amp;productType=movie</id>
+        <link href="https://serieson.naver.com/event/details.nhn?eventNo=13616&amp;productType=movie"/>
+        <updated>2021-10-25T15:14:30.659Z</updated>
+        <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13616&amp;productType=movie" class=" NPI=a:list">💛가장 조용한 곳에서 들려온 희망의 노래 '코다' 가격인하 &amp; 전용쿠폰 혜택</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🌴이번엔 아마존이다! '정글 크루즈' 오픈 프로모션]]></title>
         <id>https://serieson.naver.com/event/details.nhn?eventNo=13601&amp;productType=movie</id>
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13601&amp;productType=movie"/>
         <updated>2021-10-23T05:30:46.946Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13601&amp;productType=movie" class=" NPI=a:list">🌴이번엔 아마존이다! '정글 크루즈' 오픈 프로모션</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎧영화 보고 나면 OST 여운이 깊게 남을 그 작품! '코다' 오픈 프로모션]]></title>
-        <id>https://serieson.naver.com/event/details.nhn?eventNo=13592&amp;productType=movie</id>
-        <link href="https://serieson.naver.com/event/details.nhn?eventNo=13592&amp;productType=movie"/>
-        <updated>2021-10-23T05:30:46.947Z</updated>
-        <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13592&amp;productType=movie" class=" NPI=a:list">🎧영화 보고 나면 OST 여운이 깊게 남을 그 작품! '코다' 오픈 프로모션</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎃쫄보 통곡의 리스트! 할로윈에 딱 맞는 공포 영화 보고 캐시 받자!]]></title>

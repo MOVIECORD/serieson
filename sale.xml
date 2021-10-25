@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 14:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 15:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -395,30 +395,6 @@
         </item>
         <item>
             <title><![CDATA[HD(1080)
-			
-			
-			
-			파리의 별빛 아래]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6230258</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6230258</guid>
-            <pubDate>Sat, 23 Oct 2021 05:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,550</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210412_144/1618203769055qkK5M_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			파리의 별빛 아래]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6230259</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6230259</guid>
-            <pubDate>Sat, 23 Oct 2021 05:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210412_144/1618203769055qkK5M_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
 			19
 			
 			
@@ -428,6 +404,30 @@
             <pubDate>Sat, 23 Oct 2021 05:30:19 GMT</pubDate>
             <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210423_57/1619144213419L4gFp_JPEG/_MORTAL_KOMBAT_2021_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			잭 스나이더의 저스티스 ..]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6039515</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6039515</guid>
+            <pubDate>Mon, 25 Oct 2021 15:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210318_141/1616056253934NHEXK_JPEG/ZackSnyders_JusticeLeague_STD_V_DD_KA_TT_2000x3000_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			링]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5914897</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5914897</guid>
+            <pubDate>Mon, 25 Oct 2021 15:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,050</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210202_55/1612234356214rmbsI_JPEG/Ring_GEN_800x1200.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
