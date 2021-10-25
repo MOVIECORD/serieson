@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-10-25T05:14:54.795Z</updated>
+    <updated>2021-10-25T06:19:39.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -67,6 +67,13 @@
         <link href="https://serieson.naver.com/event/details.nhn?eventNo=13545&amp;productType=movie"/>
         <updated>2021-10-23T05:30:46.954Z</updated>
         <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13545&amp;productType=movie" class=" NPI=a:list">🌟DC 유니버스 팬이라면 못 참지! DC 팬덤에 레전드 히어로가 모두 모였다!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!]]></title>
+        <id>https://serieson.naver.com/event/details.nhn?eventNo=13610&amp;productType=movie</id>
+        <link href="https://serieson.naver.com/event/details.nhn?eventNo=13610&amp;productType=movie"/>
+        <updated>2021-10-25T06:19:38.747Z</updated>
+        <content type="html"><![CDATA[<a href="/event/details.nhn?eventNo=13610&amp;productType=movie" class=" NPI=a:list">✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[놓치기 아까운 다양성 영화 2천 캐시 혜택과 만나자! 시리즈온 X 경기인디시네마]]></title>
