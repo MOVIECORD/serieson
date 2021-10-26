@@ -1,8 +1,242 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://serieson.naver.com/movie/categoryList.nhn?categoryCode=300009&amp;tagCode=200000</id>
-    <title>[시리즈온] 가치봄 영화관</title>
-    <updated>2021-10-26T08:19:11.579Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[시리즈온] 가치봄 영화관</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 26 Oct 2021 09:16:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강철비2: 정상회담 (가치봄영화..]]></title>
+            <link>https://serieson.naver.com/v2/movie/468983</link>
+            <guid>https://serieson.naver.com/v2/movie/468983</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200703_48/1593739617223iuD2b_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빛나는 순간 (가치봄영화:시청..]]></title>
+            <link>https://serieson.naver.com/v2/movie/468984</link>
+            <guid>https://serieson.naver.com/v2/movie/468984</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>5,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210630_227/1625035301941FCenY_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			마왕의 딸 이리샤 (가치봄..]]></title>
+            <link>https://serieson.naver.com/v2/movie/468985</link>
+            <guid>https://serieson.naver.com/v2/movie/468985</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190830_290/1567128998572qg1Jl_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			날씨의 아이 (가치봄영화..]]></title>
+            <link>https://serieson.naver.com/v2/movie/468819</link>
+            <guid>https://serieson.naver.com/v2/movie/468819</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>1,400</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+			
+			
+			지푸라기라도 잡고 싶은 짐승들..]]></title>
+            <link>https://serieson.naver.com/v2/movie/468539</link>
+            <guid>https://serieson.naver.com/v2/movie/468539</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200211_156/1581402209718zyQ9B_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국제수사 (가치봄영화:시청각장..]]></title>
+            <link>https://serieson.naver.com/v2/movie/468545</link>
+            <guid>https://serieson.naver.com/v2/movie/468545</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200916_163/16002324767974gUSf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국제수사 (가치봄영화:시청각장..]]></title>
+            <link>https://serieson.naver.com/v2/movie/468546</link>
+            <guid>https://serieson.naver.com/v2/movie/468546</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200916_163/16002324767974gUSf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이 (가치봄영화:시청각장애인..]]></title>
+            <link>https://serieson.naver.com/v2/movie/468574</link>
+            <guid>https://serieson.naver.com/v2/movie/468574</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>6,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_31/1632481266455FBBUT_PNG/ONPOSTER_3..png?type=f102_138" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아이 (가치봄영화:시청각장애인..]]></title>
+            <link>https://serieson.naver.com/v2/movie/468575</link>
+            <guid>https://serieson.naver.com/v2/movie/468575</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_31/1632481266455FBBUT_PNG/ONPOSTER_3..png?type=f102_138" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[새해전야 (가치봄영화:시청각장..]]></title>
+            <link>https://serieson.naver.com/v2/movie/467499</link>
+            <guid>https://serieson.naver.com/v2/movie/467499</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210309_252/1615273096940WnlAs_JPEG/_.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새해전야 (가치봄영화:시청각장..]]></title>
+            <link>https://serieson.naver.com/v2/movie/467500</link>
+            <guid>https://serieson.naver.com/v2/movie/467500</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210309_252/1615273096940WnlAs_JPEG/_.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죽지않는 인간들의 밤 (가치봄..]]></title>
+            <link>https://serieson.naver.com/v2/movie/465043</link>
+            <guid>https://serieson.naver.com/v2/movie/465043</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201015_119/1602736778585gExQ2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미나리 (가치봄영화:시청각장애..]]></title>
+            <link>https://serieson.naver.com/v2/movie/434953</link>
+            <guid>https://serieson.naver.com/v2/movie/434953</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미나리 (가치봄영화:시청각장애..]]></title>
+            <link>https://serieson.naver.com/v2/movie/434954</link>
+            <guid>https://serieson.naver.com/v2/movie/434954</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저 산 너머 (가치봄영화:시청각..]]></title>
+            <link>https://serieson.naver.com/v2/movie/434952</link>
+            <guid>https://serieson.naver.com/v2/movie/434952</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>1,400</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200508_282/1588913467024QCCAe_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 안에 외계인이 있다 (가치봄..]]></title>
+            <link>https://serieson.naver.com/v2/movie/430154</link>
+            <guid>https://serieson.naver.com/v2/movie/430154</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210120_178/1611108833957tp0l2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 안에 외계인이 있다 (가치봄..]]></title>
+            <link>https://serieson.naver.com/v2/movie/430155</link>
+            <guid>https://serieson.naver.com/v2/movie/430155</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210120_178/1611108833957tp0l2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애비규환 (가치봄영화:시청각장..]]></title>
+            <link>https://serieson.naver.com/v2/movie/430156</link>
+            <guid>https://serieson.naver.com/v2/movie/430156</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201026_228/1603688295184ISYNW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애비규환 (가치봄영화:시청각장..]]></title>
+            <link>https://serieson.naver.com/v2/movie/430157</link>
+            <guid>https://serieson.naver.com/v2/movie/430157</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201026_228/1603688295184ISYNW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검사외전 (가치봄영화:시청각장..]]></title>
+            <link>https://serieson.naver.com/v2/movie/428952</link>
+            <guid>https://serieson.naver.com/v2/movie/428952</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160112_146/1452573577623EyUOh_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검사외전 (가치봄영화:시청각장..]]></title>
+            <link>https://serieson.naver.com/v2/movie/428953</link>
+            <guid>https://serieson.naver.com/v2/movie/428953</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160112_146/1452573577623EyUOh_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			필로미나의 기적 (가치봄..]]></title>
+            <link>https://serieson.naver.com/v2/movie/428951</link>
+            <guid>https://serieson.naver.com/v2/movie/428951</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140305_233/1393983494616B1I2E_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오케이 마담 (가치봄영화:시청..]]></title>
+            <link>https://serieson.naver.com/v2/movie/428447</link>
+            <guid>https://serieson.naver.com/v2/movie/428447</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200812_245/159719521887011fjF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시간을 달리는 소녀 (가치봄영..]]></title>
+            <link>https://serieson.naver.com/v2/movie/427384</link>
+            <guid>https://serieson.naver.com/v2/movie/427384</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181109_63/1541748837768AtSVU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사라진 시간 (가치봄영화:시청..]]></title>
+            <link>https://serieson.naver.com/v2/movie/426819</link>
+            <guid>https://serieson.naver.com/v2/movie/426819</guid>
+            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,540</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200623_227/1592879195885hUQFd_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
