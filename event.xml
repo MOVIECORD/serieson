@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-10-26T14:14:47.969Z</updated>
+    <updated>2021-10-26T15:17:42.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🧡진짜 일어날지도 몰라요 '기적'! 전용 쿠폰에 1만 캐시 선물까지!]]></title>
+        <id>https://serieson.naver.com/events/13619?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13619?productType=movie"/>
+        <updated>2021-10-26T15:17:41.355Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13619?productType=movie" class=" NPI=a:list">🧡진짜 일어날지도 몰라요 '기적'! 전용 쿠폰에 1만 캐시 선물까지! </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😎'모가디슈' 전용 쿠폰 & 30% 쿠폰 받고 소장각! 늦기 전에 꼭 보슈!]]></title>
+        <id>https://serieson.naver.com/events/13618?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13618?productType=movie"/>
+        <updated>2021-10-26T15:17:41.357Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13618?productType=movie" class=" NPI=a:list">😎'모가디슈' 전용 쿠폰 &amp; 30% 쿠폰 받고 소장각! 늦기 전에 꼭 보슈!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✅ 무료영화 보는 꿀팁 안내]]></title>
         <id>https://serieson.naver.com/events/13621?productType=movie</id>
         <link href="https://serieson.naver.com/events/13621?productType=movie"/>
         <updated>2021-10-26T09:16:10.405Z</updated>
         <content type="html"><![CDATA[<a href="/events/13621?productType=movie" class=" NPI=a:list">✅ 무료영화 보는 꿀팁 안내</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎목표는 하나! 모가디슈에서 탈출하라! 모가디슈 in 시리즈온]]></title>
-        <id>https://serieson.naver.com/events/13599?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13599?productType=movie"/>
-        <updated>2021-10-26T09:16:10.406Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13599?productType=movie" class=" NPI=a:list">😎목표는 하나! 모가디슈에서 탈출하라! 모가디슈 in 시리즈온</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😎가격인하에 전용 쿠폰까지 얹어서! '인질' 지금이 소장할 때!]]></title>
@@ -32,6 +39,13 @@
         <link href="https://serieson.naver.com/events/13616?productType=movie"/>
         <updated>2021-10-26T09:16:10.409Z</updated>
         <content type="html"><![CDATA[<a href="/events/13616?productType=movie" class=" NPI=a:list">💛가장 조용한 곳에서 들려온 희망의 노래 '코다' 가격인하 &amp; 전용쿠폰 혜택</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧙‍♀🎃할로윈에 시리즈온 앱에 가면? 쿠폰과 황금 큐레이션이!]]></title>
+        <id>https://serieson.naver.com/events/13622?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13622?productType=movie"/>
+        <updated>2021-10-26T15:17:41.361Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13622?productType=movie" class=" NPI=a:list">🧙‍♀🎃할로윈에 시리즈온 앱에 가면? 쿠폰과 황금 큐레이션이! </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🌴이번엔 아마존이다! '정글 크루즈' 오픈 프로모션]]></title>
