@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 14:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 15:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,15 +168,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210729_140/1627546489181qh9aG_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더빙
-			정글북 2]]></title>
-            <link>https://serieson.naver.com/v2/movie/464261</link>
-            <guid>https://serieson.naver.com/v2/movie/464261</guid>
-            <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,850</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_212/1324491343942Ojs1e_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[19
 			
 			
@@ -250,6 +241,14 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙 위도우 (패키지: 자막판+..]]></title>
+            <link>https://serieson.naver.com/v2/movie/454587</link>
+            <guid>https://serieson.naver.com/v2/movie/454587</guid>
+            <pubDate>Wed, 27 Oct 2021 15:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span>7,630</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210803_284/1627979114724m2U3a_JPEG/MARVEL_BlackWidow_MediaPoster_A.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[데빌스 나잇]]></title>
             <link>https://serieson.naver.com/v2/movie/454307</link>
             <guid>https://serieson.naver.com/v2/movie/454307</guid>
@@ -282,14 +281,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210709_294/1625758650024rIxsz_JPEG/AQuietPlacePart2_2021_Sellthru_KR_800x1200.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컨저링 3: 악마가 시켰다 (부가..]]></title>
-            <link>https://serieson.naver.com/v2/movie/446809</link>
-            <guid>https://serieson.naver.com/v2/movie/446809</guid>
-            <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210623_261/1624425567386pgigc_JPEG/CONJURING_TDMMDI_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[컨저링 3: 악마가 시켰다 (세트..]]></title>
             <link>https://serieson.naver.com/v2/movie/447052</link>
             <guid>https://serieson.naver.com/v2/movie/447052</guid>
@@ -317,17 +308,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210609_7/1623200550852c0J1J_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[19
-			
-			
-			모탈 컴뱃]]></title>
-            <link>https://serieson.naver.com/v2/movie/436577</link>
-            <guid>https://serieson.naver.com/v2/movie/436577</guid>
-            <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210423_57/1619144213419L4gFp_JPEG/_MORTAL_KOMBAT_2021_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[카오스 워킹]]></title>
             <link>https://serieson.naver.com/v2/movie/433437</link>
             <guid>https://serieson.naver.com/v2/movie/433437</guid>
@@ -342,6 +322,22 @@
             <pubDate>Tue, 26 Oct 2021 15:17:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_96/1632481279182qcDm6_PNG/ONPOSTER_4..png?type=f102_138" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[잭 스나이더의 저스티스 리그 ..]]></title>
+            <link>https://serieson.naver.com/v2/movie/430735</link>
+            <guid>https://serieson.naver.com/v2/movie/430735</guid>
+            <pubDate>Wed, 27 Oct 2021 15:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210318_141/1616056253934NHEXK_JPEG/ZackSnyders_JusticeLeague_STD_V_DD_KA_TT_2000x3000_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[링]]></title>
+            <link>https://serieson.naver.com/v2/movie/423302</link>
+            <guid>https://serieson.naver.com/v2/movie/423302</guid>
+            <pubDate>Wed, 27 Oct 2021 15:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,050</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210202_55/1612234356214rmbsI_JPEG/Ring_GEN_800x1200.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

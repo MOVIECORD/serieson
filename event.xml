@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-10-27T14:16:09.150Z</updated>
+    <updated>2021-10-27T15:16:52.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://serieson.naver.com/events/13619?productType=movie"/>
         <updated>2021-10-26T15:17:41.355Z</updated>
         <content type="html"><![CDATA[<a href="/events/13619?productType=movie" class=" NPI=a:list">🧡진짜 일어날지도 몰라요 '기적'! 전용 쿠폰에 1만 캐시 선물까지! </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👔프리시티 입주 지원! '프리가이' 특별 MD 이벤트 OPEN!]]></title>
+        <id>https://serieson.naver.com/events/13620?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13620?productType=movie"/>
+        <updated>2021-10-27T15:16:51.824Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13620?productType=movie" class=" NPI=a:list">👔프리시티 입주 지원! '프리가이' 특별 MD 이벤트 OPEN!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚡️이터널스 극장에 보러 가기 전! MCU 세계관 벼락치기]]></title>
+        <id>https://serieson.naver.com/events/13624?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13624?productType=movie"/>
+        <updated>2021-10-27T15:16:51.826Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13624?productType=movie" class=" NPI=a:list">⚡️이터널스 극장에 보러 가기 전! MCU 세계관 벼락치기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😎'모가디슈' 전용 쿠폰 & 30% 쿠폰 받고 소장각! 늦기 전에 꼭 보슈!]]></title>
@@ -48,13 +62,6 @@
         <content type="html"><![CDATA[<a href="/events/13622?productType=movie" class=" NPI=a:list">🧙‍♀🎃할로윈에 시리즈온 앱에 가면? 쿠폰과 황금 큐레이션이! </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🌴이번엔 아마존이다! '정글 크루즈' 오픈 프로모션]]></title>
-        <id>https://serieson.naver.com/events/13601?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13601?productType=movie"/>
-        <updated>2021-10-26T09:16:10.410Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13601?productType=movie" class=" NPI=a:list">🌴이번엔 아마존이다! '정글 크루즈' 오픈 프로모션</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🎃. 쫄보 통곡의 리스트! 할로윈에 딱 맞는 공포 영화 보고 캐시 받자!]]></title>
         <id>https://serieson.naver.com/events/13613?productType=movie</id>
         <link href="https://serieson.naver.com/events/13613?productType=movie"/>
@@ -74,13 +81,6 @@
         <link href="https://serieson.naver.com/events/13604?productType=movie"/>
         <updated>2021-10-26T09:16:10.415Z</updated>
         <content type="html"><![CDATA[<a href="/events/13604?productType=movie" class=" NPI=a:list">🌊우리집 어린이의 흥을 책임질 '극장판 바다 탐험대 옥토넛 : 대산호초 보호작전'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​호러 천재 '제임스 완' 감독의 재능 플렉스​😱'말리그넌트' 보고 매운 맛 치킨 뜯자!]]></title>
-        <id>https://serieson.naver.com/events/13600?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13600?productType=movie"/>
-        <updated>2021-10-26T09:16:10.419Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13600?productType=movie" class=" NPI=a:list">​호러 천재 '제임스 완' 감독의 재능 플렉스​😱'말리그넌트' 보고 매운 맛 치킨 뜯자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🌟DC 유니버스 팬이라면 못 참지! DC 팬덤에 레전드 히어로가 모두 모였다!]]></title>
