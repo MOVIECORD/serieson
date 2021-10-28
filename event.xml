@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-10-28T14:15:55.053Z</updated>
+    <updated>2021-10-28T15:17:36.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🙌사탕 대신 쿠폰이 듬뿍! 이번 할로윈엔 무제한 영화파티]]></title>
+        <id>https://serieson.naver.com/events/13626?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13626?productType=movie"/>
+        <updated>2021-10-28T15:17:35.241Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13626?productType=movie" class=" NPI=a:list">🙌사탕 대신 쿠폰이 듬뿍! 이번 할로윈엔 무제한 영화파티</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧡진짜 일어날지도 몰라요 '기적'! 전용 쿠폰에 1만 캐시 선물까지!]]></title>
         <id>https://serieson.naver.com/events/13619?productType=movie</id>
@@ -81,13 +88,6 @@
         <link href="https://serieson.naver.com/events/13604?productType=movie"/>
         <updated>2021-10-26T09:16:10.415Z</updated>
         <content type="html"><![CDATA[<a href="/events/13604?productType=movie" class=" NPI=a:list">🌊우리집 어린이의 흥을 책임질 '극장판 바다 탐험대 옥토넛 : 대산호초 보호작전'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🌟DC 유니버스 팬이라면 못 참지! DC 팬덤에 레전드 히어로가 모두 모였다!]]></title>
-        <id>https://serieson.naver.com/events/13545?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13545?productType=movie"/>
-        <updated>2021-10-26T09:16:10.421Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13545?productType=movie" class=" NPI=a:list">🌟DC 유니버스 팬이라면 못 참지! DC 팬덤에 레전드 히어로가 모두 모였다!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!]]></title>

@@ -4,17 +4,9 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 14:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 15:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[맨 오브 스틸 (2.35:1 극장판)]]></title>
-            <link>https://serieson.naver.com/v2/movie/468314</link>
-            <guid>https://serieson.naver.com/v2/movie/468314</guid>
-            <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,300</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20130522_254/1369216857325A4vgn_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[자막
 			
@@ -214,17 +206,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210830_18/1630313073309weuuD_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[19
-			
-			
-			더 수어사이드 스쿼드 (부가영..]]></title>
-            <link>https://serieson.naver.com/v2/movie/457630</link>
-            <guid>https://serieson.naver.com/v2/movie/457630</guid>
-            <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210820_71/1629422353958lRDF0_JPEG/The_Suicide_Squad_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[해리 포터와 마법사의 돌: 매지..]]></title>
             <link>https://serieson.naver.com/v2/movie/455768</link>
             <guid>https://serieson.naver.com/v2/movie/455768</guid>
@@ -324,20 +305,36 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_96/1632481279182qcDm6_PNG/ONPOSTER_4..png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[잭 스나이더의 저스티스 리그 ..]]></title>
-            <link>https://serieson.naver.com/v2/movie/430735</link>
-            <guid>https://serieson.naver.com/v2/movie/430735</guid>
-            <pubDate>Wed, 27 Oct 2021 15:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210318_141/1616056253934NHEXK_JPEG/ZackSnyders_JusticeLeague_STD_V_DD_KA_TT_2000x3000_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[링]]></title>
             <link>https://serieson.naver.com/v2/movie/423302</link>
             <guid>https://serieson.naver.com/v2/movie/423302</guid>
             <pubDate>Wed, 27 Oct 2021 15:16:23 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,050</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210202_55/1612234356214rmbsI_JPEG/Ring_GEN_800x1200.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[링]]></title>
+            <link>https://serieson.naver.com/v2/movie/423301</link>
+            <guid>https://serieson.naver.com/v2/movie/423301</guid>
+            <pubDate>Thu, 28 Oct 2021 15:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,300</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210202_55/1612234356214rmbsI_JPEG/Ring_GEN_800x1200.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와일드 로즈]]></title>
+            <link>https://serieson.naver.com/v2/movie/420510</link>
+            <guid>https://serieson.naver.com/v2/movie/420510</guid>
+            <pubDate>Thu, 28 Oct 2021 15:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span>980</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와일드 로즈]]></title>
+            <link>https://serieson.naver.com/v2/movie/420511</link>
+            <guid>https://serieson.naver.com/v2/movie/420511</guid>
+            <pubDate>Thu, 28 Oct 2021 15:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,850</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
