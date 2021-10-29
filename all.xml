@@ -4,9 +4,47 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 14:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 15:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											헛소동 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/167884</link>
+            <guid>https://serieson.naver.com/v2/movie/167884</guid>
+            <pubDate>Fri, 29 Oct 2021 15:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20161228_252/14829029568367pgQS_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경심파 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/200962</link>
+            <guid>https://serieson.naver.com/v2/movie/200962</guid>
+            <pubDate>Fri, 29 Oct 2021 15:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170831_115/15041456577393MHsw_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[600 마일 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/165512</link>
+            <guid>https://serieson.naver.com/v2/movie/165512</guid>
+            <pubDate>Fri, 29 Oct 2021 15:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20151203_296/1449129718891zFA9Y_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[풍운대전 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/212098</link>
+            <guid>https://serieson.naver.com/v2/movie/212098</guid>
+            <pubDate>Fri, 29 Oct 2021 15:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171107_233/151002021202009rtP_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[택시 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/389620</link>
@@ -122,44 +160,6 @@
             <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
             <content:encoded><![CDATA[11월 4일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_242/1324560646798A8lKy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파울라 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/211700</link>
-            <guid>https://serieson.naver.com/v2/movie/211700</guid>
-            <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171018_22/1508291873014z46Em_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤은 짧아 걸어 아가씨야 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/229211</link>
-            <guid>https://serieson.naver.com/v2/movie/229211</guid>
-            <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180305_204/1520235483216rS5JR_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 아내의 모든 것 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/194789</link>
-            <guid>https://serieson.naver.com/v2/movie/194789</guid>
-            <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20120410_260/1334042315984vD8vj_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											퍼셉션 오브 블러드 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/341756</link>
-            <guid>https://serieson.naver.com/v2/movie/341756</guid>
-            <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200131_8/1580454275078FccWr_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자막
@@ -997,13 +997,6 @@
             <guid>https://serieson.naver.com/events/13622?productType=movie</guid>
             <pubDate>Tue, 26 Oct 2021 15:17:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13622?productType=movie" class=" NPI=a:list">🧙‍♀🎃할로윈에 시리즈온 앱에 가면? 쿠폰과 황금 큐레이션이! </a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🌊우리집 어린이의 흥을 책임질 '극장판 바다 탐험대 옥토넛 : 대산호초 보호작전' ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13604?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13604?productType=movie</guid>
-            <pubDate>Tue, 26 Oct 2021 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13604?productType=movie" class=" NPI=a:list">🌊우리집 어린이의 흥을 책임질 '극장판 바다 탐험대 옥토넛 : 대산호초 보호작전'</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁! ([시리즈온] 이벤트)]]></title>
