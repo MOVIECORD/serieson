@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-10-29T09:16:01.646Z</updated>
+    <updated>2021-10-29T10:17:35.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -20,11 +20,18 @@
         <content type="html"><![CDATA[<a href="/events/13619?productType=movie" class=" NPI=a:list">🧡진짜 일어날지도 몰라요 '기적'! 전용 쿠폰에 1만 캐시 선물까지! </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👔프리시티 입주 지원! '프리가이' 특별 MD 이벤트 OPEN!]]></title>
-        <id>https://serieson.naver.com/events/13620?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13620?productType=movie"/>
-        <updated>2021-10-27T15:16:51.824Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13620?productType=movie" class=" NPI=a:list">👔프리시티 입주 지원! '프리가이' 특별 MD 이벤트 OPEN!</a>]]></content>
+        <title type="html"><![CDATA[👻믿.보 파라마운트 할로윈 영화 보고 러쉬 선물 받아가세요!]]></title>
+        <id>https://serieson.naver.com/events/13608?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13608?productType=movie"/>
+        <updated>2021-10-26T09:16:10.413Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13608?productType=movie" class=" NPI=a:list">👻믿.보 파라마운트 할로윈 영화 보고 러쉬 선물 받아가세요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎃쫄보 통곡의 리스트! 할로윈에 딱 맞는 공포 영화 보고 캐시 받자!]]></title>
+        <id>https://serieson.naver.com/events/13613?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13613?productType=movie"/>
+        <updated>2021-10-26T09:16:10.411Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13613?productType=movie" class=" NPI=a:list">🎃쫄보 통곡의 리스트! 할로윈에 딱 맞는 공포 영화 보고 캐시 받자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[⚡️이터널스 극장에 보러 가기 전! MCU 세계관 벼락치기]]></title>
@@ -32,6 +39,13 @@
         <link href="https://serieson.naver.com/events/13624?productType=movie"/>
         <updated>2021-10-27T15:16:51.826Z</updated>
         <content type="html"><![CDATA[<a href="/events/13624?productType=movie" class=" NPI=a:list">⚡️이터널스 극장에 보러 가기 전! MCU 세계관 벼락치기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👔프리시티 입주 지원! '프리가이' 특별 MD 이벤트 OPEN!]]></title>
+        <id>https://serieson.naver.com/events/13620?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13620?productType=movie"/>
+        <updated>2021-10-27T15:16:51.824Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13620?productType=movie" class=" NPI=a:list">👔프리시티 입주 지원! '프리가이' 특별 MD 이벤트 OPEN!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😎'모가디슈' 전용 쿠폰 & 30% 쿠폰 받고 소장각! 늦기 전에 꼭 보슈!]]></title>
@@ -67,20 +81,6 @@
         <link href="https://serieson.naver.com/events/13622?productType=movie"/>
         <updated>2021-10-26T15:17:41.361Z</updated>
         <content type="html"><![CDATA[<a href="/events/13622?productType=movie" class=" NPI=a:list">🧙‍♀🎃할로윈에 시리즈온 앱에 가면? 쿠폰과 황금 큐레이션이! </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎃. 쫄보 통곡의 리스트! 할로윈에 딱 맞는 공포 영화 보고 캐시 받자!]]></title>
-        <id>https://serieson.naver.com/events/13613?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13613?productType=movie"/>
-        <updated>2021-10-26T09:16:10.411Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13613?productType=movie" class=" NPI=a:list">🎃. 쫄보 통곡의 리스트! 할로윈에 딱 맞는 공포 영화 보고 캐시 받자!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👻믿.보 파라마운트 할로윈 영화 보고 러쉬 선물 받아가세요!]]></title>
-        <id>https://serieson.naver.com/events/13608?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13608?productType=movie"/>
-        <updated>2021-10-26T09:16:10.413Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13608?productType=movie" class=" NPI=a:list">👻믿.보 파라마운트 할로윈 영화 보고 러쉬 선물 받아가세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🌊우리집 어린이의 흥을 책임질 '극장판 바다 탐험대 옥토넛 : 대산호초 보호작전']]></title>
