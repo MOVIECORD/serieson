@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-10-31T14:14:16.569Z</updated>
+    <updated>2021-10-31T15:16:13.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[🙌사탕 대신 쿠폰이 듬뿍! 이번 할로윈엔 무제한 영화파티]]></title>
-        <id>https://serieson.naver.com/events/13626?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13626?productType=movie"/>
-        <updated>2021-10-28T15:17:35.241Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13626?productType=movie" class=" NPI=a:list">🙌사탕 대신 쿠폰이 듬뿍! 이번 할로윈엔 무제한 영화파티</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[🧡진짜 일어날지도 몰라요 '기적'! 전용 쿠폰에 1만 캐시 선물까지!]]></title>
         <id>https://serieson.naver.com/events/13619?productType=movie</id>
         <link href="https://serieson.naver.com/events/13619?productType=movie"/>
         <updated>2021-10-26T15:17:41.355Z</updated>
         <content type="html"><![CDATA[<a href="/events/13619?productType=movie" class=" NPI=a:list">🧡진짜 일어날지도 몰라요 '기적'! 전용 쿠폰에 1만 캐시 선물까지! </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👻믿.보 파라마운트 할로윈 영화 보고 러쉬 선물 받아가세요!]]></title>
-        <id>https://serieson.naver.com/events/13608?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13608?productType=movie"/>
-        <updated>2021-10-26T09:16:10.413Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13608?productType=movie" class=" NPI=a:list">👻믿.보 파라마운트 할로윈 영화 보고 러쉬 선물 받아가세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎃쫄보 통곡의 리스트! 할로윈에 딱 맞는 공포 영화 보고 캐시 받자!]]></title>
@@ -97,11 +83,11 @@
         <content type="html"><![CDATA[<a href="/events/13570?productType=movie" class=" NPI=a:list">놓치기 아까운 다양성 영화 2천 캐시 혜택과 만나자! 시리즈온 X 경기인디시네마</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10월 우수이용자! 놓치지 말고 확인!]]></title>
-        <id>https://serieson.naver.com/events/13586?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13586?productType=movie"/>
-        <updated>2021-10-26T09:16:10.432Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13586?productType=movie" class=" NPI=a:list">10월 우수이용자! 놓치지 말고 확인!</a>]]></content>
+        <title type="html"><![CDATA[11월 우수이용자! 놓치지 말고 확인!]]></title>
+        <id>https://serieson.naver.com/events/13628?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13628?productType=movie"/>
+        <updated>2021-10-31T15:16:12.485Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13628?productType=movie" class=" NPI=a:list">11월 우수이용자! 놓치지 말고 확인!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이번주 가격인하작, 시리즈온에서 확인!]]></title>
