@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-11-01T14:15:12.171Z</updated>
+    <updated>2021-11-01T15:17:53.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -60,13 +60,6 @@
         <link href="https://serieson.naver.com/events/13616?productType=movie"/>
         <updated>2021-10-26T09:16:10.409Z</updated>
         <content type="html"><![CDATA[<a href="/events/13616?productType=movie" class=" NPI=a:list">💛가장 조용한 곳에서 들려온 희망의 노래 '코다' 가격인하 &amp; 전용쿠폰 혜택</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧙‍♀🎃할로윈에 시리즈온 앱에 가면? 쿠폰과 황금 큐레이션이!]]></title>
-        <id>https://serieson.naver.com/events/13622?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13622?productType=movie"/>
-        <updated>2021-10-26T15:17:41.361Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13622?productType=movie" class=" NPI=a:list">🧙‍♀🎃할로윈에 시리즈온 앱에 가면? 쿠폰과 황금 큐레이션이! </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!]]></title>
