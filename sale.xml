@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 14:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 15:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,7 +218,7 @@
             <link>https://serieson.naver.com/v2/movie/454307</link>
             <guid>https://serieson.naver.com/v2/movie/454307</guid>
             <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210727_259/16273502080747uURQ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -271,22 +271,6 @@
             <pubDate>Sun, 31 Oct 2021 15:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,925</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210513_172/1620886395509WfUlw_JPEG/__.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카오스 워킹]]></title>
-            <link>https://serieson.naver.com/v2/movie/433437</link>
-            <guid>https://serieson.naver.com/v2/movie/433437</guid>
-            <pubDate>Tue, 26 Oct 2021 15:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,550</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_96/1632481279182qcDm6_PNG/ONPOSTER_4..png?type=f102_138" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카오스 워킹]]></title>
-            <link>https://serieson.naver.com/v2/movie/433438</link>
-            <guid>https://serieson.naver.com/v2/movie/433438</guid>
-            <pubDate>Tue, 26 Oct 2021 15:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_96/1632481279182qcDm6_PNG/ONPOSTER_4..png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[고백]]></title>
@@ -399,6 +383,25 @@
             <pubDate>Sun, 31 Oct 2021 15:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<span>960</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201105_64/1604563236779zb4rn_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+			
+			
+			프리키 데스데이]]></title>
+            <link>https://serieson.naver.com/v2/movie/413436</link>
+            <guid>https://serieson.naver.com/v2/movie/413436</guid>
+            <pubDate>Tue, 02 Nov 2021 15:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201105_64/1604563236779zb4rn_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하우스 오브 데몬]]></title>
+            <link>https://serieson.naver.com/v2/movie/414476</link>
+            <guid>https://serieson.naver.com/v2/movie/414476</guid>
+            <pubDate>Tue, 02 Nov 2021 15:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201218_196/1608273286696wFzgy_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

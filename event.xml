@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-11-02T14:15:27.378Z</updated>
+    <updated>2021-11-02T15:16:52.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -34,25 +34,11 @@
         <content type="html"><![CDATA[<a href="/events/13620?productType=movie" class=" NPI=a:list">👔프리시티 입주 지원! '프리가이' 특별 MD 이벤트 OPEN!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[😎'모가디슈' 전용 쿠폰 & 30% 쿠폰 받고 소장각! 늦기 전에 꼭 보슈!]]></title>
-        <id>https://serieson.naver.com/events/13618?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13618?productType=movie"/>
-        <updated>2021-10-26T15:17:41.357Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13618?productType=movie" class=" NPI=a:list">😎'모가디슈' 전용 쿠폰 &amp; 30% 쿠폰 받고 소장각! 늦기 전에 꼭 보슈!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[✅ 무료영화 보는 꿀팁 안내]]></title>
         <id>https://serieson.naver.com/events/13621?productType=movie</id>
         <link href="https://serieson.naver.com/events/13621?productType=movie"/>
         <updated>2021-10-26T09:16:10.405Z</updated>
         <content type="html"><![CDATA[<a href="/events/13621?productType=movie" class=" NPI=a:list">✅ 무료영화 보는 꿀팁 안내</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎가격인하에 전용 쿠폰까지 얹어서! '인질' 지금이 소장할 때!]]></title>
-        <id>https://serieson.naver.com/events/13609?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13609?productType=movie"/>
-        <updated>2021-10-26T09:16:10.408Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13609?productType=movie" class=" NPI=a:list">😎가격인하에 전용 쿠폰까지 얹어서! '인질' 지금이 소장할 때!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💛가장 조용한 곳에서 들려온 희망의 노래 '코다' 가격인하 & 전용쿠폰 혜택]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 14:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 15:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,7 +372,7 @@
             <link>https://serieson.naver.com/v2/movie/454307</link>
             <guid>https://serieson.naver.com/v2/movie/454307</guid>
             <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210727_259/16273502080747uURQ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -425,22 +425,6 @@
             <pubDate>Sun, 31 Oct 2021 15:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,925</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210513_172/1620886395509WfUlw_JPEG/__.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카오스 워킹 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/433437</link>
-            <guid>https://serieson.naver.com/v2/movie/433437</guid>
-            <pubDate>Tue, 26 Oct 2021 15:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,550</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_96/1632481279182qcDm6_PNG/ONPOSTER_4..png?type=f102_138" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카오스 워킹 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/433438</link>
-            <guid>https://serieson.naver.com/v2/movie/433438</guid>
-            <pubDate>Tue, 26 Oct 2021 15:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_96/1632481279182qcDm6_PNG/ONPOSTER_4..png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[고백 ([시리즈온] 할인 영화관)]]></title>
@@ -553,6 +537,25 @@
             <pubDate>Sun, 31 Oct 2021 15:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<span>960</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201105_64/1604563236779zb4rn_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+			
+			
+			프리키 데스데이 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/413436</link>
+            <guid>https://serieson.naver.com/v2/movie/413436</guid>
+            <pubDate>Tue, 02 Nov 2021 15:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201105_64/1604563236779zb4rn_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하우스 오브 데몬 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/414476</link>
+            <guid>https://serieson.naver.com/v2/movie/414476</guid>
+            <pubDate>Tue, 02 Nov 2021 15:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201218_196/1608273286696wFzgy_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[종이꽃 ([시리즈온] 천원관)]]></title>
@@ -1014,25 +1017,11 @@
             <content:encoded><![CDATA[<a href="/events/13620?productType=movie" class=" NPI=a:list">👔프리시티 입주 지원! '프리가이' 특별 MD 이벤트 OPEN!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[😎'모가디슈' 전용 쿠폰 & 30% 쿠폰 받고 소장각! 늦기 전에 꼭 보슈! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13618?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13618?productType=movie</guid>
-            <pubDate>Tue, 26 Oct 2021 15:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13618?productType=movie" class=" NPI=a:list">😎'모가디슈' 전용 쿠폰 &amp; 30% 쿠폰 받고 소장각! 늦기 전에 꼭 보슈!</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[✅ 무료영화 보는 꿀팁 안내 ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/13621?productType=movie</link>
             <guid>https://serieson.naver.com/events/13621?productType=movie</guid>
             <pubDate>Tue, 26 Oct 2021 09:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13621?productType=movie" class=" NPI=a:list">✅ 무료영화 보는 꿀팁 안내</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[😎가격인하에 전용 쿠폰까지 얹어서! '인질' 지금이 소장할 때! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13609?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13609?productType=movie</guid>
-            <pubDate>Tue, 26 Oct 2021 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13609?productType=movie" class=" NPI=a:list">😎가격인하에 전용 쿠폰까지 얹어서! '인질' 지금이 소장할 때!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💛가장 조용한 곳에서 들려온 희망의 노래 '코다' 가격인하 & 전용쿠폰 혜택 ([시리즈온] 이벤트)]]></title>
