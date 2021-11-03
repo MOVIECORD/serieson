@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 14:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 15:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,22 +144,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20211012_195/1634005525930ob6gs_JPEG/___.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폰]]></title>
-            <link>https://serieson.naver.com/v2/movie/464832</link>
-            <guid>https://serieson.naver.com/v2/movie/464832</guid>
-            <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>5,005</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210729_140/1627546489181qh9aG_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폰]]></title>
-            <link>https://serieson.naver.com/v2/movie/464833</link>
-            <guid>https://serieson.naver.com/v2/movie/464833</guid>
-            <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,925</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210729_140/1627546489181qh9aG_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[19
 			
 			
@@ -177,17 +161,6 @@
             <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
             <content:encoded><![CDATA[<span>11,120</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210826_36/1629943964659nTdae_JPEG/2__0714.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-			
-			
-			다크 스펠]]></title>
-            <link>https://serieson.naver.com/v2/movie/459647</link>
-            <guid>https://serieson.naver.com/v2/movie/459647</guid>
-            <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210830_18/1630313073309weuuD_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해리 포터와 마법사의 돌: 매지..]]></title>
@@ -214,14 +187,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210803_284/1627979114724m2U3a_JPEG/MARVEL_BlackWidow_MediaPoster_A.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데빌스 나잇]]></title>
-            <link>https://serieson.naver.com/v2/movie/454307</link>
-            <guid>https://serieson.naver.com/v2/movie/454307</guid>
-            <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210727_259/16273502080747uURQ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[콰이어트 플레이스 2 (세트: 1..]]></title>
             <link>https://serieson.naver.com/v2/movie/449519</link>
             <guid>https://serieson.naver.com/v2/movie/449519</guid>
@@ -236,25 +201,6 @@
             <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
             <content:encoded><![CDATA[<span>17,490</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210623_261/1624425567386pgigc_JPEG/CONJURING_TDMMDI_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컨저링: 귀신의 집]]></title>
-            <link>https://serieson.naver.com/v2/movie/447257</link>
-            <guid>https://serieson.naver.com/v2/movie/447257</guid>
-            <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210609_182/1623201440261E3col_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-			
-			
-			매드 마더]]></title>
-            <link>https://serieson.naver.com/v2/movie/446209</link>
-            <guid>https://serieson.naver.com/v2/movie/446209</guid>
-            <pubDate>Tue, 26 Oct 2021 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210609_7/1623200550852c0J1J_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내일의 기억]]></title>
@@ -374,34 +320,382 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20201222_137/1608579835055dJgj5_JPEG/_%28%29.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[19
+            <title><![CDATA[수네 vs 수네]]></title>
+            <link>https://serieson.naver.com/v2/movie/412186</link>
+            <guid>https://serieson.naver.com/v2/movie/412186</guid>
+            <pubDate>Wed, 03 Nov 2021 15:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/v2/movie/412186" class="NPI=a:content" title="수네 vs 수네 ">
+		<span class="mask"></span>
+		
+			
+				
+				<em class="ico ico_free1">Free</em>
+				
+				
+				
+				
+				
+				
+			
+		
+		
 			
 			
-			프리키 데스데이]]></title>
-            <link>https://serieson.naver.com/v2/movie/413435</link>
-            <guid>https://serieson.naver.com/v2/movie/413435</guid>
-            <pubDate>Sun, 31 Oct 2021 15:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span>960</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201105_64/1604563236779zb4rn_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+				
+				
+				<img src="https://tvstore-phinf.pstatic.net/20201209_232/1607492440135YCzlv_PNG/__Final.png?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+			
+		
+		<strong>
+			
+			
+			
+			
+			수네 vs 수네 
+		</strong>
+	</a>
+	
+		
+		
+	
+	
+	
+		
+			<span class="score">
+				<span style="width:0%">평점</span>
+				
+			</span>
+			<em class="score_num">0.0</em>
+		
+		
+	
+	
+		
+		
+			<p class="price2 v2">
+				
+					<em class="">대여</em>
+					
+					<strong><span>무료</span></strong><br>
+					
+						
+						
+					
+				
+				
+			</p>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20201209_232/1607492440135YCzlv_PNG/__Final.png?type=f102_138" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			레고 쥬라기 월드 : 비밀..]]></title>
+            <link>https://serieson.naver.com/v2/movie/410747</link>
+            <guid>https://serieson.naver.com/v2/movie/410747</guid>
+            <pubDate>Wed, 03 Nov 2021 15:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/v2/movie/410747" class="NPI=a:content" title="레고 쥬라기 월드 : 비밀 전시회 ">
+		<span class="mask"></span>
+		
+			
+				
+				<em class="ico ico_free1">Free</em>
+				
+				
+				
+				
+				
+				
+			
+		
+		
+			
+			
+				
+				
+				<img src="https://movie-phinf.pstatic.net/20201111_264/1605057905518jz7KW_JPEG/movie_image.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+			
+		
+		<strong>
+			
+			
+			
+			<em class="mv_tv_ico lst_dub">더빙</em>
+			레고 쥬라기 월드 : 비밀..
+		</strong>
+	</a>
+	
+		
+		
+	
+	
+	
+		
+			<span class="score">
+				<span style="width:0%">평점</span>
+				
+			</span>
+			<em class="score_num">0.0</em>
+		
+		
+	
+	
+		
+		
+			<p class="price2 v2">
+				
+					<em class="">대여</em>
+					
+					<strong><span>무료</span></strong><br>
+					
+						
+						
+					
+				
+				
+			</p>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201111_264/1605057905518jz7KW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
 			
 			
-			프리키 데스데이]]></title>
-            <link>https://serieson.naver.com/v2/movie/413436</link>
-            <guid>https://serieson.naver.com/v2/movie/413436</guid>
-            <pubDate>Tue, 02 Nov 2021 15:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201105_64/1604563236779zb4rn_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+			마리아와 여인숙]]></title>
+            <link>https://serieson.naver.com/v2/movie/409714</link>
+            <guid>https://serieson.naver.com/v2/movie/409714</guid>
+            <pubDate>Wed, 03 Nov 2021 15:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/v2/movie/409714" class="NPI=a:content" title="마리아와 여인숙">
+		<span class="mask"></span>
+		
+			
+				
+				<em class="ico ico_free1">Free</em>
+				
+				
+				
+				
+				
+				
+			
+		
+		
+			
+			
+				
+				
+				<img src="https://movie-phinf.pstatic.net/20111222_242/1324560646798A8lKy_JPEG/movie_image.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+			
+		
+		<strong>
+			
+			<em class="ico_age n19">19</em>
+			
+			
+			마리아와 여인숙
+		</strong>
+	</a>
+	
+		
+		
+	
+	
+	
+		
+			<span class="score">
+				<span style="width:64%">평점</span>
+				
+			</span>
+			<em class="score_num">6.4</em>
+		
+		
+	
+	
+		
+		
+			<p class="price2 v2">
+				
+				
+                    <em class="">구매</em>
+                    
+                    <strong><span>무료</span></strong>
+					
+						
+						
+					
+				
+			</p>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_242/1324560646798A8lKy_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하우스 오브 데몬]]></title>
-            <link>https://serieson.naver.com/v2/movie/414476</link>
-            <guid>https://serieson.naver.com/v2/movie/414476</guid>
-            <pubDate>Tue, 02 Nov 2021 15:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201218_196/1608273286696wFzgy_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[뉴 뮤턴트 (부가영상+코멘터리..]]></title>
+            <link>https://serieson.naver.com/v2/movie/407398</link>
+            <guid>https://serieson.naver.com/v2/movie/407398</guid>
+            <pubDate>Wed, 03 Nov 2021 15:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span>5,005</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211026_21/16352317390423gHQD_JPEG/TheNewMutants_MediaPoster_KR_Main_20201105.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			2020년 우주의 원더키디]]></title>
+            <link>https://serieson.naver.com/v2/movie/407641</link>
+            <guid>https://serieson.naver.com/v2/movie/407641</guid>
+            <pubDate>Wed, 03 Nov 2021 15:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/v2/movie/407641" class="NPI=a:content" title="2020년 우주의 원더키디">
+		<span class="mask"></span>
+		
+			
+				
+				<em class="ico ico_free1">Free</em>
+				
+				
+				
+				
+				
+				
+			
+		
+		
+			
+			
+				
+				
+				<img src="https://movie-phinf.pstatic.net/20201028_121/1603866427685N5bPc_JPEG/movie_image.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+			
+		
+		<strong>
+			
+			
+			
+			<em class="mv_tv_ico lst_dub">더빙</em>
+			2020년 우주의 원더키디
+		</strong>
+	</a>
+	
+		
+		
+	
+	
+	
+		
+			<span class="score">
+				<span style="width:84%">평점</span>
+				
+			</span>
+			<em class="score_num">8.4</em>
+		
+		
+	
+	
+		
+		
+			<p class="price2 v2">
+				
+					<em class="">대여</em>
+					
+					<strong><span>무료</span></strong><br>
+					
+						
+						
+					
+				
+				
+			</p>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201028_121/1603866427685N5bPc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+			
+			
+			다만 악에서 구하소서 파이널컷..]]></title>
+            <link>https://serieson.naver.com/v2/movie/407576</link>
+            <guid>https://serieson.naver.com/v2/movie/407576</guid>
+            <pubDate>Wed, 03 Nov 2021 15:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,925</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201014_127/1602651162137fUW1W_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+			
+			
+			다만 악에서 구하소서 파이널컷..]]></title>
+            <link>https://serieson.naver.com/v2/movie/407575</link>
+            <guid>https://serieson.naver.com/v2/movie/407575</guid>
+            <pubDate>Wed, 03 Nov 2021 15:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span>5,005</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201014_127/1602651162137fUW1W_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말괄량이 빈티와 오카피클럽]]></title>
+            <link>https://serieson.naver.com/v2/movie/407015</link>
+            <guid>https://serieson.naver.com/v2/movie/407015</guid>
+            <pubDate>Wed, 03 Nov 2021 15:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/v2/movie/407015" class="NPI=a:content" title="말괄량이 빈티와 오카피클럽 ">
+		<span class="mask"></span>
+		
+			
+				
+				<em class="ico ico_free1">Free</em>
+				
+				
+				
+				
+				
+				
+			
+		
+		
+			
+			
+				
+				
+				<img src="https://tvstore-phinf.pstatic.net/20201208_189/1607421612903vTzN7_JPEG/_poster_final.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+			
+		
+		<strong>
+			
+			
+			
+			
+			말괄량이 빈티와 오카피클럽 
+		</strong>
+	</a>
+	
+		
+		
+	
+	
+	
+		
+			<span class="score">
+				<span style="width:0%">평점</span>
+				
+			</span>
+			<em class="score_num">0.0</em>
+		
+		
+	
+	
+		
+		
+			<p class="price2 v2">
+				
+					<em class="">대여</em>
+					
+					<strong><span>무료</span></strong><br>
+					
+						
+						
+					
+				
+				
+			</p>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20201208_189/1607421612903vTzN7_JPEG/_poster_final.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소리도 없이]]></title>
+            <link>https://serieson.naver.com/v2/movie/406070</link>
+            <guid>https://serieson.naver.com/v2/movie/406070</guid>
+            <pubDate>Wed, 03 Nov 2021 15:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span>5,005</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201015_2/1602724155859rmaMc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
