@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 15:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 16:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1100,7 +1100,7 @@
             <title><![CDATA[삼진그룹 영어토익반 (가치봄영.. ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/421083</link>
             <guid>https://serieson.naver.com/v2/movie/421083</guid>
-            <pubDate>Thu, 04 Nov 2021 15:16:42 GMT</pubDate>
+            <pubDate>Thu, 04 Nov 2021 15:16:35 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_209/1632481454658Rw4YU_PNG/ONPOSTER_1._.png?type=f102_138" length="0" type="image/png"/>
         </item>
