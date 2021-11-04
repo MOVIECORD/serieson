@@ -7,6 +7,7 @@ linkSelector = "a"
 imageSelector = "a img"
 contentSelector = "span.freemovie_deadline"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [sale]
 title = "[시리즈온] 할인 영화관"
@@ -17,6 +18,7 @@ linkSelector = "a"
 imageSelector = "a img"
 contentSelector = "strong.payment"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [sale1000]
 title = "[시리즈온] 천원관"
@@ -27,6 +29,7 @@ linkSelector = "a"
 imageSelector = "a img"
 contentSelector = "p.price2.v2 em"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [barrierfree]
 title = "[시리즈온] 가치봄 영화관"
@@ -37,6 +40,7 @@ linkSelector = "a"
 imageSelector = "a img"
 contentSelector = "p.price2.v2"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [event]
 title = "[시리즈온] 이벤트"
@@ -45,6 +49,7 @@ entrySelector = "ul li.event:not(:first-child)"
 titleSelector = "a"
 linkSelector = "a"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [m_free]
 title = "모바일 네이버 시리즈온 ─ 무료"
@@ -55,6 +60,7 @@ linkSelector = "a.lst_link"
 contentSelector = "span.freemv_deadline"
 imageSelector = "img.img4"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [m_barrierfree]
 title = "모바일 네이버 시리즈온 ─ 가치봄 영화관"
@@ -65,3 +71,4 @@ linkSelector = "a"
 contentSelector = "dl.price.pd_lft.cash_price"
 imageSelector = "img.img4"
 waitUntil = "networkidle"
+onFail = "stale"
