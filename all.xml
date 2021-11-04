@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 11:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 12:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1337,6 +1337,13 @@
             <guid>https://serieson.naver.com/events/13570?productType=movie</guid>
             <pubDate>Tue, 26 Oct 2021 09:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13570?productType=movie" class=" NPI=a:list">놓치기 아까운 다양성 영화 2천 캐시 혜택과 만나자! 시리즈온 X 경기인디시네마</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[📌100캐시로 5천 캐시 영화 소장할 수 있는 기회! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13632?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13632?productType=movie</guid>
+            <pubDate>Thu, 04 Nov 2021 12:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13632?productType=movie" class=" NPI=a:list">📌100캐시로 5천 캐시 영화 소장할 수 있는 기회!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[11월 우수이용자! 놓치지 말고 확인! ([시리즈온] 이벤트)]]></title>
