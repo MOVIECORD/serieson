@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 18:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 18:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1612,6 +1612,150 @@
             <guid>https://serieson.naver.com/events/13192?productType=movie</guid>
             <pubDate>Tue, 26 Oct 2021 09:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13192?productType=movie" class=" NPI=a:list">이번주 가격인하작, 시리즈온에서 확인!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+									
+										극장판 도라에몽: 진구의 보물섬 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/244515</link>
+            <guid>https://m.serieson.naver.com/v2/movie/244515</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180801_60/1533089003342RpL4m_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자
+										우주형제#0 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/376261</link>
+            <guid>https://m.serieson.naver.com/v2/movie/376261</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150420_147/1429493543353LHeKg_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네 얼간이와 장례식 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/247896</link>
+            <guid>https://m.serieson.naver.com/v2/movie/247896</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180907_249/1536288527524TEnEX_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 차버린 스파이 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/246261</link>
+            <guid>https://m.serieson.naver.com/v2/movie/246261</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180809_300/1533777494802DpYwf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19금
+											
+										
+									
+									
+									
+										헛소동 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/167884</link>
+            <guid>https://m.serieson.naver.com/v2/movie/167884</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20161228_252/14829029568367pgQS_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경심파 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/200962</link>
+            <guid>https://m.serieson.naver.com/v2/movie/200962</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170831_115/15041456577393MHsw_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[600 마일 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/165512</link>
+            <guid>https://m.serieson.naver.com/v2/movie/165512</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20151203_296/1449129718891zFA9Y_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[풍운대전 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/212098</link>
+            <guid>https://m.serieson.naver.com/v2/movie/212098</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171107_233/151002021202009rtP_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[택시 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/389620</link>
+            <guid>https://m.serieson.naver.com/v2/movie/389620</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 11일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200713_293/1594615603293IWsf9_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남자사용설명서 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/34284</link>
+            <guid>https://m.serieson.naver.com/v2/movie/34284</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 11일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130123_284/1358905469179psIMC_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자
+										드래곤볼 슈퍼: 브로리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/269806</link>
+            <guid>https://m.serieson.naver.com/v2/movie/269806</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 11일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190123_250/1548209985442yC6DG_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보르도 우정여행 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/381308</link>
+            <guid>https://m.serieson.naver.com/v2/movie/381308</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200609_56/1591678445936D1sPk_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러브, 로지 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/337255</link>
+            <guid>https://m.serieson.naver.com/v2/movie/337255</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20141111_237/14156857944313VYKS_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19금
+											
+										
+									
+									
+									
+										마법의 성 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/341471</link>
+            <guid>https://m.serieson.naver.com/v2/movie/341471</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 11일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_46/1324554683596XsTGj_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싸커 퀸즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/375275</link>
+            <guid>https://m.serieson.naver.com/v2/movie/375275</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200511_107/15891731183916iCmB_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딜리셔스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/110529</link>
+            <guid>https://m.serieson.naver.com/v2/movie/110529</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20151116_293/144763854429253zj8_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강철비2: 정상회담 (가치봄영화:시청각장애인용)
