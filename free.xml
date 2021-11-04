@@ -4,9 +4,44 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 14:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 15:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더빙
+											극장판 도라에몽: 진구의 보물섬]]></title>
+            <link>https://serieson.naver.com/v2/movie/244515</link>
+            <guid>https://serieson.naver.com/v2/movie/244515</guid>
+            <pubDate>Thu, 04 Nov 2021 15:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180801_60/1533089003342RpL4m_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+										
+											우주형제#0]]></title>
+            <link>https://serieson.naver.com/v2/movie/376261</link>
+            <guid>https://serieson.naver.com/v2/movie/376261</guid>
+            <pubDate>Thu, 04 Nov 2021 15:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150420_147/1429493543353LHeKg_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네 얼간이와 장례식]]></title>
+            <link>https://serieson.naver.com/v2/movie/247896</link>
+            <guid>https://serieson.naver.com/v2/movie/247896</guid>
+            <pubDate>Thu, 04 Nov 2021 15:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180907_249/1536288527524TEnEX_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 차버린 스파이]]></title>
+            <link>https://serieson.naver.com/v2/movie/246261</link>
+            <guid>https://serieson.naver.com/v2/movie/246261</guid>
+            <pubDate>Thu, 04 Nov 2021 15:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180809_300/1533777494802DpYwf_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[19
 										
@@ -116,50 +151,6 @@
             <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
             <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20151116_293/144763854429253zj8_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											음란서생]]></title>
-            <link>https://serieson.naver.com/v2/movie/161124</link>
-            <guid>https://serieson.naver.com/v2/movie/161124</guid>
-            <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[11월 4일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_181/13245700678482pB2N_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콜리니 케이스]]></title>
-            <link>https://serieson.naver.com/v2/movie/389622</link>
-            <guid>https://serieson.naver.com/v2/movie/389622</guid>
-            <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[11월 4일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200716_227/1594861049948i6y2x_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파 프롬 헤븐]]></title>
-            <link>https://serieson.naver.com/v2/movie/389621</link>
-            <guid>https://serieson.naver.com/v2/movie/389621</guid>
-            <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[11월 4일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200713_61/15946157160045eY5o_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											마리아와 여인숙]]></title>
-            <link>https://serieson.naver.com/v2/movie/409714</link>
-            <guid>https://serieson.naver.com/v2/movie/409714</guid>
-            <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[11월 4일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_242/1324560646798A8lKy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
