@@ -45,3 +45,13 @@ entrySelector = "ul li.event:not(:first-child)"
 titleSelector = "a"
 linkSelector = "a"
 waitUntil = "networkidle"
+
+[m_serieson_barrierfree]
+title = "모바일 네이버 시리즈온 ─ 가치봄 영화관"
+url = "https://m.serieson.naver.com/movie/categories/300009?tagCode=200000"
+entrySelector = "ul li.lst"
+titleSelector = "h5.tit"
+linkSelector = "a"
+contentSelector = "dl.price.pd_lft.cash_price"
+imageSelector = "img.img4"
+waitUntil = "networkidle"
