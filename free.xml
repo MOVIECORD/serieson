@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 14:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 15:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -107,22 +107,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20190123_250/1548209985442yC6DG_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보르도 우정여행]]></title>
-            <link>https://serieson.naver.com/v2/movie/381308</link>
-            <guid>https://serieson.naver.com/v2/movie/381308</guid>
-            <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200609_56/1591678445936D1sPk_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러브, 로지]]></title>
-            <link>https://serieson.naver.com/v2/movie/337255</link>
-            <guid>https://serieson.naver.com/v2/movie/337255</guid>
-            <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20141111_237/14156857944313VYKS_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[19
 										
 											
@@ -137,20 +121,44 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111222_46/1324554683596XsTGj_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[싸커 퀸즈]]></title>
-            <link>https://serieson.naver.com/v2/movie/375275</link>
-            <guid>https://serieson.naver.com/v2/movie/375275</guid>
-            <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200511_107/15891731183916iCmB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <title><![CDATA[50/50]]></title>
+            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
+            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
+            <pubDate>Fri, 05 Nov 2021 15:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[딜리셔스]]></title>
-            <link>https://serieson.naver.com/v2/movie/110529</link>
-            <guid>https://serieson.naver.com/v2/movie/110529</guid>
-            <pubDate>Tue, 26 Oct 2021 08:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20151116_293/144763854429253zj8_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <title><![CDATA[스테이션 7]]></title>
+            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
+            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
+            <pubDate>Fri, 05 Nov 2021 15:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											우리는 같은 꿈을 꾼다]]></title>
+            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
+            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
+            <pubDate>Fri, 05 Nov 2021 15:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											좋은 친구들]]></title>
+            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
+            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
+            <pubDate>Fri, 05 Nov 2021 15:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
     </channel>
 </rss>
