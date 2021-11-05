@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 01:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 02:34:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,9 +162,9 @@
 		
 			
 				
-				<em class="ico ico_free1">Free</em>
 				
 				
+				<em class="ico ico_event">Event</em>
 				
 				
 				
@@ -229,9 +229,9 @@
 		
 			
 				
-				<em class="ico ico_free1">Free</em>
 				
 				
+				<em class="ico ico_event">Event</em>
 				
 				
 				
@@ -297,9 +297,9 @@
 		
 			
 				
-				<em class="ico ico_free1">Free</em>
 				
 				
+				<em class="ico ico_event">Event</em>
 				
 				
 				
@@ -365,9 +365,9 @@
 		
 			
 				
-				<em class="ico ico_free1">Free</em>
 				
 				
+				<em class="ico ico_event">Event</em>
 				
 				
 				
@@ -502,9 +502,9 @@
 		
 			
 				
-				<em class="ico ico_free1">Free</em>
 				
 				
+				<em class="ico ico_event">Event</em>
 				
 				
 				
@@ -569,9 +569,9 @@
 		
 			
 				
-				<em class="ico ico_free1">Free</em>
 				
 				
+				<em class="ico ico_event">Event</em>
 				
 				
 				
@@ -772,9 +772,9 @@
 		
 			
 				
-				<em class="ico ico_free1">Free</em>
 				
 				
+				<em class="ico ico_event">Event</em>
 				
 				
 				
@@ -946,9 +946,9 @@
 		
 			
 				
-				<em class="ico ico_free1">Free</em>
 				
 				
+				<em class="ico ico_event">Event</em>
 				
 				
 				
@@ -1563,6 +1563,13 @@
             <guid>https://serieson.naver.com/events/13620?productType=movie</guid>
             <pubDate>Wed, 27 Oct 2021 15:16:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13620?productType=movie" class=" NPI=a:list">👔프리시티 입주 지원! '프리가이' 특별 MD 이벤트 OPEN!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💚Barrier Free! 가치봄 무료 영화관 오픈! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13633?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13633?productType=movie</guid>
+            <pubDate>Fri, 05 Nov 2021 02:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13633?productType=movie" class=" NPI=a:list">💚Barrier Free! 가치봄 무료 영화관 오픈!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✅ 무료영화 보는 꿀팁 안내 ([시리즈온] 이벤트)]]></title>

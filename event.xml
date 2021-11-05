@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-11-05T01:59:51.439Z</updated>
+    <updated>2021-11-05T02:34:02.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://serieson.naver.com/events/13620?productType=movie"/>
         <updated>2021-10-27T15:16:51.824Z</updated>
         <content type="html"><![CDATA[<a href="/events/13620?productType=movie" class=" NPI=a:list">👔프리시티 입주 지원! '프리가이' 특별 MD 이벤트 OPEN!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💚Barrier Free! 가치봄 무료 영화관 오픈!]]></title>
+        <id>https://serieson.naver.com/events/13633?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13633?productType=movie"/>
+        <updated>2021-11-05T02:33:46.836Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13633?productType=movie" class=" NPI=a:list">💚Barrier Free! 가치봄 무료 영화관 오픈!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅ 무료영화 보는 꿀팁 안내]]></title>
