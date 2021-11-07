@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 04:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 05:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,14 +124,14 @@
             <title><![CDATA[50/50 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 07 Nov 2021 04:19:38 GMT</pubDate>
+            <pubDate>Sun, 07 Nov 2021 05:13:55 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스테이션 7 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 07 Nov 2021 04:19:38 GMT</pubDate>
+            <pubDate>Sun, 07 Nov 2021 05:13:55 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -144,7 +144,7 @@
 											우리는 같은 꿈을 꾼다 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 07 Nov 2021 04:19:38 GMT</pubDate>
+            <pubDate>Sun, 07 Nov 2021 05:13:55 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -157,7 +157,7 @@
 											좋은 친구들 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 07 Nov 2021 04:19:38 GMT</pubDate>
+            <pubDate>Sun, 07 Nov 2021 05:13:55 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -1744,7 +1744,7 @@
             <title><![CDATA[50/50 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 07 Nov 2021 04:20:21 GMT</pubDate>
+            <pubDate>Sun, 07 Nov 2021 05:14:36 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111224_254/1324653849564abV2E_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1752,7 +1752,7 @@
             <title><![CDATA[스테이션 7 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 07 Nov 2021 04:20:21 GMT</pubDate>
+            <pubDate>Sun, 07 Nov 2021 05:14:36 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20171123_194/1511417612510xxD5j_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1766,7 +1766,7 @@
 								우리는 같은 꿈을 꾼다 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 07 Nov 2021 04:20:21 GMT</pubDate>
+            <pubDate>Sun, 07 Nov 2021 05:14:36 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20171106_242/1509929923266WYgQf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1780,7 +1780,7 @@
 								좋은 친구들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 07 Nov 2021 04:20:21 GMT</pubDate>
+            <pubDate>Sun, 07 Nov 2021 05:14:36 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140611_159/1402452805012Hq1O9_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
