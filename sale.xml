@@ -4,9 +4,20 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 14:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 15:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[19
+			
+			
+			야쿠자의 아내들: 결착 (세트:..]]></title>
+            <link>https://serieson.naver.com/v2/movie/470762</link>
+            <guid>https://serieson.naver.com/v2/movie/470762</guid>
+            <pubDate>Sun, 07 Nov 2021 15:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>16,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211103_255/163590997225821GVt_JPEG/POSTER_--10.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강철비2: 정상회담 (가치봄영화..]]></title>
             <link>https://serieson.naver.com/v2/movie/468983</link>
@@ -857,75 +868,6 @@
 				
 			</p>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_209/1632481454658Rw4YU_PNG/ONPOSTER_1._.png?type=f102_138" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-			
-			프릿지 이야기]]></title>
-            <link>https://serieson.naver.com/v2/movie/414845</link>
-            <guid>https://serieson.naver.com/v2/movie/414845</guid>
-            <pubDate>Sun, 31 Oct 2021 15:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/v2/movie/414845" class="NPI=a:content" title="프릿지 이야기 ">
-		<span class="mask"></span>
-		
-			
-				
-				<em class="ico ico_free1">Free</em>
-				
-				
-				
-				
-				
-				
-			
-		
-		
-			
-			
-				
-				
-				<img src="https://tvstore-phinf.pstatic.net/20201222_137/1608579835055dJgj5_JPEG/_%28%29.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
-			
-		
-		<strong>
-			
-			
-			<em class="mv_tv_ico lst_sbt">자막</em>
-			
-			프릿지 이야기 
-		</strong>
-	</a>
-	
-		
-		
-	
-	
-	
-		
-			<span class="score">
-				<span style="width:0%">평점</span>
-				
-			</span>
-			<em class="score_num">0.0</em>
-		
-		
-	
-	
-		
-		
-			<p class="price2 v2">
-				
-					<em class="">대여</em>
-					
-					<strong><span>무료</span></strong><br>
-					
-						
-						
-					
-				
-				
-			</p>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20201222_137/1608579835055dJgj5_JPEG/_%28%29.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
