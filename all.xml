@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 14:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 15:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -146,7 +146,7 @@
 											우리는 같은 꿈을 꾼다 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 14:14:38 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 15:16:38 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -159,7 +159,7 @@
 											좋은 친구들 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 14:14:38 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 15:16:38 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -942,22 +942,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210323_74/1616479973961hpih8_JPEG/___2_24_%28x%29.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[와일드 로즈 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/420510</link>
-            <guid>https://serieson.naver.com/v2/movie/420510</guid>
-            <pubDate>Tue, 26 Oct 2021 09:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span>980</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와일드 로즈 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/420511</link>
-            <guid>https://serieson.naver.com/v2/movie/420511</guid>
-            <pubDate>Thu, 28 Oct 2021 15:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,850</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[삼진그룹 영어토익반 (가치봄영.. ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/421083</link>
             <guid>https://serieson.naver.com/v2/movie/421083</guid>
@@ -1023,6 +1007,142 @@
 				
 			</p>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_209/1632481454658Rw4YU_PNG/ONPOSTER_1._.png?type=f102_138" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+			
+			프릿지 이야기 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/414845</link>
+            <guid>https://serieson.naver.com/v2/movie/414845</guid>
+            <pubDate>Mon, 08 Nov 2021 15:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/v2/movie/414845" class="NPI=a:content" title="프릿지 이야기 ">
+		<span class="mask"></span>
+		
+			
+				
+				<em class="ico ico_free1">Free</em>
+				
+				
+				
+				
+				
+				
+			
+		
+		
+			
+			
+				
+				
+				<img src="https://tvstore-phinf.pstatic.net/20201222_137/1608579835055dJgj5_JPEG/_%28%29.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+			
+		
+		<strong>
+			
+			
+			<em class="mv_tv_ico lst_sbt">자막</em>
+			
+			프릿지 이야기 
+		</strong>
+	</a>
+	
+		
+		
+	
+	
+	
+		
+			<span class="score">
+				<span style="width:0%">평점</span>
+				
+			</span>
+			<em class="score_num">0.0</em>
+		
+		
+	
+	
+		
+		
+			<p class="price2 v2">
+				
+					<em class="">대여</em>
+					
+					<strong><span>무료</span></strong><br>
+					
+						
+						
+					
+				
+				
+			</p>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20201222_137/1608579835055dJgj5_JPEG/_%28%29.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수네 vs 수네 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/412186</link>
+            <guid>https://serieson.naver.com/v2/movie/412186</guid>
+            <pubDate>Mon, 08 Nov 2021 15:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/v2/movie/412186" class="NPI=a:content" title="수네 vs 수네 ">
+		<span class="mask"></span>
+		
+			
+				
+				<em class="ico ico_free1">Free</em>
+				
+				
+				
+				
+				
+				
+			
+		
+		
+			
+			
+				
+				
+				<img src="https://tvstore-phinf.pstatic.net/20201209_232/1607492440135YCzlv_PNG/__Final.png?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+			
+		
+		<strong>
+			
+			
+			
+			
+			수네 vs 수네 
+		</strong>
+	</a>
+	
+		
+		
+	
+	
+	
+		
+			<span class="score">
+				<span style="width:0%">평점</span>
+				
+			</span>
+			<em class="score_num">0.0</em>
+		
+		
+	
+	
+		
+		
+			<p class="price2 v2">
+				
+					<em class="">대여</em>
+					
+					<strong><span>무료</span></strong><br>
+					
+						
+						
+					
+				
+				
+			</p>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20201209_232/1607492440135YCzlv_PNG/__Final.png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[빛나는 순간 (가치봄영화:시청.. ([시리즈온] 천원관)]]></title>
@@ -1224,6 +1344,24 @@
             <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모가디슈 (가치봄영화:시청각장.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/471601</link>
+            <guid>https://serieson.naver.com/v2/movie/471601</guid>
+            <pubDate>Mon, 08 Nov 2021 15:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211007_104/1633602962450ffpiv_JPEG/_mogadishu_pos_main_final.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모가디슈 (가치봄영화:시청각장.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/471602</link>
+            <guid>https://serieson.naver.com/v2/movie/471602</guid>
+            <pubDate>Mon, 08 Nov 2021 15:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>7,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211007_104/1633602962450ffpiv_JPEG/_mogadishu_pos_main_final.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강철비2: 정상회담 (가치봄영화.. ([시리즈온] 가치봄 영화관)]]></title>
@@ -1471,24 +1609,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200812_245/159719521887011fjF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시간을 달리는 소녀 (가치봄영.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/427384</link>
-            <guid>https://serieson.naver.com/v2/movie/427384</guid>
-            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181109_63/1541748837768AtSVU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라진 시간 (가치봄영화:시청.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/426819</link>
-            <guid>https://serieson.naver.com/v2/movie/426819</guid>
-            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,540</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200623_227/1592879195885hUQFd_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/13630?productType=movie</link>
             <guid>https://serieson.naver.com/events/13630?productType=movie</guid>
@@ -1536,13 +1656,6 @@
             <guid>https://serieson.naver.com/events/13621?productType=movie</guid>
             <pubDate>Tue, 26 Oct 2021 09:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13621?productType=movie" class=" NPI=a:list">✅ 무료영화 보는 꿀팁 안내</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[💛가장 조용한 곳에서 들려온 희망의 노래 '코다' 가격인하 & 전용쿠폰 혜택 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13616?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13616?productType=movie</guid>
-            <pubDate>Tue, 26 Oct 2021 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13616?productType=movie" class=" NPI=a:list">💛가장 조용한 곳에서 들려온 희망의 노래 '코다' 가격인하 &amp; 전용쿠폰 혜택</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁! ([시리즈온] 이벤트)]]></title>
@@ -1717,7 +1830,7 @@
 								우리는 같은 꿈을 꾼다 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 14:15:23 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 15:17:19 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20171106_242/1509929923266WYgQf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1731,9 +1844,32 @@
 								좋은 친구들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 14:15:23 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 15:17:19 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140611_159/1402452805012Hq1O9_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모가디슈 (가치봄영화:시청각장애인용)
+                
+                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
+            <link>https://m.serieson.naver.com/movie/detail?productNo=6773037</link>
+            <guid>https://m.serieson.naver.com/movie/detail?productNo=6773037</guid>
+            <pubDate>Mon, 08 Nov 2021 15:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>구매</dt>
+                    <dd><span class="hel_bd">9,900</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211007_104/1633602962450ffpiv_JPEG/_mogadishu_pos_main_final.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모가디슈 (가치봄영화:시청각장애인용)
+                (대여) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
+            <link>https://m.serieson.naver.com/movie/detail?productNo=6773038</link>
+            <guid>https://m.serieson.naver.com/movie/detail?productNo=6773038</guid>
+            <pubDate>Mon, 08 Nov 2021 15:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>대여</dt>
+                    <dd><span class="hel_bd">7,000</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211007_104/1633602962450ffpiv_JPEG/_mogadishu_pos_main_final.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강철비2: 정상회담 (가치봄영화:시청각장애인용)
@@ -2018,28 +2154,6 @@
                     <dd><span class="hel_bd">2,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200812_245/159719521887011fjF_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간을 달리는 소녀 (가치봄영화:시청각장애인용 더빙판)
-                (대여) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
-            <link>https://m.serieson.naver.com/movie/detail?productNo=5975986</link>
-            <guid>https://m.serieson.naver.com/movie/detail?productNo=5975986</guid>
-            <pubDate>Thu, 04 Nov 2021 18:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">1,000</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181109_63/1541748837768AtSVU_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라진 시간 (가치봄영화:시청각장애인용)
-                (대여) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
-            <link>https://m.serieson.naver.com/movie/detail?productNo=5967183</link>
-            <guid>https://m.serieson.naver.com/movie/detail?productNo=5967183</guid>
-            <pubDate>Thu, 04 Nov 2021 18:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">1,540</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200623_227/1592879195885hUQFd_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

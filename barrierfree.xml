@@ -4,9 +4,27 @@
         <title>[시리즈온] 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 14:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 15:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모가디슈 (가치봄영화:시청각장..]]></title>
+            <link>https://serieson.naver.com/v2/movie/471601</link>
+            <guid>https://serieson.naver.com/v2/movie/471601</guid>
+            <pubDate>Mon, 08 Nov 2021 15:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211007_104/1633602962450ffpiv_JPEG/_mogadishu_pos_main_final.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모가디슈 (가치봄영화:시청각장..]]></title>
+            <link>https://serieson.naver.com/v2/movie/471602</link>
+            <guid>https://serieson.naver.com/v2/movie/471602</guid>
+            <pubDate>Mon, 08 Nov 2021 15:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>7,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211007_104/1633602962450ffpiv_JPEG/_mogadishu_pos_main_final.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강철비2: 정상회담 (가치봄영화..]]></title>
             <link>https://serieson.naver.com/v2/movie/468983</link>
@@ -251,24 +269,6 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200812_245/159719521887011fjF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간을 달리는 소녀 (가치봄영..]]></title>
-            <link>https://serieson.naver.com/v2/movie/427384</link>
-            <guid>https://serieson.naver.com/v2/movie/427384</guid>
-            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181109_63/1541748837768AtSVU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라진 시간 (가치봄영화:시청..]]></title>
-            <link>https://serieson.naver.com/v2/movie/426819</link>
-            <guid>https://serieson.naver.com/v2/movie/426819</guid>
-            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,540</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200623_227/1592879195885hUQFd_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
