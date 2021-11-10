@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 14:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 15:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -731,14 +731,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙 위도우 (패키지: 자막판+..]]></title>
-            <link>https://serieson.naver.com/v2/movie/454587</link>
-            <guid>https://serieson.naver.com/v2/movie/454587</guid>
-            <pubDate>Wed, 27 Oct 2021 15:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>7,630</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210803_284/1627979114724m2U3a_JPEG/MARVEL_BlackWidow_MediaPoster_A.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[콰이어트 플레이스 2 (세트: 1..]]></title>
             <link>https://serieson.naver.com/v2/movie/449519</link>
             <guid>https://serieson.naver.com/v2/movie/449519</guid>
@@ -988,6 +980,74 @@
 				
 			</p>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20201209_232/1607492440135YCzlv_PNG/__Final.png?type=f102_138" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			레고 쥬라기 월드 : 비밀..]]></title>
+            <link>https://serieson.naver.com/v2/movie/410747</link>
+            <guid>https://serieson.naver.com/v2/movie/410747</guid>
+            <pubDate>Wed, 10 Nov 2021 15:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/v2/movie/410747" class="NPI=a:content" title="레고 쥬라기 월드 : 비밀 전시회 ">
+		<span class="mask"></span>
+		
+			
+				
+				<em class="ico ico_free1">Free</em>
+				
+				
+				
+				
+				
+				
+			
+		
+		
+			
+			
+				
+				
+				<img src="https://movie-phinf.pstatic.net/20201111_264/1605057905518jz7KW_JPEG/movie_image.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+			
+		
+		<strong>
+			
+			
+			
+			<em class="mv_tv_ico lst_dub">더빙</em>
+			레고 쥬라기 월드 : 비밀..
+		</strong>
+	</a>
+	
+		
+		
+	
+	
+	
+		
+			<span class="score">
+				<span style="width:0%">평점</span>
+				
+			</span>
+			<em class="score_num">0.0</em>
+		
+		
+	
+	
+		
+		
+			<p class="price2 v2">
+				
+					<em class="">대여</em>
+					
+					<strong><span>무료</span></strong><br>
+					
+						
+						
+					
+				
+				
+			</p>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201111_264/1605057905518jz7KW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
