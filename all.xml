@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 05:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 06:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -146,7 +146,7 @@
 											우리는 같은 꿈을 꾼다 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 10 Nov 2021 05:13:27 GMT</pubDate>
+            <pubDate>Wed, 10 Nov 2021 06:18:27 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -159,7 +159,7 @@
 											좋은 친구들 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 10 Nov 2021 05:13:27 GMT</pubDate>
+            <pubDate>Wed, 10 Nov 2021 06:18:27 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -1609,13 +1609,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200812_245/159719521887011fjF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13630?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13630?productType=movie</guid>
-            <pubDate>Wed, 03 Nov 2021 15:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13630?productType=movie" class=" NPI=a:list">📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥!</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/13639?productType=movie</link>
             <guid>https://serieson.naver.com/events/13639?productType=movie</guid>
@@ -1623,18 +1616,25 @@
             <content:encoded><![CDATA[<a href="/events/13639?productType=movie" class=" NPI=a:list">🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라! </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[👻찐 러버만 초대합니다! '고스트 버스터즈 라이즈' 팬 시사회 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13636?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13636?productType=movie</guid>
-            <pubDate>Mon, 08 Nov 2021 06:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13636?productType=movie" class=" NPI=a:list">👻찐 러버만 초대합니다! '고스트 버스터즈 라이즈' 팬 시사회</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[💙미나리를 잇는 뜨거운 울림! '푸른 호수'는 전용 쿠폰과 함께 ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/13638?productType=movie</link>
             <guid>https://serieson.naver.com/events/13638?productType=movie</guid>
             <pubDate>Tue, 09 Nov 2021 15:16:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13638?productType=movie" class=" NPI=a:list">💙미나리를 잇는 뜨거운 울림! '푸른 호수'는 전용 쿠폰과 함께 </a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13630?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13630?productType=movie</guid>
+            <pubDate>Wed, 03 Nov 2021 15:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13630?productType=movie" class=" NPI=a:list">📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[👻찐 러버만 초대합니다! '고스트 버스터즈 라이즈' 팬 시사회 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13636?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13636?productType=movie</guid>
+            <pubDate>Mon, 08 Nov 2021 06:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13636?productType=movie" class=" NPI=a:list">👻찐 러버만 초대합니다! '고스트 버스터즈 라이즈' 팬 시사회</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[⚡️이터널스 극장에 보러 가기 전! MCU 세계관 벼락치기 ([시리즈온] 이벤트)]]></title>
@@ -1837,7 +1837,7 @@
 								우리는 같은 꿈을 꾼다 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 10 Nov 2021 05:14:05 GMT</pubDate>
+            <pubDate>Wed, 10 Nov 2021 06:19:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20171106_242/1509929923266WYgQf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1851,7 +1851,7 @@
 								좋은 친구들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 10 Nov 2021 05:14:05 GMT</pubDate>
+            <pubDate>Wed, 10 Nov 2021 06:19:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140611_159/1402452805012Hq1O9_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>

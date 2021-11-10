@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-11-10T05:14:13.887Z</updated>
+    <updated>2021-11-10T06:19:18.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥!]]></title>
-        <id>https://serieson.naver.com/events/13630?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13630?productType=movie"/>
-        <updated>2021-11-03T15:17:03.888Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13630?productType=movie" class=" NPI=a:list">📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥!</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라!]]></title>
         <id>https://serieson.naver.com/events/13639?productType=movie</id>
@@ -20,18 +13,25 @@
         <content type="html"><![CDATA[<a href="/events/13639?productType=movie" class=" NPI=a:list">🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라! </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👻찐 러버만 초대합니다! '고스트 버스터즈 라이즈' 팬 시사회]]></title>
-        <id>https://serieson.naver.com/events/13636?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13636?productType=movie"/>
-        <updated>2021-11-08T06:19:42.049Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13636?productType=movie" class=" NPI=a:list">👻찐 러버만 초대합니다! '고스트 버스터즈 라이즈' 팬 시사회</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[💙미나리를 잇는 뜨거운 울림! '푸른 호수'는 전용 쿠폰과 함께]]></title>
         <id>https://serieson.naver.com/events/13638?productType=movie</id>
         <link href="https://serieson.naver.com/events/13638?productType=movie"/>
         <updated>2021-11-09T15:16:46.423Z</updated>
         <content type="html"><![CDATA[<a href="/events/13638?productType=movie" class=" NPI=a:list">💙미나리를 잇는 뜨거운 울림! '푸른 호수'는 전용 쿠폰과 함께 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥!]]></title>
+        <id>https://serieson.naver.com/events/13630?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13630?productType=movie"/>
+        <updated>2021-11-03T15:17:03.888Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13630?productType=movie" class=" NPI=a:list">📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👻찐 러버만 초대합니다! '고스트 버스터즈 라이즈' 팬 시사회]]></title>
+        <id>https://serieson.naver.com/events/13636?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13636?productType=movie"/>
+        <updated>2021-11-08T06:19:42.049Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13636?productType=movie" class=" NPI=a:list">👻찐 러버만 초대합니다! '고스트 버스터즈 라이즈' 팬 시사회</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[⚡️이터널스 극장에 보러 가기 전! MCU 세계관 벼락치기]]></title>
