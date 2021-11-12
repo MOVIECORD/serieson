@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 15:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 16:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1051,7 +1051,7 @@
             <title><![CDATA[국도극장 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/419599</link>
             <guid>https://serieson.naver.com/v2/movie/419599</guid>
-            <pubDate>Fri, 12 Nov 2021 15:16:57 GMT</pubDate>
+            <pubDate>Fri, 12 Nov 2021 15:16:39 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200526_172/1590480126993aPfB9_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
