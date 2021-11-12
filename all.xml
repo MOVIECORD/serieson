@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 14:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 15:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가대표(완결판) ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/390737</link>
+            <guid>https://serieson.naver.com/v2/movie/390737</guid>
+            <pubDate>Fri, 12 Nov 2021 15:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20120103_32/1325584763019wyepw_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국도극장 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/419599</link>
+            <guid>https://serieson.naver.com/v2/movie/419599</guid>
+            <pubDate>Fri, 12 Nov 2021 15:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200526_172/1590480126993aPfB9_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킹스 스피치 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/374457</link>
+            <guid>https://serieson.naver.com/v2/movie/374457</guid>
+            <pubDate>Fri, 12 Nov 2021 15:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_101/1324632551480Ysz2q_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파파로티 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/36990</link>
+            <guid>https://serieson.naver.com/v2/movie/36990</guid>
+            <pubDate>Fri, 12 Nov 2021 15:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130228_105/1362026575599uE2wA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[19
 										
@@ -117,44 +149,6 @@
             <pubDate>Thu, 04 Nov 2021 15:16:26 GMT</pubDate>
             <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180809_300/1533777494802DpYwf_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											헛소동 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/167884</link>
-            <guid>https://serieson.naver.com/v2/movie/167884</guid>
-            <pubDate>Fri, 29 Oct 2021 15:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20161228_252/14829029568367pgQS_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경심파 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/200962</link>
-            <guid>https://serieson.naver.com/v2/movie/200962</guid>
-            <pubDate>Fri, 29 Oct 2021 15:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170831_115/15041456577393MHsw_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[600 마일 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/165512</link>
-            <guid>https://serieson.naver.com/v2/movie/165512</guid>
-            <pubDate>Fri, 29 Oct 2021 15:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20151203_296/1449129718891zFA9Y_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍운대전 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/212098</link>
-            <guid>https://serieson.naver.com/v2/movie/212098</guid>
-            <pubDate>Fri, 29 Oct 2021 15:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171107_233/151002021202009rtP_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -1054,6 +1048,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200522_230/1590125376715JeW0r_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국도극장 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/419599</link>
+            <guid>https://serieson.naver.com/v2/movie/419599</guid>
+            <pubDate>Fri, 12 Nov 2021 15:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200526_172/1590480126993aPfB9_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카페 벨에포크 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/374978</link>
             <guid>https://serieson.naver.com/v2/movie/374978</guid>
@@ -1156,15 +1158,6 @@
             <pubDate>Tue, 26 Oct 2021 09:15:50 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190930_289/1569807701952m4QR2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-			날씨의 아이 (가치봄영화.. ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/468819</link>
-            <guid>https://serieson.naver.com/v2/movie/468819</guid>
-            <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모가디슈 (가치봄영화:시청각장.. ([시리즈온] 가치봄 영화관)]]></title>
@@ -1514,6 +1507,38 @@
             <content:encoded><![CDATA[<a href="/events/13192?productType=movie" class=" NPI=a:list">이번주 가격인하작, 시리즈온에서 확인!</a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국가대표(완결판) (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/390737</link>
+            <guid>https://m.serieson.naver.com/v2/movie/390737</guid>
+            <pubDate>Fri, 12 Nov 2021 15:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20120103_32/1325584763019wyepw_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국도극장 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/419599</link>
+            <guid>https://m.serieson.naver.com/v2/movie/419599</guid>
+            <pubDate>Fri, 12 Nov 2021 15:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200526_172/1590480126993aPfB9_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킹스 스피치 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/374457</link>
+            <guid>https://m.serieson.naver.com/v2/movie/374457</guid>
+            <pubDate>Fri, 12 Nov 2021 15:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_101/1324632551480Ysz2q_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파파로티 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/36990</link>
+            <guid>https://m.serieson.naver.com/v2/movie/36990</guid>
+            <pubDate>Fri, 12 Nov 2021 15:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130228_105/1362026575599uE2wA_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[19금
 											
 										
@@ -1623,44 +1648,6 @@
             <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
             <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180809_300/1533777494802DpYwf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19금
-											
-										
-									
-									
-									
-										헛소동 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/167884</link>
-            <guid>https://m.serieson.naver.com/v2/movie/167884</guid>
-            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20161228_252/14829029568367pgQS_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경심파 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/200962</link>
-            <guid>https://m.serieson.naver.com/v2/movie/200962</guid>
-            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170831_115/15041456577393MHsw_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[600 마일 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/165512</link>
-            <guid>https://m.serieson.naver.com/v2/movie/165512</guid>
-            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20151203_296/1449129718891zFA9Y_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍운대전 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/212098</link>
-            <guid>https://m.serieson.naver.com/v2/movie/212098</guid>
-            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171107_233/151002021202009rtP_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모가디슈 (가치봄영화:시청각장애인용)
