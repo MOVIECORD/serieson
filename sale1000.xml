@@ -4,25 +4,9 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[빛나는 순간 (가치봄영화:시청..]]></title>
-            <link>https://serieson.naver.com/v2/movie/468984</link>
-            <guid>https://serieson.naver.com/v2/movie/468984</guid>
-            <pubDate>Thu, 04 Nov 2021 15:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210630_227/1625035301941FCenY_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이 (가치봄영화:시청각장애인..]]></title>
-            <link>https://serieson.naver.com/v2/movie/468575</link>
-            <guid>https://serieson.naver.com/v2/movie/468575</guid>
-            <pubDate>Thu, 04 Nov 2021 15:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_31/1632481266455FBBUT_PNG/ONPOSTER_3..png?type=f102_138" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[종이꽃]]></title>
             <link>https://serieson.naver.com/v2/movie/407120</link>
@@ -30,14 +14,6 @@
             <pubDate>Tue, 26 Oct 2021 09:15:50 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200922_187/1600766020751jJdur_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼진그룹 영어토익반 (가치봄영..]]></title>
-            <link>https://serieson.naver.com/v2/movie/421083</link>
-            <guid>https://serieson.naver.com/v2/movie/421083</guid>
-            <pubDate>Thu, 04 Nov 2021 15:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_209/1632481454658Rw4YU_PNG/ONPOSTER_1._.png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[교실 안의 야크]]></title>
@@ -78,14 +54,6 @@
             <pubDate>Tue, 26 Oct 2021 09:15:50 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20200825_91/1598342584173UBqqV_JPEG/BD_MNPO_.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야구소녀 (가치봄영화:시청각장..]]></title>
-            <link>https://serieson.naver.com/v2/movie/396092</link>
-            <guid>https://serieson.naver.com/v2/movie/396092</guid>
-            <pubDate>Thu, 04 Nov 2021 15:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200525_18/15903972457946Q9Bc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너는 달밤에 빛나고]]></title>
@@ -206,6 +174,38 @@
             <pubDate>Tue, 26 Oct 2021 09:15:50 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190930_289/1569807701952m4QR2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시크릿 슈퍼스타]]></title>
+            <link>https://serieson.naver.com/v2/movie/329509</link>
+            <guid>https://serieson.naver.com/v2/movie/329509</guid>
+            <pubDate>Sun, 14 Nov 2021 15:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190927_8/1569550909963dbsdI_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메기]]></title>
+            <link>https://serieson.naver.com/v2/movie/327831</link>
+            <guid>https://serieson.naver.com/v2/movie/327831</guid>
+            <pubDate>Sun, 14 Nov 2021 15:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190903_89/1567472276429VUl4Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벌새]]></title>
+            <link>https://serieson.naver.com/v2/movie/329937</link>
+            <guid>https://serieson.naver.com/v2/movie/329937</guid>
+            <pubDate>Sun, 14 Nov 2021 15:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190805_121/1564969695835Iq9Qc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주전장]]></title>
+            <link>https://serieson.naver.com/v2/movie/392038</link>
+            <guid>https://serieson.naver.com/v2/movie/392038</guid>
+            <pubDate>Sun, 14 Nov 2021 15:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190712_279/1562912698606Qv0GH_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

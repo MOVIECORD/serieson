@@ -4,7 +4,7 @@
         <title>모바일 네이버 시리즈온 ─ 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,8 +38,8 @@
             <guid>https://m.serieson.naver.com/movie/detail?productNo=6716611</guid>
             <pubDate>Thu, 04 Nov 2021 18:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">무료</span>
-                        <span class="gray">(<span class="del">2,500</span><i class="spr_cash_img del_unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>,-100%)</span></dd>]]></content:encoded>
+                    <dd><span class="hel_bd">2,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200703_48/1593739617223iuD2b_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -50,8 +50,8 @@
             <guid>https://m.serieson.naver.com/movie/detail?productNo=6716612</guid>
             <pubDate>Thu, 04 Nov 2021 18:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">무료</span>
-                        <span class="gray">(<span class="del">5,000</span><i class="spr_cash_img del_unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>,-100%)</span></dd>]]></content:encoded>
+                    <dd><span class="hel_bd">5,000</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210630_227/1625035301941FCenY_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -66,8 +66,8 @@
             <guid>https://m.serieson.naver.com/movie/detail?productNo=6716613</guid>
             <pubDate>Thu, 04 Nov 2021 18:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">무료</span>
-                        <span class="gray">(<span class="del">1,200</span><i class="spr_cash_img del_unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>,-100%)</span></dd>]]></content:encoded>
+                    <dd><span class="hel_bd">1,200</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190830_290/1567128998572qg1Jl_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,8 +82,8 @@
             <guid>https://m.serieson.naver.com/movie/detail?productNo=6716028</guid>
             <pubDate>Thu, 04 Nov 2021 18:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">무료</span>
-                        <span class="gray">(<span class="del">1,400</span><i class="spr_cash_img del_unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>,-100%)</span></dd>]]></content:encoded>
+                    <dd><span class="hel_bd">1,400</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -121,8 +121,8 @@
             <guid>https://m.serieson.naver.com/movie/detail?productNo=6710469</guid>
             <pubDate>Thu, 04 Nov 2021 18:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">무료</span>
-                        <span class="gray">(<span class="del">1,200</span><i class="spr_cash_img del_unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>,-100%)</span></dd>]]></content:encoded>
+                    <dd><span class="hel_bd">1,200</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200211_156/1581402209718zyQ9B_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,8 +132,8 @@
             <guid>https://m.serieson.naver.com/movie/detail?productNo=6711569</guid>
             <pubDate>Thu, 04 Nov 2021 18:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">무료</span>
-                        <span class="gray">(<span class="del">1,200</span><i class="spr_cash_img del_unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>,-100%)</span></dd>]]></content:encoded>
+                    <dd><span class="hel_bd">1,200</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200916_163/16002324767974gUSf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -143,8 +143,8 @@
             <guid>https://m.serieson.naver.com/movie/detail?productNo=6711801</guid>
             <pubDate>Thu, 04 Nov 2021 18:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">무료</span>
-                        <span class="gray">(<span class="del">2,500</span><i class="spr_cash_img del_unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>,-100%)</span></dd>]]></content:encoded>
+                    <dd><span class="hel_bd">2,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_31/1632481266455FBBUT_PNG/ONPOSTER_3..png?type=f128_184" length="0" type="image/png"/>
         </item>
         <item>
@@ -178,8 +178,8 @@
             <guid>https://m.serieson.naver.com/movie/detail?productNo=6652944</guid>
             <pubDate>Thu, 04 Nov 2021 18:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">무료</span>
-                        <span class="gray">(<span class="del">2,500</span><i class="spr_cash_img del_unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>,-100%)</span></dd>]]></content:encoded>
+                    <dd><span class="hel_bd">2,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201015_119/1602736778585gExQ2_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>

@@ -4,7 +4,7 @@
         <title>[시리즈온] 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,11 +31,7 @@
             <guid>https://serieson.naver.com/v2/movie/468983</guid>
             <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">구매</em>
-                    
-                    <strong><span>무료</span></strong>
-					
-						
-						<del><span>2,500<i class="spr_cash_img unit_del"><span class="blind">캐시에서 할인</span></i></span></del><br>]]></content:encoded>
+                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200703_48/1593739617223iuD2b_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,11 +40,7 @@
             <guid>https://serieson.naver.com/v2/movie/468984</guid>
             <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">구매</em>
-                    
-                    <strong><span>무료</span></strong>
-					
-						
-						<del><span>5,000<i class="spr_cash_img unit_del"><span class="blind">캐시에서 할인</span></i></span></del><br>]]></content:encoded>
+                    <strong class="payment"><span>5,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210630_227/1625035301941FCenY_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -58,11 +50,7 @@
             <guid>https://serieson.naver.com/v2/movie/468985</guid>
             <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">구매</em>
-                    
-                    <strong><span>무료</span></strong>
-					
-						
-						<del><span>1,200<i class="spr_cash_img unit_del"><span class="blind">캐시에서 할인</span></i></span></del><br>]]></content:encoded>
+                    <strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190830_290/1567128998572qg1Jl_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -72,11 +60,7 @@
             <guid>https://serieson.naver.com/v2/movie/468819</guid>
             <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">구매</em>
-                    
-                    <strong><span>무료</span></strong>
-					
-						
-						<del><span>1,400<i class="spr_cash_img unit_del"><span class="blind">캐시에서 할인</span></i></span></del><br>]]></content:encoded>
+                    <strong class="payment"><span>1,400</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -106,11 +90,7 @@
             <guid>https://serieson.naver.com/v2/movie/468539</guid>
             <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">구매</em>
-                    
-                    <strong><span>무료</span></strong>
-					
-						
-						<del><span>1,200<i class="spr_cash_img unit_del"><span class="blind">캐시에서 할인</span></i></span></del><br>]]></content:encoded>
+                    <strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200211_156/1581402209718zyQ9B_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -119,11 +99,7 @@
             <guid>https://serieson.naver.com/v2/movie/468546</guid>
             <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">대여</em>
-					
-					<strong><span>무료</span></strong><br>
-					
-						
-						<del><span>1,200<i class="spr_cash_img unit_del"><span class="blind">캐시에서 할인</span></i></span></del><br>]]></content:encoded>
+					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200916_163/16002324767974gUSf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,11 +108,7 @@
             <guid>https://serieson.naver.com/v2/movie/468575</guid>
             <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">대여</em>
-					
-					<strong><span>무료</span></strong><br>
-					
-						
-						<del><span>2,500<i class="spr_cash_img unit_del"><span class="blind">캐시에서 할인</span></i></span></del><br>]]></content:encoded>
+					<strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_31/1632481266455FBBUT_PNG/ONPOSTER_3..png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
@@ -163,11 +135,7 @@
             <guid>https://serieson.naver.com/v2/movie/465043</guid>
             <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">구매</em>
-                    
-                    <strong><span>무료</span></strong>
-					
-						
-						<del><span>2,500<i class="spr_cash_img unit_del"><span class="blind">캐시에서 할인</span></i></span></del><br>]]></content:encoded>
+                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201015_119/1602736778585gExQ2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
