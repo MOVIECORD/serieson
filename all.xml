@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 15:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 16:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -495,7 +495,7 @@
 			암모나이트 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/431846</link>
             <guid>https://serieson.naver.com/v2/movie/431846</guid>
-            <pubDate>Tue, 16 Nov 2021 15:17:27 GMT</pubDate>
+            <pubDate>Tue, 16 Nov 2021 15:17:18 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210223_152/16140611130096PApJ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
