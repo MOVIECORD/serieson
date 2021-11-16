@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 14:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 15:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,22 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[투게더 투게더]]></title>
+            <link>https://serieson.naver.com/v2/movie/450252</link>
+            <guid>https://serieson.naver.com/v2/movie/450252</guid>
+            <pubDate>Tue, 16 Nov 2021 15:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210709_14/16257995603188KaPS_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투게더 투게더]]></title>
+            <link>https://serieson.naver.com/v2/movie/450253</link>
+            <guid>https://serieson.naver.com/v2/movie/450253</guid>
+            <pubDate>Tue, 16 Nov 2021 15:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span>840</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210709_14/16257995603188KaPS_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[콰이어트 플레이스 2 (세트: 1..]]></title>
             <link>https://serieson.naver.com/v2/movie/449519</link>
             <guid>https://serieson.naver.com/v2/movie/449519</guid>
@@ -220,6 +236,28 @@
             <pubDate>Sun, 31 Oct 2021 15:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,925</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210513_172/1620886395509WfUlw_JPEG/__.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+			
+			
+			암모나이트]]></title>
+            <link>https://serieson.naver.com/v2/movie/431846</link>
+            <guid>https://serieson.naver.com/v2/movie/431846</guid>
+            <pubDate>Tue, 16 Nov 2021 15:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span>840</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210223_152/16140611130096PApJ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+			
+			
+			암모나이트]]></title>
+            <link>https://serieson.naver.com/v2/movie/431847</link>
+            <guid>https://serieson.naver.com/v2/movie/431847</guid>
+            <pubDate>Tue, 16 Nov 2021 15:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210223_152/16140611130096PApJ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중경삼림 (리마스터링)]]></title>
@@ -306,158 +344,6 @@
             <pubDate>Sun, 14 Nov 2021 15:15:49 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210111_41/1610333478672K6ihS_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화양연화 (리마스터링)]]></title>
-            <link>https://serieson.naver.com/v2/movie/422980</link>
-            <guid>https://serieson.naver.com/v2/movie/422980</guid>
-            <pubDate>Sun, 14 Nov 2021 15:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,550</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201028_19/1603867994616GALu9_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화양연화 (리마스터링)]]></title>
-            <link>https://serieson.naver.com/v2/movie/422981</link>
-            <guid>https://serieson.naver.com/v2/movie/422981</guid>
-            <pubDate>Sun, 14 Nov 2021 15:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201028_19/1603867994616GALu9_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국도극장]]></title>
-            <link>https://serieson.naver.com/v2/movie/419599</link>
-            <guid>https://serieson.naver.com/v2/movie/419599</guid>
-            <pubDate>Sun, 14 Nov 2021 15:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/v2/movie/419599" class="NPI=a:content" title="국도극장">
-		<span class="mask"></span>
-		
-			
-				
-				<em class="ico ico_free1">Free</em>
-				
-				
-				
-				
-				
-				
-			
-		
-		
-			
-			
-				
-				
-				<img src="https://movie-phinf.pstatic.net/20200526_172/1590480126993aPfB9_JPEG/movie_image.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
-			
-		
-		<strong>
-			
-			
-			
-			
-			국도극장
-		</strong>
-	</a>
-	
-		
-		
-	
-	
-	
-		
-			<span class="score">
-				<span style="width:85%">평점</span>
-				
-			</span>
-			<em class="score_num">8.5</em>
-		
-		
-	
-	
-		
-		
-			<p class="price2 v2">
-				
-				
-                    <em class="">구매</em>
-                    
-                    <strong><span>무료</span></strong>
-					
-						
-						
-					
-				
-			</p>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200526_172/1590480126993aPfB9_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-			
-			프릿지 이야기]]></title>
-            <link>https://serieson.naver.com/v2/movie/414845</link>
-            <guid>https://serieson.naver.com/v2/movie/414845</guid>
-            <pubDate>Sun, 14 Nov 2021 15:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/v2/movie/414845" class="NPI=a:content" title="프릿지 이야기 ">
-		<span class="mask"></span>
-		
-			
-				
-				<em class="ico ico_free1">Free</em>
-				
-				
-				
-				
-				
-				
-			
-		
-		
-			
-			
-				
-				
-				<img src="https://tvstore-phinf.pstatic.net/20201222_137/1608579835055dJgj5_JPEG/_%28%29.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
-			
-		
-		<strong>
-			
-			
-			<em class="mv_tv_ico lst_sbt">자막</em>
-			
-			프릿지 이야기 
-		</strong>
-	</a>
-	
-		
-		
-	
-	
-	
-		
-			<span class="score">
-				<span style="width:0%">평점</span>
-				
-			</span>
-			<em class="score_num">0.0</em>
-		
-		
-	
-	
-		
-		
-			<p class="price2 v2">
-				
-					<em class="">대여</em>
-					
-					<strong><span>무료</span></strong><br>
-					
-						
-						
-					
-				
-				
-			</p>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20201222_137/1608579835055dJgj5_JPEG/_%28%29.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

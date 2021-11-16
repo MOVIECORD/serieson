@@ -4,9 +4,20 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 14:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 15:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[19
+			
+			
+			암모나이트]]></title>
+            <link>https://serieson.naver.com/v2/movie/431846</link>
+            <guid>https://serieson.naver.com/v2/movie/431846</guid>
+            <pubDate>Tue, 16 Nov 2021 15:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210223_152/16140611130096PApJ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[종이꽃]]></title>
             <link>https://serieson.naver.com/v2/movie/407120</link>
@@ -198,14 +209,6 @@
             <pubDate>Sun, 14 Nov 2021 15:15:57 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190805_121/1564969695835Iq9Qc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주전장]]></title>
-            <link>https://serieson.naver.com/v2/movie/392038</link>
-            <guid>https://serieson.naver.com/v2/movie/392038</guid>
-            <pubDate>Sun, 14 Nov 2021 15:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190712_279/1562912698606Qv0GH_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

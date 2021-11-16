@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-11-16T14:15:45.324Z</updated>
+    <updated>2021-11-16T15:18:02.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🌝Guide to DUNIVERSE! '듄' 오픈 프로모션]]></title>
+        <id>https://serieson.naver.com/events/13642?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13642?productType=movie"/>
+        <updated>2021-11-16T15:17:44.712Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13642?productType=movie" class=" NPI=a:list">🌝Guide to DUNIVERSE! '듄' 오픈 프로모션</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💥샹치와 텐 링즈의 전설, 드디어 시리즈온 오픈!]]></title>
         <id>https://serieson.naver.com/events/13634?productType=movie</id>
