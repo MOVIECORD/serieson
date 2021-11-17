@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 14:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 15:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -943,11 +943,11 @@
             <content:encoded><![CDATA[<a href="/events/13639?productType=movie" class="" onclick="nclk(this, 'mov.list', '13639', '');">🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라! </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13630?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13630?productType=movie</guid>
-            <pubDate>Wed, 03 Nov 2021 15:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13630?productType=movie" class="" onclick="nclk(this, 'mov.list', '13630', '');">📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥!</a>]]></content:encoded>
+            <title><![CDATA[🎉수능 탈출! 여러분은 이제 자유~! 수능 이후 보면 딱 좋은 영화 할인전 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13646?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13646?productType=movie</guid>
+            <pubDate>Wed, 17 Nov 2021 15:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13646?productType=movie" class="" onclick="nclk(this, 'mov.list', '13646', '');">🎉수능 탈출! 여러분은 이제 자유~! 수능 이후 보면 딱 좋은 영화 할인전</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💙미나리를 잇는 뜨거운 울림! '푸른 호수'는 전용 쿠폰과 함께 ([시리즈온] 이벤트)]]></title>
@@ -955,6 +955,13 @@
             <guid>https://serieson.naver.com/events/13638?productType=movie</guid>
             <pubDate>Tue, 09 Nov 2021 15:16:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13638?productType=movie" class="" onclick="nclk(this, 'mov.list', '13638', '');">💙미나리를 잇는 뜨거운 울림! '푸른 호수'는 전용 쿠폰과 함께 </a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎁수능 끝! 보고 싶은 영화 관심 담으면 쏩니다 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13648?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13648?productType=movie</guid>
+            <pubDate>Wed, 17 Nov 2021 15:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13648?productType=movie" class="" onclick="nclk(this, 'mov.list', '13648', '');">🎁수능 끝! 보고 싶은 영화 관심 담으면 쏩니다</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💗류승룡의 환장 케미 '장르만 로맨스' 극장 개봉 기념 예매권 이벤트! ([시리즈온] 이벤트)]]></title>

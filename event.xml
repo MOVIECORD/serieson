@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-11-17T14:15:31.428Z</updated>
+    <updated>2021-11-17T15:17:20.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="/events/13639?productType=movie" class="" onclick="nclk(this, 'mov.list', '13639', '');">🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라! </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥!]]></title>
-        <id>https://serieson.naver.com/events/13630?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13630?productType=movie"/>
-        <updated>2021-11-03T15:17:03.888Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13630?productType=movie" class="" onclick="nclk(this, 'mov.list', '13630', '');">📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥!</a>]]></content>
+        <title type="html"><![CDATA[🎉수능 탈출! 여러분은 이제 자유~! 수능 이후 보면 딱 좋은 영화 할인전]]></title>
+        <id>https://serieson.naver.com/events/13646?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13646?productType=movie"/>
+        <updated>2021-11-17T15:17:03.704Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13646?productType=movie" class="" onclick="nclk(this, 'mov.list', '13646', '');">🎉수능 탈출! 여러분은 이제 자유~! 수능 이후 보면 딱 좋은 영화 할인전</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💙미나리를 잇는 뜨거운 울림! '푸른 호수'는 전용 쿠폰과 함께]]></title>
@@ -39,6 +39,13 @@
         <link href="https://serieson.naver.com/events/13638?productType=movie"/>
         <updated>2021-11-09T15:16:46.423Z</updated>
         <content type="html"><![CDATA[<a href="/events/13638?productType=movie" class="" onclick="nclk(this, 'mov.list', '13638', '');">💙미나리를 잇는 뜨거운 울림! '푸른 호수'는 전용 쿠폰과 함께 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁수능 끝! 보고 싶은 영화 관심 담으면 쏩니다]]></title>
+        <id>https://serieson.naver.com/events/13648?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13648?productType=movie"/>
+        <updated>2021-11-17T15:17:03.706Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13648?productType=movie" class="" onclick="nclk(this, 'mov.list', '13648', '');">🎁수능 끝! 보고 싶은 영화 관심 담으면 쏩니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💗류승룡의 환장 케미 '장르만 로맨스' 극장 개봉 기념 예매권 이벤트!]]></title>
