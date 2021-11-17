@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-11-17T06:19:46.987Z</updated>
+    <updated>2021-11-17T07:16:01.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -10,83 +10,83 @@
         <id>https://serieson.naver.com/events/13642?productType=movie</id>
         <link href="https://serieson.naver.com/events/13642?productType=movie"/>
         <updated>2021-11-16T15:17:44.712Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13642?productType=movie" class=" NPI=a:list">🌝Guide to DUNIVERSE! '듄' 오픈 프로모션</a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/13642?productType=movie" class="" onclick="nclk(this, 'mov.list', '13642', '');">🌝Guide to DUNIVERSE! '듄' 오픈 프로모션</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💥샹치와 텐 링즈의 전설, 드디어 시리즈온 오픈!]]></title>
         <id>https://serieson.naver.com/events/13634?productType=movie</id>
         <link href="https://serieson.naver.com/events/13634?productType=movie"/>
         <updated>2021-11-11T15:16:59.447Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13634?productType=movie" class=" NPI=a:list">💥샹치와 텐 링즈의 전설, 드디어 시리즈온 오픈!</a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/13634?productType=movie" class="" onclick="nclk(this, 'mov.list', '13634', '');">💥샹치와 텐 링즈의 전설, 드디어 시리즈온 오픈!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라!]]></title>
         <id>https://serieson.naver.com/events/13639?productType=movie</id>
         <link href="https://serieson.naver.com/events/13639?productType=movie"/>
         <updated>2021-11-09T15:16:46.421Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13639?productType=movie" class=" NPI=a:list">🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라! </a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/13639?productType=movie" class="" onclick="nclk(this, 'mov.list', '13639', '');">🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라! </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥!]]></title>
         <id>https://serieson.naver.com/events/13630?productType=movie</id>
         <link href="https://serieson.naver.com/events/13630?productType=movie"/>
         <updated>2021-11-03T15:17:03.888Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13630?productType=movie" class=" NPI=a:list">📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥!</a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/13630?productType=movie" class="" onclick="nclk(this, 'mov.list', '13630', '');">📞리얼 피싱 범죄극 '보이스' 최대 8천 캐시 혜택이 두둥!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💙미나리를 잇는 뜨거운 울림! '푸른 호수'는 전용 쿠폰과 함께]]></title>
         <id>https://serieson.naver.com/events/13638?productType=movie</id>
         <link href="https://serieson.naver.com/events/13638?productType=movie"/>
         <updated>2021-11-09T15:16:46.423Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13638?productType=movie" class=" NPI=a:list">💙미나리를 잇는 뜨거운 울림! '푸른 호수'는 전용 쿠폰과 함께 </a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/13638?productType=movie" class="" onclick="nclk(this, 'mov.list', '13638', '');">💙미나리를 잇는 뜨거운 울림! '푸른 호수'는 전용 쿠폰과 함께 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💗류승룡의 환장 케미 '장르만 로맨스' 극장 개봉 기념 예매권 이벤트!]]></title>
         <id>https://serieson.naver.com/events/13641?productType=movie</id>
         <link href="https://serieson.naver.com/events/13641?productType=movie"/>
         <updated>2021-11-14T15:16:14.167Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13641?productType=movie" class=" NPI=a:list">💗류승룡의 환장 케미 '장르만 로맨스' 극장 개봉 기념 예매권 이벤트!</a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/13641?productType=movie" class="" onclick="nclk(this, 'mov.list', '13641', '');">💗류승룡의 환장 케미 '장르만 로맨스' 극장 개봉 기념 예매권 이벤트!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅ 무료영화 보는 꿀팁 안내]]></title>
         <id>https://serieson.naver.com/events/13621?productType=movie</id>
         <link href="https://serieson.naver.com/events/13621?productType=movie"/>
         <updated>2021-10-26T09:16:10.405Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13621?productType=movie" class=" NPI=a:list">✅ 무료영화 보는 꿀팁 안내</a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/13621?productType=movie" class="" onclick="nclk(this, 'mov.list', '13621', '');">✅ 무료영화 보는 꿀팁 안내</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[놓치기 아까운 다양성 영화 2천 캐시 혜택과 만나자! 시리즈온 X 경기인디시네마]]></title>
         <id>https://serieson.naver.com/events/13570?productType=movie</id>
         <link href="https://serieson.naver.com/events/13570?productType=movie"/>
         <updated>2021-10-26T09:16:10.431Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13570?productType=movie" class=" NPI=a:list">놓치기 아까운 다양성 영화 2천 캐시 혜택과 만나자! 시리즈온 X 경기인디시네마</a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/13570?productType=movie" class="" onclick="nclk(this, 'mov.list', '13570', '');">놓치기 아까운 다양성 영화 2천 캐시 혜택과 만나자! 시리즈온 X 경기인디시네마</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📌100캐시로 5천 캐시 영화 소장할 수 있는 기회!]]></title>
         <id>https://serieson.naver.com/events/13632?productType=movie</id>
         <link href="https://serieson.naver.com/events/13632?productType=movie"/>
         <updated>2021-11-04T12:24:44.188Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13632?productType=movie" class=" NPI=a:list">📌100캐시로 5천 캐시 영화 소장할 수 있는 기회!</a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/13632?productType=movie" class="" onclick="nclk(this, 'mov.list', '13632', '');">📌100캐시로 5천 캐시 영화 소장할 수 있는 기회!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!]]></title>
         <id>https://serieson.naver.com/events/13610?productType=movie</id>
         <link href="https://serieson.naver.com/events/13610?productType=movie"/>
         <updated>2021-10-26T09:16:10.429Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13610?productType=movie" class=" NPI=a:list">✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!</a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/13610?productType=movie" class="" onclick="nclk(this, 'mov.list', '13610', '');">✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11월 우수이용자! 놓치지 말고 확인!]]></title>
         <id>https://serieson.naver.com/events/13628?productType=movie</id>
         <link href="https://serieson.naver.com/events/13628?productType=movie"/>
         <updated>2021-10-31T15:16:12.485Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13628?productType=movie" class=" NPI=a:list">11월 우수이용자! 놓치지 말고 확인!</a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/13628?productType=movie" class="" onclick="nclk(this, 'mov.list', '13628', '');">11월 우수이용자! 놓치지 말고 확인!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이번주 가격인하작, 시리즈온에서 확인!]]></title>
         <id>https://serieson.naver.com/events/13192?productType=movie</id>
         <link href="https://serieson.naver.com/events/13192?productType=movie"/>
         <updated>2021-10-26T09:16:10.434Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13192?productType=movie" class=" NPI=a:list">이번주 가격인하작, 시리즈온에서 확인!</a>]]></content>
+        <content type="html"><![CDATA[<a href="/events/13192?productType=movie" class="" onclick="nclk(this, 'mov.list', '13192', '');">이번주 가격인하작, 시리즈온에서 확인!</a>]]></content>
     </entry>
 </feed>
