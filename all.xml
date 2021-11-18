@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 03:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 04:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -934,6 +934,13 @@
             <guid>https://serieson.naver.com/events/13646?productType=movie</guid>
             <pubDate>Thu, 18 Nov 2021 00:50:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13646?productType=movie" class="" onclick="nclk(this, 'mov.list', '13646', '');">🎉수능 탈출! 여러분은 이제 자유~! 수능 이후 보면 딱 좋은 영화 할인전</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💜드디어 왔다! '베놈 2: 렛 데어 비 카니지' 예약 구매 중 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13643?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13643?productType=movie</guid>
+            <pubDate>Thu, 18 Nov 2021 04:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13643?productType=movie" class="" onclick="nclk(this, 'mov.list', '13643', '');">💜드디어 왔다! '베놈 2: 렛 데어 비 카니지' 예약 구매 중</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💥샹치와 텐 링즈의 전설, 드디어 시리즈온 오픈! ([시리즈온] 이벤트)]]></title>
