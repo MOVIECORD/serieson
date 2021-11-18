@@ -4,9 +4,51 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 14:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 15:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초능력자 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/13747</link>
+            <guid>https://serieson.naver.com/v2/movie/13747</guid>
+            <pubDate>Thu, 18 Nov 2021 15:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[12월 2일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_179/1324626012857BRHBe_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										더빙
+											지옥 - 두개의 삶 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/473391</link>
+            <guid>https://serieson.naver.com/v2/movie/473391</guid>
+            <pubDate>Thu, 18 Nov 2021 15:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111224_156/1324656299125snBir_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+										
+											패딩턴 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/82147</link>
+            <guid>https://serieson.naver.com/v2/movie/82147</guid>
+            <pubDate>Thu, 18 Nov 2021 15:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[12월 2일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150105_272/1420423209179jYaLt_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+										
+											패딩턴 2 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/225357</link>
+            <guid>https://serieson.naver.com/v2/movie/225357</guid>
+            <pubDate>Thu, 18 Nov 2021 15:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[12월 2일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180122_264/1516602139714eoxVR_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국도극장 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/419599</link>
@@ -116,39 +158,74 @@
             <enclosure url="https://movie-phinf.pstatic.net/20171123_194/1511417612510xxD5j_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더빙
-											극장판 도라에몽: 진구의 보물섬 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/244515</link>
-            <guid>https://serieson.naver.com/v2/movie/244515</guid>
-            <pubDate>Thu, 04 Nov 2021 15:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180801_60/1533089003342RpL4m_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 차버린 스파이 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/246261</link>
-            <guid>https://serieson.naver.com/v2/movie/246261</guid>
-            <pubDate>Thu, 04 Nov 2021 15:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180809_300/1533777494802DpYwf_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-										
-											우주형제#0 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/376261</link>
-            <guid>https://serieson.naver.com/v2/movie/376261</guid>
-            <pubDate>Thu, 04 Nov 2021 15:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150420_147/1429493543353LHeKg_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네 얼간이와 장례식 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/247896</link>
-            <guid>https://serieson.naver.com/v2/movie/247896</guid>
-            <pubDate>Thu, 04 Nov 2021 15:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180907_249/1536288527524TEnEX_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <title><![CDATA[19
+			
+			더빙
+			지옥 - 두개의 삶 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/473391</link>
+            <guid>https://serieson.naver.com/v2/movie/473391</guid>
+            <pubDate>Thu, 18 Nov 2021 15:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/v2/movie/473391" class="NPI=a:content" title="지옥 - 두개의 삶">
+		<span class="mask"></span>
+		
+			
+				
+				<em class="ico ico_free1">Free</em>
+				
+				
+				
+				
+				
+				
+			
+		
+		
+			
+			
+				
+				
+				<img src="https://movie-phinf.pstatic.net/20111224_156/1324656299125snBir_JPEG/movie_image.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+			
+		
+		<strong>
+			
+			<em class="ad_ico_s">19</em>
+			
+			<em class="mv_tv_ico lst_dub">더빙</em>
+			지옥 - 두개의 삶
+		</strong>
+	</a>
+	
+		
+		
+	
+	
+	
+		
+			<span class="score">
+				<span style="width:82%">평점</span>
+				
+			</span>
+			<em class="score_num">8.2</em>
+		
+		
+	
+	
+		
+		
+			<p class="price2 v2">
+				
+					<em class="">대여</em>
+					
+					<strong><span>무료</span></strong><br>
+					
+						
+						
+					
+				
+				
+			</p>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111224_156/1324656299125snBir_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -479,14 +556,6 @@
             <pubDate>Thu, 18 Nov 2021 00:50:30 GMT</pubDate>
             <content:encoded><![CDATA[<span>700</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20151124_23/1448356698044jfV0z_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사운드 오브 메탈 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/421984</link>
-            <guid>https://serieson.naver.com/v2/movie/421984</guid>
-            <pubDate>Thu, 18 Nov 2021 00:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210126_75/1611635035739mT73c_JPEG/DP_5643833_SoundofMetal_2000x3000_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -943,13 +1012,6 @@
             <content:encoded><![CDATA[<a href="/events/13643?productType=movie" class="" onclick="nclk(this, 'mov.list', '13643', '');">💜드디어 왔다! '베놈 2: 렛 데어 비 카니지' 예약 구매 중</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[💥샹치와 텐 링즈의 전설, 드디어 시리즈온 오픈! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13634?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13634?productType=movie</guid>
-            <pubDate>Thu, 11 Nov 2021 15:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13634?productType=movie" class="" onclick="nclk(this, 'mov.list', '13634', '');">💥샹치와 텐 링즈의 전설, 드디어 시리즈온 오픈!</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[💖맘 설레 죽을 빨간맛 로맨스 '애프터: 관계의 함정' 오픈! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/13647?productType=movie</link>
             <guid>https://serieson.naver.com/events/13647?productType=movie</guid>
@@ -1025,6 +1087,46 @@
             <guid>https://serieson.naver.com/events/13192?productType=movie</guid>
             <pubDate>Tue, 26 Oct 2021 09:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13192?productType=movie" class="" onclick="nclk(this, 'mov.list', '13192', '');">이번주 가격인하작, 시리즈온에서 확인!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[초능력자 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/13747</link>
+            <guid>https://m.serieson.naver.com/v2/movie/13747</guid>
+            <pubDate>Thu, 18 Nov 2021 15:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[12월 2일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_179/1324626012857BRHBe_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19금
+											
+										
+									
+									더빙
+									
+										지옥 - 두개의 삶 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/473391</link>
+            <guid>https://m.serieson.naver.com/v2/movie/473391</guid>
+            <pubDate>Thu, 18 Nov 2021 15:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111224_156/1324656299125snBir_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자
+										패딩턴 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/82147</link>
+            <guid>https://m.serieson.naver.com/v2/movie/82147</guid>
+            <pubDate>Thu, 18 Nov 2021 15:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[12월 2일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150105_272/1420423209179jYaLt_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자
+										패딩턴 2 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/225357</link>
+            <guid>https://m.serieson.naver.com/v2/movie/225357</guid>
+            <pubDate>Thu, 18 Nov 2021 15:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[12월 2일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180122_264/1516602139714eoxVR_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국도극장 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -1133,41 +1235,6 @@
             <pubDate>Sun, 07 Nov 2021 15:16:09 GMT</pubDate>
             <content:encoded><![CDATA[11월 21일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20171123_194/1511417612510xxD5j_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-									
-										극장판 도라에몽: 진구의 보물섬 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/244515</link>
-            <guid>https://m.serieson.naver.com/v2/movie/244515</guid>
-            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180801_60/1533089003342RpL4m_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 차버린 스파이 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/246261</link>
-            <guid>https://m.serieson.naver.com/v2/movie/246261</guid>
-            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180809_300/1533777494802DpYwf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자
-										우주형제#0 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/376261</link>
-            <guid>https://m.serieson.naver.com/v2/movie/376261</guid>
-            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150420_147/1429493543353LHeKg_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네 얼간이와 장례식 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/247896</link>
-            <guid>https://m.serieson.naver.com/v2/movie/247896</guid>
-            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180907_249/1536288527524TEnEX_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보이스 (가치봄영화:시청각장애인용)

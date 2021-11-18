@@ -4,9 +4,79 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 14:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 15:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[19
+			
+			더빙
+			지옥 - 두개의 삶]]></title>
+            <link>https://serieson.naver.com/v2/movie/473391</link>
+            <guid>https://serieson.naver.com/v2/movie/473391</guid>
+            <pubDate>Thu, 18 Nov 2021 15:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/v2/movie/473391" class="NPI=a:content" title="지옥 - 두개의 삶">
+		<span class="mask"></span>
+		
+			
+				
+				<em class="ico ico_free1">Free</em>
+				
+				
+				
+				
+				
+				
+			
+		
+		
+			
+			
+				
+				
+				<img src="https://movie-phinf.pstatic.net/20111224_156/1324656299125snBir_JPEG/movie_image.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+			
+		
+		<strong>
+			
+			<em class="ad_ico_s">19</em>
+			
+			<em class="mv_tv_ico lst_dub">더빙</em>
+			지옥 - 두개의 삶
+		</strong>
+	</a>
+	
+		
+		
+	
+	
+	
+		
+			<span class="score">
+				<span style="width:82%">평점</span>
+				
+			</span>
+			<em class="score_num">8.2</em>
+		
+		
+	
+	
+		
+		
+			<p class="price2 v2">
+				
+					<em class="">대여</em>
+					
+					<strong><span>무료</span></strong><br>
+					
+						
+						
+					
+				
+				
+			</p>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111224_156/1324656299125snBir_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[19
 			
@@ -336,14 +406,6 @@
             <pubDate>Thu, 18 Nov 2021 00:50:30 GMT</pubDate>
             <content:encoded><![CDATA[<span>700</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20151124_23/1448356698044jfV0z_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사운드 오브 메탈]]></title>
-            <link>https://serieson.naver.com/v2/movie/421984</link>
-            <guid>https://serieson.naver.com/v2/movie/421984</guid>
-            <pubDate>Thu, 18 Nov 2021 00:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210126_75/1611635035739mT73c_JPEG/DP_5643833_SoundofMetal_2000x3000_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
