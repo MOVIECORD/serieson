@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 00:51:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 01:58:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[국가대표(완결판) ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/390737</link>
-            <guid>https://serieson.naver.com/v2/movie/390737</guid>
-            <pubDate>Fri, 12 Nov 2021 15:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20120103_32/1325584763019wyepw_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[국도극장 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/419599</link>
@@ -40,6 +32,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20130228_105/1362026575599uE2wA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국가대표(완결판) ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/390737</link>
+            <guid>https://serieson.naver.com/v2/movie/390737</guid>
+            <pubDate>Fri, 12 Nov 2021 15:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20120103_32/1325584763019wyepw_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[19
 										
 											
@@ -52,20 +52,6 @@
             <pubDate>Thu, 11 Nov 2021 15:16:25 GMT</pubDate>
             <content:encoded><![CDATA[11월 25일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20171106_242/1509929923266WYgQf_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											좋은 친구들 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/68622</link>
-            <guid>https://serieson.naver.com/v2/movie/68622</guid>
-            <pubDate>Thu, 11 Nov 2021 15:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[11월 25일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20140611_159/1402452805012Hq1O9_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7급 공무원 ([시리즈온] 이주의 무료영화)]]></title>
@@ -82,6 +68,20 @@
             <pubDate>Thu, 11 Nov 2021 15:16:25 GMT</pubDate>
             <content:encoded><![CDATA[11월 25일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170927_210/1506482182997qLEa4_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											좋은 친구들 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/68622</link>
+            <guid>https://serieson.naver.com/v2/movie/68622</guid>
+            <pubDate>Thu, 11 Nov 2021 15:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[11월 25일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140611_159/1402452805012Hq1O9_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세상의 끝까지 21일 ([시리즈온] 이주의 무료영화)]]></title>
@@ -125,6 +125,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20180801_60/1533089003342RpL4m_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나를 차버린 스파이 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/246261</link>
+            <guid>https://serieson.naver.com/v2/movie/246261</guid>
+            <pubDate>Thu, 04 Nov 2021 15:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180809_300/1533777494802DpYwf_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자막
 										
 											우주형제#0 ([시리즈온] 이주의 무료영화)]]></title>
@@ -141,14 +149,6 @@
             <pubDate>Thu, 04 Nov 2021 15:16:26 GMT</pubDate>
             <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180907_249/1536288527524TEnEX_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 차버린 스파이 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/246261</link>
-            <guid>https://serieson.naver.com/v2/movie/246261</guid>
-            <pubDate>Thu, 04 Nov 2021 15:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180809_300/1533777494802DpYwf_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -943,6 +943,13 @@
             <content:encoded><![CDATA[<a href="/events/13634?productType=movie" class="" onclick="nclk(this, 'mov.list', '13634', '');">💥샹치와 텐 링즈의 전설, 드디어 시리즈온 오픈!</a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[💖맘 설레 죽을 빨간맛 로맨스 '애프터: 관계의 함정' 오픈! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13647?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13647?productType=movie</guid>
+            <pubDate>Thu, 18 Nov 2021 01:58:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13647?productType=movie" class="" onclick="nclk(this, 'mov.list', '13647', '');">💖맘 설레 죽을 빨간맛 로맨스 '애프터: 관계의 함정' 오픈!</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/13639?productType=movie</link>
             <guid>https://serieson.naver.com/events/13639?productType=movie</guid>
@@ -1013,14 +1020,6 @@
             <content:encoded><![CDATA[<a href="/events/13192?productType=movie" class="" onclick="nclk(this, 'mov.list', '13192', '');">이번주 가격인하작, 시리즈온에서 확인!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국가대표(완결판) (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/390737</link>
-            <guid>https://m.serieson.naver.com/v2/movie/390737</guid>
-            <pubDate>Fri, 12 Nov 2021 15:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20120103_32/1325584763019wyepw_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[국도극장 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://m.serieson.naver.com/v2/movie/419599</link>
             <guid>https://m.serieson.naver.com/v2/movie/419599</guid>
@@ -1045,6 +1044,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20130228_105/1362026575599uE2wA_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국가대표(완결판) (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/390737</link>
+            <guid>https://m.serieson.naver.com/v2/movie/390737</guid>
+            <pubDate>Fri, 12 Nov 2021 15:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20120103_32/1325584763019wyepw_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[19금
 											
 										
@@ -1057,20 +1064,6 @@
             <pubDate>Thu, 11 Nov 2021 15:17:07 GMT</pubDate>
             <content:encoded><![CDATA[11월 25일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20171106_242/1509929923266WYgQf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19금
-											
-										
-									
-									
-									
-										좋은 친구들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/68622</link>
-            <guid>https://m.serieson.naver.com/v2/movie/68622</guid>
-            <pubDate>Thu, 11 Nov 2021 15:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[11월 25일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20140611_159/1402452805012Hq1O9_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7급 공무원 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -1087,6 +1080,20 @@
             <pubDate>Thu, 11 Nov 2021 15:17:07 GMT</pubDate>
             <content:encoded><![CDATA[11월 25일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170927_210/1506482182997qLEa4_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19금
+											
+										
+									
+									
+									
+										좋은 친구들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/68622</link>
+            <guid>https://m.serieson.naver.com/v2/movie/68622</guid>
+            <pubDate>Thu, 11 Nov 2021 15:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[11월 25일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140611_159/1402452805012Hq1O9_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세상의 끝까지 21일 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -1131,6 +1138,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20180801_60/1533089003342RpL4m_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나를 차버린 스파이 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/246261</link>
+            <guid>https://m.serieson.naver.com/v2/movie/246261</guid>
+            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180809_300/1533777494802DpYwf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자
 										우주형제#0 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://m.serieson.naver.com/v2/movie/376261</link>
@@ -1146,14 +1161,6 @@
             <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
             <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180907_249/1536288527524TEnEX_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 차버린 스파이 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/246261</link>
-            <guid>https://m.serieson.naver.com/v2/movie/246261</guid>
-            <pubDate>Thu, 04 Nov 2021 18:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[11월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180809_300/1533777494802DpYwf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보이스 (가치봄영화:시청각장애인용)

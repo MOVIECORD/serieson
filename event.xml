@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-11-18T00:51:16.647Z</updated>
+    <updated>2021-11-18T01:58:59.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://serieson.naver.com/events/13634?productType=movie"/>
         <updated>2021-11-11T15:16:59.447Z</updated>
         <content type="html"><![CDATA[<a href="/events/13634?productType=movie" class="" onclick="nclk(this, 'mov.list', '13634', '');">💥샹치와 텐 링즈의 전설, 드디어 시리즈온 오픈!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💖맘 설레 죽을 빨간맛 로맨스 '애프터: 관계의 함정' 오픈!]]></title>
+        <id>https://serieson.naver.com/events/13647?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13647?productType=movie"/>
+        <updated>2021-11-18T01:58:40.280Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13647?productType=movie" class="" onclick="nclk(this, 'mov.list', '13647', '');">💖맘 설레 죽을 빨간맛 로맨스 '애프터: 관계의 함정' 오픈!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라!]]></title>
