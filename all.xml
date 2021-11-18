@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 15:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 16:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -164,7 +164,7 @@
 			지옥 - 두개의 삶 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/473391</link>
             <guid>https://serieson.naver.com/v2/movie/473391</guid>
-            <pubDate>Thu, 18 Nov 2021 15:16:51 GMT</pubDate>
+            <pubDate>Thu, 18 Nov 2021 15:16:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/v2/movie/473391" class="NPI=a:content" title="지옥 - 두개의 삶">
 		<span class="mask"></span>
 		
@@ -970,7 +970,7 @@
             <pubDate>Tue, 26 Oct 2021 09:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>1,400</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200508_282/1588913467024QCCAe_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211118_277/1637242538110cvoKQ_PNG/ONPOSTER_1912.__.png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이 안에 외계인이 있다 (가치봄.. ([시리즈온] 가치봄 영화관)]]></title>
@@ -1513,7 +1513,7 @@
             <content:encoded><![CDATA[<dt>구매</dt>
                     <dd><span class="hel_bd">1,400</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200508_282/1588913467024QCCAe_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211118_277/1637242538110cvoKQ_PNG/ONPOSTER_1912.__.png?type=f128_184" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이 안에 외계인이 있다 (가치봄영화:시청각장애인용)
