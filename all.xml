@@ -4,16 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 02:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 03:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[초능력자 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/13747</link>
-            <guid>https://serieson.naver.com/v2/movie/13747</guid>
-            <pubDate>Thu, 18 Nov 2021 15:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[12월 2일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_179/1324626012857BRHBe_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <title><![CDATA[국도극장 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/419599</link>
+            <guid>https://serieson.naver.com/v2/movie/419599</guid>
+            <pubDate>Fri, 12 Nov 2021 15:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200526_172/1590480126993aPfB9_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자막
@@ -50,12 +50,12 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111224_156/1324656299125snBir_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국도극장 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/419599</link>
-            <guid>https://serieson.naver.com/v2/movie/419599</guid>
-            <pubDate>Fri, 12 Nov 2021 15:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200526_172/1590480126993aPfB9_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <title><![CDATA[초능력자 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/13747</link>
+            <guid>https://serieson.naver.com/v2/movie/13747</guid>
+            <pubDate>Thu, 18 Nov 2021 15:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[12월 2일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_179/1324626012857BRHBe_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -1089,12 +1089,12 @@
             <content:encoded><![CDATA[<a href="/events/13192?productType=movie" class="" onclick="nclk(this, 'mov.list', '13192', '');">이번주 가격인하작, 시리즈온에서 확인!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[초능력자 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/13747</link>
-            <guid>https://m.serieson.naver.com/v2/movie/13747</guid>
-            <pubDate>Thu, 18 Nov 2021 15:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[12월 2일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_179/1324626012857BRHBe_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+            <title><![CDATA[국도극장 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/419599</link>
+            <guid>https://m.serieson.naver.com/v2/movie/419599</guid>
+            <pubDate>Fri, 12 Nov 2021 15:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200526_172/1590480126993aPfB9_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자
@@ -1129,12 +1129,12 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111224_156/1324656299125snBir_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국도극장 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/419599</link>
-            <guid>https://m.serieson.naver.com/v2/movie/419599</guid>
-            <pubDate>Fri, 12 Nov 2021 15:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200526_172/1590480126993aPfB9_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+            <title><![CDATA[초능력자 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/13747</link>
+            <guid>https://m.serieson.naver.com/v2/movie/13747</guid>
+            <pubDate>Thu, 18 Nov 2021 15:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[12월 2일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_179/1324626012857BRHBe_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19금
