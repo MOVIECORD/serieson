@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-11-21T14:14:52.810Z</updated>
+    <updated>2021-11-21T15:16:53.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -53,13 +53,6 @@
         <link href="https://serieson.naver.com/events/13648?productType=movie"/>
         <updated>2021-11-17T15:17:03.706Z</updated>
         <content type="html"><![CDATA[<a href="/events/13648?productType=movie" class="" onclick="nclk(this, 'mov.list', '13648', '');">🎁보고 싶은 영화 관심 담으면 쏩니다! 수능 끝! </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💗류승룡의 환장 케미 '장르만 로맨스' 극장 개봉 기념 예매권 이벤트!]]></title>
-        <id>https://serieson.naver.com/events/13641?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13641?productType=movie"/>
-        <updated>2021-11-14T15:16:14.167Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13641?productType=movie" class="" onclick="nclk(this, 'mov.list', '13641', '');">💗류승룡의 환장 케미 '장르만 로맨스' 극장 개봉 기념 예매권 이벤트!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅ 무료영화 보는 꿀팁 안내]]></title>

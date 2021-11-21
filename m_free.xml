@@ -4,7 +4,7 @@
         <title>모바일 네이버 시리즈온 ─ 무료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 14:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 15:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,20 +140,20 @@
             <enclosure url="https://movie-phinf.pstatic.net/20141205_174/1417743810978NcKng_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[50/50]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/14147</link>
-            <guid>https://m.serieson.naver.com/v2/movie/14147</guid>
-            <pubDate>Sun, 07 Nov 2021 15:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[11월 21일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111224_254/1324653849564abV2E_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+            <title><![CDATA[내 심장을 쏴라]]></title>
+            <link>https://m.serieson.naver.com/free</link>
+            <guid>https://m.serieson.naver.com/free</guid>
+            <pubDate>Sun, 21 Nov 2021 15:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150115_254/1421312888488dGqdV_PNG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스테이션 7]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/216141</link>
-            <guid>https://m.serieson.naver.com/v2/movie/216141</guid>
-            <pubDate>Sun, 07 Nov 2021 15:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[11월 21일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171123_194/1511417612510xxD5j_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+            <title><![CDATA[과속스캔들]]></title>
+            <link>https://m.serieson.naver.com/free</link>
+            <guid>https://m.serieson.naver.com/free</guid>
+            <pubDate>Sun, 21 Nov 2021 15:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_14/1324584883775HhKfa_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
