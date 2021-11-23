@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 06:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 07:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,7 +42,7 @@
 										
 										
 										더빙
-											지옥 - 두개의 삶 ([시리즈온] 이주의 무료영화)]]></title>
+											지옥(두개의 삶) ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/473391</link>
             <guid>https://serieson.naver.com/v2/movie/473391</guid>
             <pubDate>Thu, 18 Nov 2021 15:16:41 GMT</pubDate>
@@ -145,14 +145,14 @@
             <title><![CDATA[내 심장을 쏴라 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 23 Nov 2021 06:18:47 GMT</pubDate>
+            <pubDate>Tue, 23 Nov 2021 07:15:31 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과속스캔들 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 23 Nov 2021 06:18:47 GMT</pubDate>
+            <pubDate>Tue, 23 Nov 2021 07:15:31 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -1112,7 +1112,7 @@
 									
 									더빙
 									
-										지옥 - 두개의 삶 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+										지옥(두개의 삶) (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://m.serieson.naver.com/v2/movie/473391</link>
             <guid>https://m.serieson.naver.com/v2/movie/473391</guid>
             <pubDate>Thu, 18 Nov 2021 15:17:26 GMT</pubDate>
@@ -1215,7 +1215,7 @@
             <title><![CDATA[내 심장을 쏴라 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 23 Nov 2021 06:19:30 GMT</pubDate>
+            <pubDate>Tue, 23 Nov 2021 07:16:16 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150115_254/1421312888488dGqdV_PNG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1223,7 +1223,7 @@
             <title><![CDATA[과속스캔들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 23 Nov 2021 06:19:30 GMT</pubDate>
+            <pubDate>Tue, 23 Nov 2021 07:16:17 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_14/1324584883775HhKfa_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
