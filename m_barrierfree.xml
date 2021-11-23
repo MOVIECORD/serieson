@@ -4,7 +4,7 @@
         <title>모바일 네이버 시리즈온 ─ 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 14:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 15:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -95,7 +95,7 @@
             <guid>https://m.serieson.naver.com/movie/detail?productNo=6773038</guid>
             <pubDate>Mon, 08 Nov 2021 15:17:27 GMT</pubDate>
             <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">7,000</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                    <dd><span class="hel_bd">5,000</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211007_104/1633602962450ffpiv_JPEG/_mogadishu_pos_main_final.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
