@@ -4,7 +4,7 @@
         <title>모바일 네이버 시리즈온 ─ 무료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 07:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 08:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://m.serieson.naver.com/v2/movie/473391</guid>
             <pubDate>Thu, 18 Nov 2021 15:17:26 GMT</pubDate>
             <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211119_184/1637311278927HU1vK_PNG/____test02_%281%29.png?type=f128_184" length="0" type="image/png"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=f128_184" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[초능력자]]></title>
@@ -143,7 +143,7 @@
             <title><![CDATA[내 심장을 쏴라]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Tue, 23 Nov 2021 07:16:16 GMT</pubDate>
+            <pubDate>Tue, 23 Nov 2021 08:19:38 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150115_254/1421312888488dGqdV_PNG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -151,7 +151,7 @@
             <title><![CDATA[과속스캔들]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Tue, 23 Nov 2021 07:16:17 GMT</pubDate>
+            <pubDate>Tue, 23 Nov 2021 08:19:38 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_14/1324584883775HhKfa_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
