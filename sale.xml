@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 19:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 20:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <link>https://serieson.naver.com/v2/movie/473391</link>
             <guid>https://serieson.naver.com/v2/movie/473391</guid>
             <pubDate>Thu, 18 Nov 2021 15:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/v2/movie/473391" class="NPI=a:content" title="지옥(두개의 삶)">
+            <content:encoded><![CDATA[<a href="/v2/movie/473391" class="NPI=a:content" title="지옥(두개의 삶) ">
 		<span class="mask"></span>
 		
 			
@@ -42,7 +42,7 @@
 			<em class="ad_ico_s">19</em>
 			
 			<em class="mv_tv_ico lst_dub">더빙</em>
-			지옥(두개의 삶)
+			지옥(두개의 삶) 
 		</strong>
 	</a>
 	
