@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 14:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 15:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -380,14 +380,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210416_272/16185371259377meLU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고질라 VS. 콩 (코멘터리 및 부..]]></title>
-            <link>https://serieson.naver.com/v2/movie/434294</link>
-            <guid>https://serieson.naver.com/v2/movie/434294</guid>
-            <pubDate>Thu, 18 Nov 2021 00:50:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210310_199/1615367075185E9pMt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[내언니전지현과 나:디 온택트]]></title>
             <link>https://serieson.naver.com/v2/movie/435144</link>
             <guid>https://serieson.naver.com/v2/movie/435144</guid>
@@ -396,12 +388,20 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210422_101/1619059314222WKa3L_JPEG/__.jpeg?type=f102_138" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[하나와 앨리스]]></title>
-            <link>https://serieson.naver.com/v2/movie/435148</link>
-            <guid>https://serieson.naver.com/v2/movie/435148</guid>
-            <pubDate>Thu, 18 Nov 2021 00:50:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span>980</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210205_285/1612505917116YXpTz_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[스파이의 아내]]></title>
+            <link>https://serieson.naver.com/v2/movie/435073</link>
+            <guid>https://serieson.naver.com/v2/movie/435073</guid>
+            <pubDate>Wed, 24 Nov 2021 15:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210308_237/1615171952260dkz3u_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몬테크리스토: 더 뮤지컬 라이..]]></title>
+            <link>https://serieson.naver.com/v2/movie/435231</link>
+            <guid>https://serieson.naver.com/v2/movie/435231</guid>
+            <pubDate>Wed, 24 Nov 2021 15:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210305_78/1614908101775ijCvq_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

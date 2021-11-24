@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-11-24T14:15:37.538Z</updated>
+    <updated>2021-11-24T15:17:47.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[<a href="/events/13652?productType=movie" class="" onclick="nclk(this, 'mov.list', '13652', '');">🎁스케일이 다른 블랙 프라이데이가 온다! 유니버셜 블프 특별관 오픈!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎉수능 탈출! 여러분은 이제 자유~! 수능 이후 보면 딱 좋은 영화 할인전]]></title>
-        <id>https://serieson.naver.com/events/13646?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13646?productType=movie"/>
-        <updated>2021-11-18T00:50:57.711Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13646?productType=movie" class="" onclick="nclk(this, 'mov.list', '13646', '');">🎉수능 탈출! 여러분은 이제 자유~! 수능 이후 보면 딱 좋은 영화 할인전</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[💖맘 설레 죽을 빨간맛 로맨스 '애프터: 관계의 함정' 오픈!]]></title>
         <id>https://serieson.naver.com/events/13647?productType=movie</id>
         <link href="https://serieson.naver.com/events/13647?productType=movie"/>
@@ -48,11 +41,11 @@
         <content type="html"><![CDATA[<a href="/events/13647?productType=movie" class="" onclick="nclk(this, 'mov.list', '13647', '');">💖맘 설레 죽을 빨간맛 로맨스 '애프터: 관계의 함정' 오픈!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라!]]></title>
-        <id>https://serieson.naver.com/events/13639?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13639?productType=movie"/>
-        <updated>2021-11-09T15:16:46.421Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13639?productType=movie" class="" onclick="nclk(this, 'mov.list', '13639', '');">🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라! </a>]]></content>
+        <title type="html"><![CDATA[❤️따듯한 상상력이 빛나는 올해의 걸작, '쁘띠 마망' 경품 이벤트!]]></title>
+        <id>https://serieson.naver.com/events/13653?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13653?productType=movie"/>
+        <updated>2021-11-24T15:17:32.476Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13653?productType=movie" class="" onclick="nclk(this, 'mov.list', '13653', '');">❤️따듯한 상상력이 빛나는 올해의 걸작, '쁘띠 마망' 경품 이벤트!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁보고 싶은 영화 관심 담으면 쏩니다! 수능 끝!]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 14:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 15:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,14 +145,14 @@
             <title><![CDATA[내 심장을 쏴라 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 24 Nov 2021 14:14:44 GMT</pubDate>
+            <pubDate>Wed, 24 Nov 2021 15:17:02 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과속스캔들 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 24 Nov 2021 14:14:44 GMT</pubDate>
+            <pubDate>Wed, 24 Nov 2021 15:17:02 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -528,14 +528,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210416_272/16185371259377meLU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고질라 VS. 콩 (코멘터리 및 부.. ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/434294</link>
-            <guid>https://serieson.naver.com/v2/movie/434294</guid>
-            <pubDate>Thu, 18 Nov 2021 00:50:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210310_199/1615367075185E9pMt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[내언니전지현과 나:디 온택트 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/435144</link>
             <guid>https://serieson.naver.com/v2/movie/435144</guid>
@@ -544,12 +536,20 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210422_101/1619059314222WKa3L_JPEG/__.jpeg?type=f102_138" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[하나와 앨리스 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/435148</link>
-            <guid>https://serieson.naver.com/v2/movie/435148</guid>
-            <pubDate>Thu, 18 Nov 2021 00:50:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span>980</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210205_285/1612505917116YXpTz_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[스파이의 아내 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/435073</link>
+            <guid>https://serieson.naver.com/v2/movie/435073</guid>
+            <pubDate>Wed, 24 Nov 2021 15:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210308_237/1615171952260dkz3u_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몬테크리스토: 더 뮤지컬 라이.. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/435231</link>
+            <guid>https://serieson.naver.com/v2/movie/435231</guid>
+            <pubDate>Wed, 24 Nov 2021 15:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210305_78/1614908101775ijCvq_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -760,7 +760,7 @@
             <guid>https://serieson.naver.com/v2/movie/472716</guid>
             <pubDate>Tue, 16 Nov 2021 09:16:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>16,390</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+                    <strong class="payment"><span>10,890</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210831_152/1630371935224qy9s6_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -769,7 +769,7 @@
             <guid>https://serieson.naver.com/v2/movie/472717</guid>
             <pubDate>Tue, 16 Nov 2021 09:16:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>11,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+					<strong class="payment"><span>7,700</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210831_152/1630371935224qy9s6_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1013,13 +1013,6 @@
             <content:encoded><![CDATA[<a href="/events/13652?productType=movie" class="" onclick="nclk(this, 'mov.list', '13652', '');">🎁스케일이 다른 블랙 프라이데이가 온다! 유니버셜 블프 특별관 오픈!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🎉수능 탈출! 여러분은 이제 자유~! 수능 이후 보면 딱 좋은 영화 할인전 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13646?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13646?productType=movie</guid>
-            <pubDate>Thu, 18 Nov 2021 00:50:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13646?productType=movie" class="" onclick="nclk(this, 'mov.list', '13646', '');">🎉수능 탈출! 여러분은 이제 자유~! 수능 이후 보면 딱 좋은 영화 할인전</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[💖맘 설레 죽을 빨간맛 로맨스 '애프터: 관계의 함정' 오픈! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/13647?productType=movie</link>
             <guid>https://serieson.naver.com/events/13647?productType=movie</guid>
@@ -1027,11 +1020,11 @@
             <content:encoded><![CDATA[<a href="/events/13647?productType=movie" class="" onclick="nclk(this, 'mov.list', '13647', '');">💖맘 설레 죽을 빨간맛 로맨스 '애프터: 관계의 함정' 오픈!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13639?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13639?productType=movie</guid>
-            <pubDate>Tue, 09 Nov 2021 15:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13639?productType=movie" class="" onclick="nclk(this, 'mov.list', '13639', '');">🍸'007 노 타임 투 다이' 드디어 오픈! 본드의 장대한 피날레를 확인하라! </a>]]></content:encoded>
+            <title><![CDATA[❤️따듯한 상상력이 빛나는 올해의 걸작, '쁘띠 마망' 경품 이벤트! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13653?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13653?productType=movie</guid>
+            <pubDate>Wed, 24 Nov 2021 15:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13653?productType=movie" class="" onclick="nclk(this, 'mov.list', '13653', '');">❤️따듯한 상상력이 빛나는 올해의 걸작, '쁘띠 마망' 경품 이벤트!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎁보고 싶은 영화 관심 담으면 쏩니다! 수능 끝! ([시리즈온] 이벤트)]]></title>
@@ -1218,7 +1211,7 @@
             <title><![CDATA[내 심장을 쏴라 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 24 Nov 2021 14:15:26 GMT</pubDate>
+            <pubDate>Wed, 24 Nov 2021 15:17:39 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150115_254/1421312888488dGqdV_PNG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1226,7 +1219,7 @@
             <title><![CDATA[과속스캔들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 24 Nov 2021 14:15:26 GMT</pubDate>
+            <pubDate>Wed, 24 Nov 2021 15:17:39 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_14/1324584883775HhKfa_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1238,7 +1231,7 @@
             <guid>https://m.serieson.naver.com/movie/detail?productNo=6798980</guid>
             <pubDate>Tue, 16 Nov 2021 09:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">16,390</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                    <dd><span class="hel_bd">10,890</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210831_152/1630371935224qy9s6_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1249,7 +1242,7 @@
             <guid>https://m.serieson.naver.com/movie/detail?productNo=6798981</guid>
             <pubDate>Tue, 16 Nov 2021 09:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">11,000</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                    <dd><span class="hel_bd">7,700</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210831_152/1630371935224qy9s6_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
