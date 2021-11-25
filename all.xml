@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 05:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 06:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										더빙
+											지옥(두개의 삶) ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/473391</link>
+            <guid>https://serieson.naver.com/v2/movie/473391</guid>
+            <pubDate>Thu, 18 Nov 2021 15:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=w320" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국도극장 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/419599</link>
@@ -34,20 +48,6 @@
             <pubDate>Thu, 18 Nov 2021 15:16:41 GMT</pubDate>
             <content:encoded><![CDATA[12월 2일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180122_264/1516602139714eoxVR_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										더빙
-											지옥(두개의 삶) ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/473391</link>
-            <guid>https://serieson.naver.com/v2/movie/473391</guid>
-            <pubDate>Thu, 18 Nov 2021 15:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=w320" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[초능력자 ([시리즈온] 이주의 무료영화)]]></title>
@@ -145,14 +145,14 @@
             <title><![CDATA[내 심장을 쏴라 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 25 Nov 2021 05:14:49 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 06:19:27 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과속스캔들 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 25 Nov 2021 05:14:49 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 06:19:27 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -1083,6 +1083,20 @@
             <content:encoded><![CDATA[<a href="/events/13192?productType=movie" class="" onclick="nclk(this, 'mov.list', '13192', '');">이번주 가격인하작, 시리즈온에서 확인!</a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[19금
+											
+										
+									
+									더빙
+									
+										지옥(두개의 삶) (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/473391</link>
+            <guid>https://m.serieson.naver.com/v2/movie/473391</guid>
+            <pubDate>Thu, 18 Nov 2021 15:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=f128_184" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[국도극장 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://m.serieson.naver.com/v2/movie/419599</link>
             <guid>https://m.serieson.naver.com/v2/movie/419599</guid>
@@ -1107,20 +1121,6 @@
             <pubDate>Thu, 18 Nov 2021 15:17:26 GMT</pubDate>
             <content:encoded><![CDATA[12월 2일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180122_264/1516602139714eoxVR_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19금
-											
-										
-									
-									더빙
-									
-										지옥(두개의 삶) (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/473391</link>
-            <guid>https://m.serieson.naver.com/v2/movie/473391</guid>
-            <pubDate>Thu, 18 Nov 2021 15:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=f128_184" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[초능력자 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -1218,7 +1218,7 @@
             <title><![CDATA[내 심장을 쏴라 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 25 Nov 2021 05:15:36 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 06:20:04 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150115_254/1421312888488dGqdV_PNG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1226,7 +1226,7 @@
             <title><![CDATA[과속스캔들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 25 Nov 2021 05:15:36 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 06:20:04 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_14/1324584883775HhKfa_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
