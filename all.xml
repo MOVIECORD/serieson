@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 06:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 07:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,14 +145,14 @@
             <title><![CDATA[내 심장을 쏴라 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 25 Nov 2021 06:19:27 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 07:16:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과속스캔들 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 25 Nov 2021 06:19:27 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 07:16:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -1218,7 +1218,7 @@
             <title><![CDATA[내 심장을 쏴라 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 25 Nov 2021 06:20:04 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 07:17:04 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150115_254/1421312888488dGqdV_PNG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1226,7 +1226,7 @@
             <title><![CDATA[과속스캔들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 25 Nov 2021 06:20:04 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 07:17:04 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_14/1324584883775HhKfa_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
