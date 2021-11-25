@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 11:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 12:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,14 +145,14 @@
             <title><![CDATA[내 심장을 쏴라]]></title>
             <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
             <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Thu, 25 Nov 2021 11:13:33 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 12:25:02 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과속스캔들]]></title>
             <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
             <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Thu, 25 Nov 2021 11:13:33 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 12:25:02 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
     </channel>
