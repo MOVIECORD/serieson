@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 14:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 15:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -73,14 +73,6 @@
             <pubDate>Tue, 26 Oct 2021 09:15:50 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200522_230/1590125376715JeW0r_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국도극장]]></title>
-            <link>https://serieson.naver.com/v2/movie/419599</link>
-            <guid>https://serieson.naver.com/v2/movie/419599</guid>
-            <pubDate>Fri, 12 Nov 2021 15:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200526_172/1590480126993aPfB9_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카페 벨에포크]]></title>
@@ -209,6 +201,14 @@
             <pubDate>Sun, 14 Nov 2021 15:15:57 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190927_8/1569550909963dbsdI_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메기]]></title>
+            <link>https://serieson.naver.com/v2/movie/327831</link>
+            <guid>https://serieson.naver.com/v2/movie/327831</guid>
+            <pubDate>Fri, 26 Nov 2021 15:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190903_89/1567472276429VUl4Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
