@@ -4,20 +4,9 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 14:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 15:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[19
-			
-			
-			암모나이트]]></title>
-            <link>https://serieson.naver.com/v2/movie/431846</link>
-            <guid>https://serieson.naver.com/v2/movie/431846</guid>
-            <pubDate>Tue, 16 Nov 2021 15:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210223_152/16140611130096PApJ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[종이꽃]]></title>
             <link>https://serieson.naver.com/v2/movie/407120</link>
@@ -81,14 +70,6 @@
             <pubDate>Tue, 26 Oct 2021 09:15:50 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200513_255/1589352192563Cb3mX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톰보이]]></title>
-            <link>https://serieson.naver.com/v2/movie/375429</link>
-            <guid>https://serieson.naver.com/v2/movie/375429</guid>
-            <pubDate>Tue, 23 Nov 2021 15:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200417_103/1587088820009DdKKx_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고양이 집사]]></title>
@@ -163,14 +144,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20191028_202/15722268699153zHt3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤희에게]]></title>
-            <link>https://serieson.naver.com/v2/movie/335790</link>
-            <guid>https://serieson.naver.com/v2/movie/335790</guid>
-            <pubDate>Tue, 23 Nov 2021 15:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20191203_217/1575347950420leqmB_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[블랙머니 (가치봄영화:시청각장..]]></title>
             <link>https://serieson.naver.com/v2/movie/371673</link>
             <guid>https://serieson.naver.com/v2/movie/371673</guid>
@@ -209,6 +182,31 @@
             <pubDate>Fri, 26 Nov 2021 15:16:42 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190903_89/1567472276429VUl4Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벌새]]></title>
+            <link>https://serieson.naver.com/v2/movie/329937</link>
+            <guid>https://serieson.naver.com/v2/movie/329937</guid>
+            <pubDate>Tue, 30 Nov 2021 15:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190805_121/1564969695835Iq9Qc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주전장]]></title>
+            <link>https://serieson.naver.com/v2/movie/392038</link>
+            <guid>https://serieson.naver.com/v2/movie/392038</guid>
+            <pubDate>Tue, 30 Nov 2021 15:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190712_279/1562912698606Qv0GH_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			레드슈즈]]></title>
+            <link>https://serieson.naver.com/v2/movie/299755</link>
+            <guid>https://serieson.naver.com/v2/movie/299755</guid>
+            <pubDate>Tue, 30 Nov 2021 15:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190725_193/1564022721149J72b7_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
