@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-01T00:54:40.320Z</updated>
+    <updated>2021-12-01T02:05:14.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://serieson.naver.com/events/13644?productType=movie"/>
         <updated>2021-11-23T15:19:13.637Z</updated>
         <content type="html"><![CDATA[<a href="/events/13644?productType=movie" class="" onclick="nclk(this, 'mov.list', '13644', '');">👽대혼란의 시대에 딱 어울리는 안티 히어로! '베놈 2: 렛 데어 비 카니지' 오픈</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🌝듄의 부름에 응답할 위대한 자를 찾습니다. ‘듄’ 시리즈온 OPEN]]></title>
+        <id>https://serieson.naver.com/events/13663?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13663?productType=movie"/>
+        <updated>2021-12-01T02:04:56.259Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13663?productType=movie" class="" onclick="nclk(this, 'mov.list', '13663', '');">🌝듄의 부름에 응답할 위대한 자를 찾습니다. ‘듄’ 시리즈온 OPEN</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🗡귀멸의 칼날: 남매의 연! 시리즈온 OPEN]]></title>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[<a href="/events/13655?productType=movie" class="" onclick="nclk(this, 'mov.list', '13655', '');">💥첩보물하면? 007! 007 시리즈하면? 시리즈온! '007 노 타임 투 다이'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎙️영원한 킬링 보이스! '빌리 홀리데이' 오픈 이벤트]]></title>
-        <id>https://serieson.naver.com/events/13660?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13660?productType=movie"/>
-        <updated>2021-11-29T15:17:14.402Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13660?productType=movie" class="" onclick="nclk(this, 'mov.list', '13660', '');">🎙️영원한 킬링 보이스! '빌리 홀리데이' 오픈 이벤트</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[💖맘 설레 죽을 빨간맛 로맨스 '애프터: 관계의 함정' 오픈!]]></title>
         <id>https://serieson.naver.com/events/13647?productType=movie</id>
         <link href="https://serieson.naver.com/events/13647?productType=movie"/>
         <updated>2021-11-18T01:58:40.280Z</updated>
         <content type="html"><![CDATA[<a href="/events/13647?productType=movie" class="" onclick="nclk(this, 'mov.list', '13647', '');">💖맘 설레 죽을 빨간맛 로맨스 '애프터: 관계의 함정' 오픈!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️영원한 킬링 보이스! '빌리 홀리데이' 오픈 이벤트]]></title>
+        <id>https://serieson.naver.com/events/13660?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13660?productType=movie"/>
+        <updated>2021-11-29T15:17:14.402Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13660?productType=movie" class="" onclick="nclk(this, 'mov.list', '13660', '');">🎙️영원한 킬링 보이스! '빌리 홀리데이' 오픈 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[❤️따듯한 상상력이 빛나는 올해의 걸작, '쁘띠 마망' 경품 이벤트!]]></title>
@@ -67,5 +74,19 @@
         <link href="https://serieson.naver.com/events/13192?productType=movie"/>
         <updated>2021-10-26T09:16:10.434Z</updated>
         <content type="html"><![CDATA[<a href="/events/13192?productType=movie" class="" onclick="nclk(this, 'mov.list', '13192', '');">이번주 가격인하작, 시리즈온에서 확인!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📌100캐시로 5천 캐시 영화 소장할 수 있는 기회!]]></title>
+        <id>https://serieson.naver.com/events/13632?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13632?productType=movie"/>
+        <updated>2021-12-01T02:04:56.268Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13632?productType=movie" class="" onclick="nclk(this, 'mov.list', '13632', '');">📌100캐시로 5천 캐시 영화 소장할 수 있는 기회!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!]]></title>
+        <id>https://serieson.naver.com/events/13610?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13610?productType=movie"/>
+        <updated>2021-12-01T02:04:56.270Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13610?productType=movie" class="" onclick="nclk(this, 'mov.list', '13610', '');">✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!</a>]]></content>
     </entry>
 </feed>
