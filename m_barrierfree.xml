@@ -4,9 +4,32 @@
         <title>모바일 네이버 시리즈온 ─ 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 11:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 12:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기적 (가치봄영화:시청각장애인용)
+                
+                (구매)]]></title>
+            <link>https://m.serieson.naver.com/movie/detail?productNo=6859093</link>
+            <guid>https://m.serieson.naver.com/movie/detail?productNo=6859093</guid>
+            <pubDate>Thu, 02 Dec 2021 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>구매</dt>
+                    <dd><span class="hel_bd">9,900</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211020_202/16347229829782UJSe_JPEG/miracle_MP.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기적 (가치봄영화:시청각장애인용)
+                (대여)]]></title>
+            <link>https://m.serieson.naver.com/movie/detail?productNo=6859094</link>
+            <guid>https://m.serieson.naver.com/movie/detail?productNo=6859094</guid>
+            <pubDate>Thu, 02 Dec 2021 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>대여</dt>
+                    <dd><span class="hel_bd">5,000</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211020_202/16347229829782UJSe_JPEG/miracle_MP.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보이스 (가치봄영화:시청각장애인용)
                 
@@ -285,29 +308,6 @@
                     <dd><span class="hel_bd">1,400</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211118_277/1637242538110cvoKQ_PNG/ONPOSTER_1912.__.png?type=f128_184" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이 안에 외계인이 있다 (가치봄영화:시청각장애인용)
-                (대여)]]></title>
-            <link>https://m.serieson.naver.com/movie/detail?productNo=6029150</link>
-            <guid>https://m.serieson.naver.com/movie/detail?productNo=6029150</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">2,750</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210120_178/1611108833957tp0l2_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 안에 외계인이 있다 (가치봄영화:시청각장애인용)
-                
-                (구매)]]></title>
-            <link>https://m.serieson.naver.com/movie/detail?productNo=6029151</link>
-            <guid>https://m.serieson.naver.com/movie/detail?productNo=6029151</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">7,150</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210120_178/1611108833957tp0l2_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
