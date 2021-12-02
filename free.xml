@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,22 @@
             <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
             <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=w320" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[브레인 온 파이어]]></title>
+            <link>https://serieson.naver.com/v2/movie/215458</link>
+            <guid>https://serieson.naver.com/v2/movie/215458</guid>
+            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171117_255/15108810505362fF9m_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과속스캔들]]></title>
+            <link>https://serieson.naver.com/v2/movie/267602</link>
+            <guid>https://serieson.naver.com/v2/movie/267602</guid>
+            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[12월 9일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_14/1324584883775HhKfa_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두 번째 겨울]]></title>
@@ -38,12 +54,28 @@
             <enclosure url="https://movie-phinf.pstatic.net/20171117_110/1510908704210s6ew1_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브레인 온 파이어]]></title>
-            <link>https://serieson.naver.com/v2/movie/215458</link>
-            <guid>https://serieson.naver.com/v2/movie/215458</guid>
+            <title><![CDATA[내 심장을 쏴라]]></title>
+            <link>https://serieson.naver.com/v2/movie/83468</link>
+            <guid>https://serieson.naver.com/v2/movie/83468</guid>
             <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171117_255/15108810505362fF9m_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[12월 9일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150115_254/1421312888488dGqdV_PNG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아름다운 여행]]></title>
+            <link>https://serieson.naver.com/v2/movie/342836</link>
+            <guid>https://serieson.naver.com/v2/movie/342836</guid>
+            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[12월 9일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200206_288/1580970380122ozFa8_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미안해 사랑이라 불러서]]></title>
+            <link>https://serieson.naver.com/v2/movie/342369</link>
+            <guid>https://serieson.naver.com/v2/movie/342369</guid>
+            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[12월 9일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200213_84/158157619395074oQs_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -58,30 +90,6 @@
             <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
             <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_127/1324633122000XXNwl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 심장을 쏴라]]></title>
-            <link>https://serieson.naver.com/v2/movie/83468</link>
-            <guid>https://serieson.naver.com/v2/movie/83468</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[12월 9일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150115_254/1421312888488dGqdV_PNG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과속스캔들]]></title>
-            <link>https://serieson.naver.com/v2/movie/267602</link>
-            <guid>https://serieson.naver.com/v2/movie/267602</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[12월 9일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_14/1324584883775HhKfa_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아름다운 여행]]></title>
-            <link>https://serieson.naver.com/v2/movie/342836</link>
-            <guid>https://serieson.naver.com/v2/movie/342836</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[12월 9일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200206_288/1580970380122ozFa8_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴플리트 언노운]]></title>
@@ -112,14 +120,6 @@
             <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
             <content:encoded><![CDATA[12월 9일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200203_34/1580714764016t5iu4_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미안해 사랑이라 불러서]]></title>
-            <link>https://serieson.naver.com/v2/movie/342369</link>
-            <guid>https://serieson.naver.com/v2/movie/342369</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[12월 9일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200213_84/158157619395074oQs_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 복서]]></title>
