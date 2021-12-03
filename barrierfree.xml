@@ -4,18 +4,9 @@
         <title>[시리즈온] 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 00:51:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 02:00:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[기적 (가치봄영화:시청각장애인..]]></title>
-            <link>https://serieson.naver.com/v2/movie/475871</link>
-            <guid>https://serieson.naver.com/v2/movie/475871</guid>
-            <pubDate>Thu, 02 Dec 2021 12:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211020_202/16347229829782UJSe_JPEG/miracle_MP.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[기적 (가치봄영화:시청각장애인..]]></title>
             <link>https://serieson.naver.com/v2/movie/475872</link>
@@ -23,6 +14,15 @@
             <pubDate>Thu, 02 Dec 2021 12:25:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">대여</em>
 					<strong class="payment"><span>5,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211020_202/16347229829782UJSe_JPEG/miracle_MP.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기적 (가치봄영화:시청각장애인..]]></title>
+            <link>https://serieson.naver.com/v2/movie/475871</link>
+            <guid>https://serieson.naver.com/v2/movie/475871</guid>
+            <pubDate>Thu, 02 Dec 2021 12:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211020_202/16347229829782UJSe_JPEG/miracle_MP.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
