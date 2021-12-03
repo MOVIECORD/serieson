@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 12:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 13:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1060,6 +1060,42 @@
             <enclosure url="https://movie-phinf.pstatic.net/20190725_193/1564022721149J72b7_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인질 (가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/476143</link>
+            <guid>https://serieson.naver.com/v2/movie/476143</guid>
+            <pubDate>Fri, 03 Dec 2021 13:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210714_30/16262486171225Il6s_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인질 (가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/476144</link>
+            <guid>https://serieson.naver.com/v2/movie/476144</guid>
+            <pubDate>Fri, 03 Dec 2021 13:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>4,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210714_30/16262486171225Il6s_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱크홀 (가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/476145</link>
+            <guid>https://serieson.naver.com/v2/movie/476145</guid>
+            <pubDate>Fri, 03 Dec 2021 13:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210726_114/1627265960693kkM0B_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱크홀 (가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/476146</link>
+            <guid>https://serieson.naver.com/v2/movie/476146</guid>
+            <pubDate>Fri, 03 Dec 2021 13:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>5,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210726_114/1627265960693kkM0B_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기적 (가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/475872</link>
             <guid>https://serieson.naver.com/v2/movie/475872</guid>
@@ -1252,42 +1288,6 @@
             <content:encoded><![CDATA[<em class="">대여</em>
 					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210309_252/1615273096940WnlAs_JPEG/_.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죽지않는 인간들의 밤 (가치봄.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/465043</link>
-            <guid>https://serieson.naver.com/v2/movie/465043</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201015_119/1602736778585gExQ2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미나리 (가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/434953</link>
-            <guid>https://serieson.naver.com/v2/movie/434953</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미나리 (가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/434954</link>
-            <guid>https://serieson.naver.com/v2/movie/434954</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저 산 너머 (가치봄영화:시청각.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/434952</link>
-            <guid>https://serieson.naver.com/v2/movie/434952</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>1,400</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211118_277/1637242538110cvoKQ_PNG/ONPOSTER_1912.__.png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[👽대혼란의 시대에 딱 어울리는 안티 히어로! '베놈 2: 렛 데어 비 카니지' 오픈 ([시리즈온] 이벤트)]]></title>
@@ -1526,6 +1526,52 @@
             <pubDate>Wed, 01 Dec 2021 22:16:34 GMT</pubDate>
             <content:encoded><![CDATA[12월 9일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20181120_226/1542703066246bx52K_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인질 (가치봄영화:시청각장애인용)
+                
+                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
+            <link>https://m.serieson.naver.com/movie/detail?productNo=6864981</link>
+            <guid>https://m.serieson.naver.com/movie/detail?productNo=6864981</guid>
+            <pubDate>Fri, 03 Dec 2021 13:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>구매</dt>
+                    <dd><span class="hel_bd">9,900</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210714_30/16262486171225Il6s_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인질 (가치봄영화:시청각장애인용)
+                (대여) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
+            <link>https://m.serieson.naver.com/movie/detail?productNo=6864982</link>
+            <guid>https://m.serieson.naver.com/movie/detail?productNo=6864982</guid>
+            <pubDate>Fri, 03 Dec 2021 13:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>대여</dt>
+                    <dd><span class="hel_bd">4,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210714_30/16262486171225Il6s_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱크홀 (가치봄영화:시청각장애인용)
+                
+                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
+            <link>https://m.serieson.naver.com/movie/detail?productNo=6864983</link>
+            <guid>https://m.serieson.naver.com/movie/detail?productNo=6864983</guid>
+            <pubDate>Fri, 03 Dec 2021 13:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>구매</dt>
+                    <dd><span class="hel_bd">9,900</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210726_114/1627265960693kkM0B_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱크홀 (가치봄영화:시청각장애인용)
+                (대여) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
+            <link>https://m.serieson.naver.com/movie/detail?productNo=6864984</link>
+            <guid>https://m.serieson.naver.com/movie/detail?productNo=6864984</guid>
+            <pubDate>Fri, 03 Dec 2021 13:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>대여</dt>
+                    <dd><span class="hel_bd">5,000</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210726_114/1627265960693kkM0B_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기적 (가치봄영화:시청각장애인용)
@@ -1781,53 +1827,6 @@
                     <dd><span class="hel_bd">2,750</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210309_252/1615273096940WnlAs_JPEG/_.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죽지않는 인간들의 밤 (가치봄영화:시청각장애인용)
-                
-                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
-            <link>https://m.serieson.naver.com/movie/detail?productNo=6652944</link>
-            <guid>https://m.serieson.naver.com/movie/detail?productNo=6652944</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">2,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201015_119/1602736778585gExQ2_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미나리 (가치봄영화:시청각장애인용)
-                
-                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
-            <link>https://m.serieson.naver.com/movie/detail?productNo=6136305</link>
-            <guid>https://m.serieson.naver.com/movie/detail?productNo=6136305</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">7,150</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미나리 (가치봄영화:시청각장애인용)
-                (대여) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
-            <link>https://m.serieson.naver.com/movie/detail?productNo=6136306</link>
-            <guid>https://m.serieson.naver.com/movie/detail?productNo=6136306</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">2,750</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저 산 너머 (가치봄영화:시청각장애인용)
-                
-                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
-            <link>https://m.serieson.naver.com/movie/detail?productNo=6118085</link>
-            <guid>https://m.serieson.naver.com/movie/detail?productNo=6118085</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">1,400</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211118_277/1637242538110cvoKQ_PNG/ONPOSTER_1912.__.png?type=f128_184" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
