@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 14:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 15:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1311,13 +1311,6 @@
             <content:encoded><![CDATA[<a href="/events/13665?productType=movie" class="" onclick="nclk(this, 'mov.list', '13665', '');">🔍극장판 '명탐정 코난: 비색의 탄환' 지금 이 순간 바로 혜택 받고 보자!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🗡귀멸의 칼날: 남매의 연! 시리즈온 OPEN ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13659?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13659?productType=movie</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13659?productType=movie" class="" onclick="nclk(this, 'mov.list', '13659', '');">🗡귀멸의 칼날: 남매의 연! 시리즈온 OPEN</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[💥첩보물하면? 007! 007 시리즈하면? 시리즈온! '007 노 타임 투 다이' ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/13655?productType=movie</link>
             <guid>https://serieson.naver.com/events/13655?productType=movie</guid>
@@ -1325,11 +1318,18 @@
             <content:encoded><![CDATA[<a href="/events/13655?productType=movie" class="" onclick="nclk(this, 'mov.list', '13655', '');">💥첩보물하면? 007! 007 시리즈하면? 시리즈온! '007 노 타임 투 다이'</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🎙️영원한 킬링 보이스! '빌리 홀리데이' 오픈 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13660?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13660?productType=movie</guid>
+            <title><![CDATA[🗡귀멸의 칼날: 남매의 연! 시리즈온 OPEN ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13659?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13659?productType=movie</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13660?productType=movie" class="" onclick="nclk(this, 'mov.list', '13660', '');">🎙️영원한 킬링 보이스! '빌리 홀리데이' 오픈 이벤트</a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/events/13659?productType=movie" class="" onclick="nclk(this, 'mov.list', '13659', '');">🗡귀멸의 칼날: 남매의 연! 시리즈온 OPEN</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🛩️이탈리아 한 달 살기 떠나자! 리암 니슨의 '메이드 인 이태리' 오픈 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13667?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13667?productType=movie</guid>
+            <pubDate>Sun, 05 Dec 2021 15:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13667?productType=movie" class="" onclick="nclk(this, 'mov.list', '13667', '');">🛩️이탈리아 한 달 살기 떠나자! 리암 니슨의 '메이드 인 이태리' 오픈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[❤️따듯한 상상력이 빛나는 올해의 걸작, '쁘띠 마망' 경품 이벤트! ([시리즈온] 이벤트)]]></title>
@@ -1337,6 +1337,13 @@
             <guid>https://serieson.naver.com/events/13653?productType=movie</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13653?productType=movie" class="" onclick="nclk(this, 'mov.list', '13653', '');">❤️따듯한 상상력이 빛나는 올해의 걸작, '쁘띠 마망' 경품 이벤트!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎙️영원한 킬링 보이스! '빌리 홀리데이' 오픈 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13660?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13660?productType=movie</guid>
+            <pubDate>Wed, 01 Dec 2021 22:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13660?productType=movie" class="" onclick="nclk(this, 'mov.list', '13660', '');">🎙️영원한 킬링 보이스! '빌리 홀리데이' 오픈 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[12월 우수이용자! 놓치지 말고 확인! ([시리즈온] 이벤트)]]></title>
