@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 19:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 20:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,10 +206,10 @@
 	
 		
 			<span class="score">
-				<span style="width:79%">평점</span>
+				<span style="width:78%">평점</span>
 				
 			</span>
-			<em class="score_num">7.9</em>
+			<em class="score_num">7.8</em>
 		
 		
 	
