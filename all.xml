@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 14:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 15:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1290,13 +1290,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210309_252/1615273096940WnlAs_JPEG/_.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[👽대혼란의 시대에 딱 어울리는 안티 히어로! '베놈 2: 렛 데어 비 카니지' 오픈 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13644?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13644?productType=movie</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13644?productType=movie" class="" onclick="nclk(this, 'mov.list', '13644', '');">👽대혼란의 시대에 딱 어울리는 안티 히어로! '베놈 2: 렛 데어 비 카니지' 오픈</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[🌝듄의 부름에 응답할 위대한 자를 찾습니다. ‘듄’ 시리즈온 OPEN ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/13663?productType=movie</link>
             <guid>https://serieson.naver.com/events/13663?productType=movie</guid>
@@ -1311,18 +1304,18 @@
             <content:encoded><![CDATA[<a href="/events/13665?productType=movie" class="" onclick="nclk(this, 'mov.list', '13665', '');">🔍극장판 '명탐정 코난: 비색의 탄환' 지금 이 순간 바로 혜택 받고 보자!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[💥첩보물하면? 007! 007 시리즈하면? 시리즈온! '007 노 타임 투 다이' ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13655?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13655?productType=movie</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13655?productType=movie" class="" onclick="nclk(this, 'mov.list', '13655', '');">💥첩보물하면? 007! 007 시리즈하면? 시리즈온! '007 노 타임 투 다이'</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[🗡귀멸의 칼날: 남매의 연 & 나타구모산 편! 시리즈온 OPEN ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/13659?productType=movie</link>
             <guid>https://serieson.naver.com/events/13659?productType=movie</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13659?productType=movie" class="" onclick="nclk(this, 'mov.list', '13659', '');">🗡귀멸의 칼날: 남매의 연 &amp; 나타구모산 편! 시리즈온 OPEN</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💗말맛 터지는 올해 가장 신선한 로맨스 <장르만 로맨스> 오픈! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13671?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13671?productType=movie</guid>
+            <pubDate>Tue, 07 Dec 2021 15:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13671?productType=movie" class="" onclick="nclk(this, 'mov.list', '13671', '');">💗말맛 터지는 올해 가장 신선한 로맨스 &lt;장르만 로맨스&gt; 오픈!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🛩️이탈리아 한 달 살기 떠나자! 리암 니슨의 '메이드 인 이태리' 오픈 ([시리즈온] 이벤트)]]></title>
