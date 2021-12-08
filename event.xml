@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-08T14:16:07.988Z</updated>
+    <updated>2021-12-08T15:17:35.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -39,13 +39,6 @@
         <link href="https://serieson.naver.com/events/13667?productType=movie"/>
         <updated>2021-12-05T15:16:17.869Z</updated>
         <content type="html"><![CDATA[<a href="/events/13667?productType=movie" class="" onclick="nclk(this, 'mov.list', '13667', '');">🛩️이탈리아 한 달 살기 떠나자! 리암 니슨의 '메이드 인 이태리' 오픈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[❤️따듯한 상상력이 빛나는 올해의 걸작, '쁘띠 마망' 경품 이벤트!]]></title>
-        <id>https://serieson.naver.com/events/13653?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13653?productType=movie"/>
-        <updated>2021-12-01T22:16:25.597Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13653?productType=movie" class="" onclick="nclk(this, 'mov.list', '13653', '');">❤️따듯한 상상력이 빛나는 올해의 걸작, '쁘띠 마망' 경품 이벤트!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎙️영원한 킬링 보이스! '빌리 홀리데이' 오픈 이벤트]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 14:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 15:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -859,6 +859,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20141113_224/1415868769500d1UGq_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마이 미씽 발렌타인 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/422752</link>
+            <guid>https://serieson.naver.com/v2/movie/422752</guid>
+            <pubDate>Wed, 08 Dec 2021 15:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210104_262/1609726445748nxzg9_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[종이꽃 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/407120</link>
             <guid>https://serieson.naver.com/v2/movie/407120</guid>
@@ -1049,15 +1057,6 @@
             <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190712_279/1562912698606Qv0GH_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-			레드슈즈 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/299755</link>
-            <guid>https://serieson.naver.com/v2/movie/299755</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190725_193/1564022721149J72b7_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인질 (가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
@@ -1323,13 +1322,6 @@
             <guid>https://serieson.naver.com/events/13667?productType=movie</guid>
             <pubDate>Sun, 05 Dec 2021 15:16:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13667?productType=movie" class="" onclick="nclk(this, 'mov.list', '13667', '');">🛩️이탈리아 한 달 살기 떠나자! 리암 니슨의 '메이드 인 이태리' 오픈</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[❤️따듯한 상상력이 빛나는 올해의 걸작, '쁘띠 마망' 경품 이벤트! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13653?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13653?productType=movie</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13653?productType=movie" class="" onclick="nclk(this, 'mov.list', '13653', '');">❤️따듯한 상상력이 빛나는 올해의 걸작, '쁘띠 마망' 경품 이벤트!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎙️영원한 킬링 보이스! '빌리 홀리데이' 오픈 이벤트 ([시리즈온] 이벤트)]]></title>
