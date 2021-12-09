@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 14:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 15:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200804_267/1596505576712zw2dt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어서오시게스트하우스]]></title>
+            <link>https://serieson.naver.com/v2/movie/394978</link>
+            <guid>https://serieson.naver.com/v2/movie/394978</guid>
+            <pubDate>Thu, 09 Dec 2021 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200721_39/1595297147469RAJGz_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소년시절의 너]]></title>
             <link>https://serieson.naver.com/v2/movie/392036</link>
             <guid>https://serieson.naver.com/v2/movie/392036</guid>
@@ -78,6 +86,14 @@
             <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200513_255/1589352192563Cb3mX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[톰보이]]></title>
+            <link>https://serieson.naver.com/v2/movie/375429</link>
+            <guid>https://serieson.naver.com/v2/movie/375429</guid>
+            <pubDate>Thu, 09 Dec 2021 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200417_103/1587088820009DdKKx_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고양이 집사]]></title>
@@ -120,6 +136,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200219_277/15820765775925k14P_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[찬실이는 복도 많지]]></title>
+            <link>https://serieson.naver.com/v2/movie/366230</link>
+            <guid>https://serieson.naver.com/v2/movie/366230</guid>
+            <pubDate>Thu, 09 Dec 2021 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200214_123/1581659934908mAoGh_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1917]]></title>
             <link>https://serieson.naver.com/v2/movie/364425</link>
             <guid>https://serieson.naver.com/v2/movie/364425</guid>
@@ -152,6 +176,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20191028_202/15722268699153zHt3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤희에게]]></title>
+            <link>https://serieson.naver.com/v2/movie/335790</link>
+            <guid>https://serieson.naver.com/v2/movie/335790</guid>
+            <pubDate>Thu, 09 Dec 2021 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20191203_217/1575347950420leqmB_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블랙머니 (가치봄영화:시청각장..]]></title>
             <link>https://serieson.naver.com/v2/movie/371673</link>
             <guid>https://serieson.naver.com/v2/movie/371673</guid>
@@ -174,38 +206,6 @@
             <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190930_289/1569807701952m4QR2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시크릿 슈퍼스타]]></title>
-            <link>https://serieson.naver.com/v2/movie/329509</link>
-            <guid>https://serieson.naver.com/v2/movie/329509</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190927_8/1569550909963dbsdI_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메기]]></title>
-            <link>https://serieson.naver.com/v2/movie/327831</link>
-            <guid>https://serieson.naver.com/v2/movie/327831</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190903_89/1567472276429VUl4Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌새]]></title>
-            <link>https://serieson.naver.com/v2/movie/329937</link>
-            <guid>https://serieson.naver.com/v2/movie/329937</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190805_121/1564969695835Iq9Qc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주전장]]></title>
-            <link>https://serieson.naver.com/v2/movie/392038</link>
-            <guid>https://serieson.naver.com/v2/movie/392038</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190712_279/1562912698606Qv0GH_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
