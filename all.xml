@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 00:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 02:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1315,6 +1315,13 @@
             <guid>https://serieson.naver.com/events/13671?productType=movie</guid>
             <pubDate>Tue, 07 Dec 2021 15:18:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13671?productType=movie" class="" onclick="nclk(this, 'mov.list', '13671', '');">💗말맛 터지는 올해 가장 신선한 로맨스 &lt;장르만 로맨스&gt; 오픈!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[⚡️한국에서 제일 빠르게 즐기는 HBO의 향기 '노 서든 무브' 시리즈온 도착! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13672?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13672?productType=movie</guid>
+            <pubDate>Thu, 09 Dec 2021 02:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13672?productType=movie" class="" onclick="nclk(this, 'mov.list', '13672', '');">⚡️한국에서 제일 빠르게 즐기는 HBO의 향기 '노 서든 무브' 시리즈온 도착!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🛩️이탈리아 한 달 살기 떠나자! 리암 니슨의 '메이드 인 이태리' 오픈 ([시리즈온] 이벤트)]]></title>
