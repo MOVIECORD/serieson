@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 15:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,30 @@
             <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
             <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=w320" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[창문넘어 도망친 100세 노인 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/68135</link>
+            <guid>https://serieson.naver.com/v2/movie/68135</guid>
+            <pubDate>Fri, 10 Dec 2021 15:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140613_145/1402640433728U8Swh_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 레이싱 : 이너셜 드리프트 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/180533</link>
+            <guid>https://serieson.naver.com/v2/movie/180533</guid>
+            <pubDate>Fri, 10 Dec 2021 15:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170316_179/1489652746622exLUA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태양의 노래 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/178516</link>
+            <guid>https://serieson.naver.com/v2/movie/178516</guid>
+            <pubDate>Fri, 10 Dec 2021 15:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170207_115/14864285933774Wzrd_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위 아 엑스 ([시리즈온] 이주의 무료영화)]]></title>
@@ -141,42 +165,11 @@
             <enclosure url="https://movie-phinf.pstatic.net/20190701_55/1561945965261SuTqv_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브레인 온 파이어 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/215458</link>
-            <guid>https://serieson.naver.com/v2/movie/215458</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171117_255/15108810505362fF9m_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 번째 겨울 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/265804</link>
-            <guid>https://serieson.naver.com/v2/movie/265804</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181214_191/1544767095151zsv20_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리스 헤지나 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/215765</link>
-            <guid>https://serieson.naver.com/v2/movie/215765</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171117_110/1510908704210s6ew1_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											줄리아의 눈 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/403112</link>
-            <guid>https://serieson.naver.com/v2/movie/403112</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_127/1324633122000XXNwl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <title><![CDATA[와일드 로즈 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
+            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
+            <pubDate>Fri, 10 Dec 2021 15:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[19
@@ -783,6 +776,30 @@
             <enclosure url="https://movie-phinf.pstatic.net/20190930_289/1569807701952m4QR2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[19
+			
+			
+			강릉 (가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/477173</link>
+            <guid>https://serieson.naver.com/v2/movie/477173</guid>
+            <pubDate>Fri, 10 Dec 2021 15:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>14,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211108_295/1636363035383sHbbs_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+			
+			
+			강릉 (가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/477174</link>
+            <guid>https://serieson.naver.com/v2/movie/477174</guid>
+            <pubDate>Fri, 10 Dec 2021 15:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>10,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211108_295/1636363035383sHbbs_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인질 (가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/476143</link>
             <guid>https://serieson.naver.com/v2/movie/476143</guid>
@@ -995,24 +1012,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_31/1632481266455FBBUT_PNG/ONPOSTER_3..png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[새해전야 (가치봄영화:시청각장.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/467499</link>
-            <guid>https://serieson.naver.com/v2/movie/467499</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210309_252/1615273096940WnlAs_JPEG/_.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해전야 (가치봄영화:시청각장.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/467500</link>
-            <guid>https://serieson.naver.com/v2/movie/467500</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210309_252/1615273096940WnlAs_JPEG/_.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[🌝듄의 부름에 응답할 위대한 자를 찾습니다. ‘듄’ 시리즈온 OPEN ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/13663?productType=movie</link>
             <guid>https://serieson.naver.com/events/13663?productType=movie</guid>
@@ -1116,6 +1115,30 @@
             <pubDate>Wed, 01 Dec 2021 22:16:34 GMT</pubDate>
             <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=f128_184" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[창문넘어 도망친 100세 노인 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/68135</link>
+            <guid>https://m.serieson.naver.com/v2/movie/68135</guid>
+            <pubDate>Fri, 10 Dec 2021 15:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140613_145/1402640433728U8Swh_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 레이싱 : 이너셜 드리프트 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/180533</link>
+            <guid>https://m.serieson.naver.com/v2/movie/180533</guid>
+            <pubDate>Fri, 10 Dec 2021 15:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170316_179/1489652746622exLUA_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태양의 노래 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/178516</link>
+            <guid>https://m.serieson.naver.com/v2/movie/178516</guid>
+            <pubDate>Fri, 10 Dec 2021 15:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170207_115/14864285933774Wzrd_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위 아 엑스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -1238,42 +1261,41 @@
             <enclosure url="https://movie-phinf.pstatic.net/20190701_55/1561945965261SuTqv_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브레인 온 파이어 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/215458</link>
-            <guid>https://m.serieson.naver.com/v2/movie/215458</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171117_255/15108810505362fF9m_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 번째 겨울 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/265804</link>
-            <guid>https://m.serieson.naver.com/v2/movie/265804</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181214_191/1544767095151zsv20_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리스 헤지나 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/215765</link>
-            <guid>https://m.serieson.naver.com/v2/movie/215765</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171117_110/1510908704210s6ew1_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+            <title><![CDATA[와일드 로즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
+            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
+            <pubDate>Fri, 10 Dec 2021 15:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19금
-											
-										
-									
-									
-									
-										줄리아의 눈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/403112</link>
-            <guid>https://m.serieson.naver.com/v2/movie/403112</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_127/1324633122000XXNwl_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+				
+                
+                강릉 (가치봄영화:시청각장애인용)
+                
+                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
+            <link>https://m.serieson.naver.com/movie/detail?productNo=6889492</link>
+            <guid>https://m.serieson.naver.com/movie/detail?productNo=6889492</guid>
+            <pubDate>Fri, 10 Dec 2021 15:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>구매</dt>
+                    <dd><span class="hel_bd">14,900</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211108_295/1636363035383sHbbs_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19금
+				
+                
+                강릉 (가치봄영화:시청각장애인용)
+                (대여) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
+            <link>https://m.serieson.naver.com/movie/detail?productNo=6889493</link>
+            <guid>https://m.serieson.naver.com/movie/detail?productNo=6889493</guid>
+            <pubDate>Fri, 10 Dec 2021 15:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>대여</dt>
+                    <dd><span class="hel_bd">10,000</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211108_295/1636363035383sHbbs_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인질 (가치봄영화:시청각장애인용)
@@ -1552,29 +1574,6 @@
                     <dd><span class="hel_bd">2,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_31/1632481266455FBBUT_PNG/ONPOSTER_3..png?type=f128_184" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[새해전야 (가치봄영화:시청각장애인용)
-                
-                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
-            <link>https://m.serieson.naver.com/movie/detail?productNo=6691965</link>
-            <guid>https://m.serieson.naver.com/movie/detail?productNo=6691965</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">7,150</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210309_252/1615273096940WnlAs_JPEG/_.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해전야 (가치봄영화:시청각장애인용)
-                (대여) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
-            <link>https://m.serieson.naver.com/movie/detail?productNo=6691966</link>
-            <guid>https://m.serieson.naver.com/movie/detail?productNo=6691966</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">2,750</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210309_252/1615273096940WnlAs_JPEG/_.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

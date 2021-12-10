@@ -4,7 +4,7 @@
         <title>모바일 네이버 시리즈온 ─ 무료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 15:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,30 @@
             <pubDate>Wed, 01 Dec 2021 22:16:34 GMT</pubDate>
             <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=f128_184" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[창문넘어 도망친 100세 노인]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/68135</link>
+            <guid>https://m.serieson.naver.com/v2/movie/68135</guid>
+            <pubDate>Fri, 10 Dec 2021 15:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140613_145/1402640433728U8Swh_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 레이싱 : 이너셜 드리프트]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/180533</link>
+            <guid>https://m.serieson.naver.com/v2/movie/180533</guid>
+            <pubDate>Fri, 10 Dec 2021 15:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170316_179/1489652746622exLUA_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태양의 노래]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/178516</link>
+            <guid>https://m.serieson.naver.com/v2/movie/178516</guid>
+            <pubDate>Fri, 10 Dec 2021 15:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170207_115/14864285933774Wzrd_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위 아 엑스]]></title>
@@ -142,42 +166,12 @@
             <enclosure url="https://movie-phinf.pstatic.net/20190701_55/1561945965261SuTqv_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브레인 온 파이어]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/215458</link>
-            <guid>https://m.serieson.naver.com/v2/movie/215458</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171117_255/15108810505362fF9m_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 번째 겨울]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/265804</link>
-            <guid>https://m.serieson.naver.com/v2/movie/265804</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181214_191/1544767095151zsv20_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리스 헤지나]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/215765</link>
-            <guid>https://m.serieson.naver.com/v2/movie/215765</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171117_110/1510908704210s6ew1_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19금
-											
-										
-									
-									
-									
-										줄리아의 눈]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/403112</link>
-            <guid>https://m.serieson.naver.com/v2/movie/403112</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_127/1324633122000XXNwl_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+            <title><![CDATA[와일드 로즈]]></title>
+            <link>https://m.serieson.naver.com/free</link>
+            <guid>https://m.serieson.naver.com/free</guid>
+            <pubDate>Fri, 10 Dec 2021 15:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
