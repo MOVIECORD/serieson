@@ -4,9 +4,27 @@
         <title>[시리즈온] 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 14:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 15:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가려진 시간 (가치봄영화:시청..]]></title>
+            <link>https://serieson.naver.com/v2/movie/474247</link>
+            <guid>https://serieson.naver.com/v2/movie/474247</guid>
+            <pubDate>Sun, 12 Dec 2021 15:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20161026_266/1477442984794mcXtF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가려진 시간 (가치봄영화:시청..]]></title>
+            <link>https://serieson.naver.com/v2/movie/474248</link>
+            <guid>https://serieson.naver.com/v2/movie/474248</guid>
+            <pubDate>Sun, 12 Dec 2021 15:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20161026_266/1477442984794mcXtF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[19
 			
@@ -224,24 +242,6 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200211_156/1581402209718zyQ9B_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제수사 (가치봄영화:시청각장..]]></title>
-            <link>https://serieson.naver.com/v2/movie/468546</link>
-            <guid>https://serieson.naver.com/v2/movie/468546</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200916_163/16002324767974gUSf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이 (가치봄영화:시청각장애인..]]></title>
-            <link>https://serieson.naver.com/v2/movie/468575</link>
-            <guid>https://serieson.naver.com/v2/movie/468575</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_31/1632481266455FBBUT_PNG/ONPOSTER_3..png?type=f102_138" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
