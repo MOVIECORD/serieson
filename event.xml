@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-13T14:16:06.211Z</updated>
+    <updated>2021-12-13T15:17:37.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[<a href="/events/13665?productType=movie" class="" onclick="nclk(this, 'mov.list', '13665', '');">🔍극장판 '명탐정 코난: 비색의 탄환' 지금 이 순간 바로 혜택 받고 보자!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🗡귀멸의 칼날: 남매의 연 & 나타구모산 편! 시리즈온 OPEN]]></title>
-        <id>https://serieson.naver.com/events/13659?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13659?productType=movie"/>
-        <updated>2021-12-01T22:16:25.592Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13659?productType=movie" class="" onclick="nclk(this, 'mov.list', '13659', '');">🗡귀멸의 칼날: 남매의 연 &amp; 나타구모산 편! 시리즈온 OPEN</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[💗말맛 터지는 올해 가장 신선한 로맨스 <장르만 로맨스> 오픈!]]></title>
         <id>https://serieson.naver.com/events/13671?productType=movie</id>
         <link href="https://serieson.naver.com/events/13671?productType=movie"/>
         <updated>2021-12-07T15:18:02.679Z</updated>
         <content type="html"><![CDATA[<a href="/events/13671?productType=movie" class="" onclick="nclk(this, 'mov.list', '13671', '');">💗말맛 터지는 올해 가장 신선한 로맨스 &lt;장르만 로맨스&gt; 오픈!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💥존 윅 제작진의 노빠꾸 복수 액션! '킬링 카인드: 킬러의 수제자' 경품 이벤트]]></title>
+        <id>https://serieson.naver.com/events/13678?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13678?productType=movie"/>
+        <updated>2021-12-13T15:17:22.139Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13678?productType=movie" class="" onclick="nclk(this, 'mov.list', '13678', '');">💥존 윅 제작진의 노빠꾸 복수 액션! '킬링 카인드: 킬러의 수제자' 경품 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[⚡️한국에서 제일 빠르게 즐기는 HBO의 향기 '노 서든 무브' 시리즈온 도착!]]></title>
@@ -60,13 +60,6 @@
         <link href="https://serieson.naver.com/events/13667?productType=movie"/>
         <updated>2021-12-05T15:16:17.869Z</updated>
         <content type="html"><![CDATA[<a href="/events/13667?productType=movie" class="" onclick="nclk(this, 'mov.list', '13667', '');">🛩️이탈리아 한 달 살기 떠나자! 리암 니슨의 '메이드 인 이태리' 오픈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎙️영원한 킬링 보이스! '빌리 홀리데이' 오픈 이벤트]]></title>
-        <id>https://serieson.naver.com/events/13660?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13660?productType=movie"/>
-        <updated>2021-12-01T22:16:25.596Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13660?productType=movie" class="" onclick="nclk(this, 'mov.list', '13660', '');">🎙️영원한 킬링 보이스! '빌리 홀리데이' 오픈 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12월 우수이용자! 놓치지 말고 확인!]]></title>

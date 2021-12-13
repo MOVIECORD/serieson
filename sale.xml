@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 14:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 15:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,12 +318,39 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210809_272/1628474909708DpiDH_JPEG/HarryPotter1_SS_MagicalMovieMode_V_DD_KA_TT_2000x2841_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[19
+			
+			
+			킬러의 보디가드 2]]></title>
+            <link>https://serieson.naver.com/v2/movie/456469</link>
+            <guid>https://serieson.naver.com/v2/movie/456469</guid>
+            <pubDate>Mon, 13 Dec 2021 15:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210624_286/1624496856988kAD9f_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킬러의 보디가드 2: 킬러의 와..]]></title>
+            <link>https://serieson.naver.com/v2/movie/456470</link>
+            <guid>https://serieson.naver.com/v2/movie/456470</guid>
+            <pubDate>Mon, 13 Dec 2021 15:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210818_291/1629279271873OcESQ_JPEG/_KB2_PO_A.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스페이스 잼: 새로운 시대 (세..]]></title>
             <link>https://serieson.naver.com/v2/movie/455606</link>
             <guid>https://serieson.naver.com/v2/movie/455606</guid>
             <pubDate>Wed, 01 Dec 2021 22:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<span>14,190</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데빌스 나잇]]></title>
+            <link>https://serieson.naver.com/v2/movie/454307</link>
+            <guid>https://serieson.naver.com/v2/movie/454307</guid>
+            <pubDate>Mon, 13 Dec 2021 15:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210727_259/16273502080747uURQ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오필리아]]></title>
@@ -358,58 +385,28 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210623_261/1624425567386pgigc_JPEG/CONJURING_TDMMDI_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미스피츠]]></title>
+            <link>https://serieson.naver.com/v2/movie/443210</link>
+            <guid>https://serieson.naver.com/v2/movie/443210</guid>
+            <pubDate>Mon, 13 Dec 2021 15:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210521_51/162158451369307FXL_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼크 웨이브 2]]></title>
+            <link>https://serieson.naver.com/v2/movie/440854</link>
+            <guid>https://serieson.naver.com/v2/movie/440854</guid>
+            <pubDate>Mon, 13 Dec 2021 15:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210407_56/1617772671538SdMca_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[호빗: 다섯 군대 전투 확장판 ..]]></title>
             <link>https://serieson.naver.com/v2/movie/438310</link>
             <guid>https://serieson.naver.com/v2/movie/438310</guid>
             <pubDate>Wed, 01 Dec 2021 22:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<span>3,300</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20141028_294/1414473502384tUvSe_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-			
-			
-			어른들은 몰라요]]></title>
-            <link>https://serieson.naver.com/v2/movie/437990</link>
-            <guid>https://serieson.naver.com/v2/movie/437990</guid>
-            <pubDate>Thu, 09 Dec 2021 15:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210416_272/16185371259377meLU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-			
-			명탐정 코난 : 비색의 부..]]></title>
-            <link>https://serieson.naver.com/v2/movie/434236</link>
-            <guid>https://serieson.naver.com/v2/movie/434236</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,925</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210412_182/1618191005762XNPca_JPEG/_img_conan2021_spinoff.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구라, 베토벤]]></title>
-            <link>https://serieson.naver.com/v2/movie/427116</link>
-            <guid>https://serieson.naver.com/v2/movie/427116</guid>
-            <pubDate>Thu, 09 Dec 2021 15:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210115_180/1610699461367h4Ou9_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-			명탐정 코난: 진홍의 수학..]]></title>
-            <link>https://serieson.naver.com/v2/movie/424536</link>
-            <guid>https://serieson.naver.com/v2/movie/424536</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,925</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210113_148/1610519457046SpEgy_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 나를 해고하지 않는다]]></title>
-            <link>https://serieson.naver.com/v2/movie/424556</link>
-            <guid>https://serieson.naver.com/v2/movie/424556</guid>
-            <pubDate>Thu, 09 Dec 2021 15:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201230_87/1609308950593VgLko_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
