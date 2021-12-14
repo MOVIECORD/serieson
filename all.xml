@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 18:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 19:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,7 +168,7 @@
             <title><![CDATA[와일드 로즈 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 14 Dec 2021 18:18:27 GMT</pubDate>
+            <pubDate>Tue, 14 Dec 2021 19:13:12 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -656,20 +656,20 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200513_255/1589352192563Cb3mX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고양이 집사 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/377528</link>
-            <guid>https://serieson.naver.com/v2/movie/377528</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200427_139/1587954977691kaCua_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[톰보이 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/375429</link>
             <guid>https://serieson.naver.com/v2/movie/375429</guid>
             <pubDate>Thu, 09 Dec 2021 15:17:02 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200417_103/1587088820009DdKKx_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고양이 집사 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/377528</link>
+            <guid>https://serieson.naver.com/v2/movie/377528</guid>
+            <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200427_139/1587954977691kaCua_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자막
@@ -699,20 +699,20 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200325_124/1585104977889IXrqR_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이장 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/372791</link>
-            <guid>https://serieson.naver.com/v2/movie/372791</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200310_275/1583820865612VfIMX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[주디 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/366666</link>
             <guid>https://serieson.naver.com/v2/movie/366666</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200313_59/1584086196479WLA9j_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이장 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/372791</link>
+            <guid>https://serieson.naver.com/v2/movie/372791</guid>
+            <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200310_275/1583820865612VfIMX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다크 워터스 ([시리즈온] 천원관)]]></title>
@@ -1264,7 +1264,7 @@
             <title><![CDATA[와일드 로즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 14 Dec 2021 18:19:05 GMT</pubDate>
+            <pubDate>Tue, 14 Dec 2021 19:13:56 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
