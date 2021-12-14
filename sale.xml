@@ -4,9 +4,28 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 14:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 15:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자막
+			
+			미첼 가족과 기계 전쟁]]></title>
+            <link>https://serieson.naver.com/v2/movie/476279</link>
+            <guid>https://serieson.naver.com/v2/movie/476279</guid>
+            <pubDate>Tue, 14 Dec 2021 15:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2,800</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211206_137/1638769611123w2kzJ_JPEG/DP_6322394_TheMitchellsVsTheMachines_2000x3000_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			미첼 가족과 기계 전쟁]]></title>
+            <link>https://serieson.naver.com/v2/movie/476281</link>
+            <guid>https://serieson.naver.com/v2/movie/476281</guid>
+            <pubDate>Tue, 14 Dec 2021 15:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2,800</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211206_137/1638769611123w2kzJ_JPEG/DP_6322394_TheMitchellsVsTheMachines_2000x3000_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[19
 			
@@ -391,22 +410,6 @@
             <pubDate>Mon, 13 Dec 2021 15:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210521_51/162158451369307FXL_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼크 웨이브 2]]></title>
-            <link>https://serieson.naver.com/v2/movie/440854</link>
-            <guid>https://serieson.naver.com/v2/movie/440854</guid>
-            <pubDate>Mon, 13 Dec 2021 15:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210407_56/1617772671538SdMca_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호빗: 다섯 군대 전투 확장판 ..]]></title>
-            <link>https://serieson.naver.com/v2/movie/438310</link>
-            <guid>https://serieson.naver.com/v2/movie/438310</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,300</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20141028_294/1414473502384tUvSe_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
