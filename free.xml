@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 19:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 20:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,7 +168,7 @@
             <title><![CDATA[와일드 로즈]]></title>
             <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
             <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Wed, 15 Dec 2021 19:13:31 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 20:16:37 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
     </channel>
