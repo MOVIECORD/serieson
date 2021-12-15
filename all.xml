@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 16:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 17:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,7 +168,7 @@
             <title><![CDATA[와일드 로즈 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 15 Dec 2021 16:23:46 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 17:22:19 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -1250,7 +1250,7 @@
             <title><![CDATA[와일드 로즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 15 Dec 2021 16:24:29 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 17:23:01 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
