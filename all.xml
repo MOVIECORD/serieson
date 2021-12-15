@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 14:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 15:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,7 +168,7 @@
             <title><![CDATA[와일드 로즈 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 15 Dec 2021 14:14:58 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 15:16:52 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -632,6 +632,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200721_39/1595297147469RAJGz_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[워터 릴리스 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/394881</link>
+            <guid>https://serieson.naver.com/v2/movie/394881</guid>
+            <pubDate>Wed, 15 Dec 2021 15:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200721_78/1595297783123YfmzE_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소년시절의 너 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/392036</link>
             <guid>https://serieson.naver.com/v2/movie/392036</guid>
@@ -656,20 +664,20 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200513_255/1589352192563Cb3mX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[톰보이 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/375429</link>
-            <guid>https://serieson.naver.com/v2/movie/375429</guid>
-            <pubDate>Thu, 09 Dec 2021 15:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200417_103/1587088820009DdKKx_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[고양이 집사 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/377528</link>
             <guid>https://serieson.naver.com/v2/movie/377528</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200427_139/1587954977691kaCua_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[톰보이 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/375429</link>
+            <guid>https://serieson.naver.com/v2/movie/375429</guid>
+            <pubDate>Thu, 09 Dec 2021 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200417_103/1587088820009DdKKx_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자막
@@ -769,14 +777,6 @@
             <pubDate>Thu, 09 Dec 2021 15:17:02 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191203_217/1575347950420leqmB_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙머니 (가치봄영화:시청각장.. ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/371673</link>
-            <guid>https://serieson.naver.com/v2/movie/371673</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가려진 시간 (가치봄영화:시청.. ([시리즈온] 가치봄 영화관)]]></title>
@@ -898,7 +898,7 @@
             <guid>https://serieson.naver.com/v2/movie/472717</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>7,700</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+					<strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210831_152/1630371935224qy9s6_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1026,20 +1026,6 @@
             <content:encoded><![CDATA[<a href="/events/20000?productType=movie" class="" onclick="nclk(this, 'mov.list', '20000', '');">🤝세상의 모든 에반에게 드리는 선물같은 영화 '디어 에반 핸슨'</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🌝듄의 부름에 응답할 위대한 자를 찾습니다. ‘듄’ 시리즈온 OPEN ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13663?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13663?productType=movie</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13663?productType=movie" class="" onclick="nclk(this, 'mov.list', '13663', '');">🌝듄의 부름에 응답할 위대한 자를 찾습니다. ‘듄’ 시리즈온 OPEN</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🔍극장판 '명탐정 코난: 비색의 탄환' 지금 이 순간 바로 혜택 받고 보자! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13665?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13665?productType=movie</guid>
-            <pubDate>Thu, 02 Dec 2021 02:00:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13665?productType=movie" class="" onclick="nclk(this, 'mov.list', '13665', '');">🔍극장판 '명탐정 코난: 비색의 탄환' 지금 이 순간 바로 혜택 받고 보자!</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[💗말맛 터지는 올해 가장 신선한 로맨스 <장르만 로맨스> 오픈! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/13671?productType=movie</link>
             <guid>https://serieson.naver.com/events/13671?productType=movie</guid>
@@ -1094,13 +1080,6 @@
             <guid>https://serieson.naver.com/events/13192?productType=movie</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13192?productType=movie" class="" onclick="nclk(this, 'mov.list', '13192', '');">이번주 가격인하작, 시리즈온에서 확인!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📌100캐시로 5천 캐시 영화 소장할 수 있는 기회! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13632?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13632?productType=movie</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13632?productType=movie" class="" onclick="nclk(this, 'mov.list', '13632', '');">📌100캐시로 5천 캐시 영화 소장할 수 있는 기회!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁! ([시리즈온] 이벤트)]]></title>
@@ -1271,7 +1250,7 @@
             <title><![CDATA[와일드 로즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 15 Dec 2021 14:15:36 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 15:17:35 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1427,7 +1406,7 @@
             <guid>https://m.serieson.naver.com/movie/detail?productNo=6798981</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">7,700</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                    <dd><span class="hel_bd">5,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210831_152/1630371935224qy9s6_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
