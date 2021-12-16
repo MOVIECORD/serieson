@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 07:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 08:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,7 @@
 										
 										
 										더빙
-											지옥(두개의 삶) ([시리즈온] 이주의 무료영화)]]></title>
+											지옥 : 두개의 삶 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/473391</link>
             <guid>https://serieson.naver.com/v2/movie/473391</guid>
             <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
@@ -168,7 +168,7 @@
             <title><![CDATA[와일드 로즈 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 16 Dec 2021 07:15:45 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 08:20:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -194,11 +194,11 @@
             <title><![CDATA[19
 			
 			더빙
-			지옥(두개의 삶) ([시리즈온] 할인 영화관)]]></title>
+			지옥 : 두개의 삶 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/473391</link>
             <guid>https://serieson.naver.com/v2/movie/473391</guid>
             <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/v2/movie/473391" class="NPI=a:content" title="지옥(두개의 삶) ">
+            <content:encoded><![CDATA[<a href="/v2/movie/473391" class="NPI=a:content" title="지옥 : 두개의 삶 ">
 		<span class="mask"></span>
 		
 			
@@ -217,7 +217,7 @@
 			
 				
 				
-				<img src="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+				<img src="https://tvstore-phinf.pstatic.net/20211216_73/1639637904707WYlWY_PNG/___.png?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
 			
 		
 		<strong>
@@ -225,7 +225,7 @@
 			<em class="ad_ico_s">19</em>
 			
 			<em class="mv_tv_ico lst_dub">더빙</em>
-			지옥(두개의 삶) 
+			지옥 : 두개의 삶 
 		</strong>
 	</a>
 	
@@ -258,7 +258,7 @@
 				
 				
 			</p>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=f102_138" length="0" type="image/png"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211216_73/1639637904707WYlWY_PNG/___.png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -1095,7 +1095,7 @@
 									
 									더빙
 									
-										지옥(두개의 삶) (모바일 네이버 시리즈온 ─ 무료)]]></title>
+										지옥 : 두개의 삶 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://m.serieson.naver.com/v2/movie/473391</link>
             <guid>https://m.serieson.naver.com/v2/movie/473391</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:34 GMT</pubDate>
@@ -1250,7 +1250,7 @@
             <title><![CDATA[와일드 로즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 16 Dec 2021 07:16:27 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 08:21:08 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
