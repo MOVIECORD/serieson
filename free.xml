@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 14:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 15:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,40 @@
             <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
             <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211216_73/1639637904707WYlWY_PNG/___.png?type=w320" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[와일드 로즈]]></title>
+            <link>https://serieson.naver.com/v2/movie/420510</link>
+            <guid>https://serieson.naver.com/v2/movie/420510</guid>
+            <pubDate>Thu, 16 Dec 2021 15:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[간첩]]></title>
+            <link>https://serieson.naver.com/v2/movie/369098</link>
+            <guid>https://serieson.naver.com/v2/movie/369098</guid>
+            <pubDate>Thu, 16 Dec 2021 15:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211018_219/1634530577414erycl_PNG/ONPOSTER_105..png?type=w320" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+										
+											극장판 도라에몽:진구의 남극 꽁꽁 대모험]]></title>
+            <link>https://serieson.naver.com/v2/movie/199662</link>
+            <guid>https://serieson.naver.com/v2/movie/199662</guid>
+            <pubDate>Thu, 16 Dec 2021 15:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170713_47/1499907463413CgUMz_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신의 은총으로]]></title>
+            <link>https://serieson.naver.com/v2/movie/339790</link>
+            <guid>https://serieson.naver.com/v2/movie/339790</guid>
+            <pubDate>Thu, 16 Dec 2021 15:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20191227_58/1577425715965n3ulU_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창문넘어 도망친 100세 노인]]></title>
@@ -132,44 +166,6 @@
             <pubDate>Thu, 09 Dec 2021 15:16:44 GMT</pubDate>
             <content:encoded><![CDATA[12월 23일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_179/1324556917117y9jNa_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-											극장판 도라에몽: 진구의 달 탐사기]]></title>
-            <link>https://serieson.naver.com/v2/movie/366664</link>
-            <guid>https://serieson.naver.com/v2/movie/366664</guid>
-            <pubDate>Thu, 02 Dec 2021 15:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[12월 16일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190925_238/15693985747407cPjJ_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											더 머쉰]]></title>
-            <link>https://serieson.naver.com/v2/movie/340800</link>
-            <guid>https://serieson.naver.com/v2/movie/340800</guid>
-            <pubDate>Thu, 02 Dec 2021 15:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[12월 16일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20140430_87/1398833235878LbVck_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리 에듀케이션]]></title>
-            <link>https://serieson.naver.com/v2/movie/296956</link>
-            <guid>https://serieson.naver.com/v2/movie/296956</guid>
-            <pubDate>Thu, 02 Dec 2021 15:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[12월 16일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190701_55/1561945965261SuTqv_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와일드 로즈]]></title>
-            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
-            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Thu, 16 Dec 2021 14:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
     </channel>
 </rss>
