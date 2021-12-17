@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 05:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 06:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1097,6 +1097,13 @@
             <guid>https://serieson.naver.com/events/13192?productType=movie</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13192?productType=movie" class="" onclick="nclk(this, 'mov.list', '13192', '');">이번주 가격인하작, 시리즈온에서 확인!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[📌100캐시로 5천 캐시 영화 소장할 수 있는 기회! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13632?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13632?productType=movie</guid>
+            <pubDate>Fri, 17 Dec 2021 06:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13632?productType=movie" class="" onclick="nclk(this, 'mov.list', '13632', '');">📌100캐시로 5천 캐시 영화 소장할 수 있는 기회!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁! ([시리즈온] 이벤트)]]></title>
