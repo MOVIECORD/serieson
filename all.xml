@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 14:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 15:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -660,20 +660,20 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200513_255/1589352192563Cb3mX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[톰보이 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/375429</link>
-            <guid>https://serieson.naver.com/v2/movie/375429</guid>
-            <pubDate>Thu, 09 Dec 2021 15:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200417_103/1587088820009DdKKx_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[고양이 집사 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/377528</link>
             <guid>https://serieson.naver.com/v2/movie/377528</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200427_139/1587954977691kaCua_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[톰보이 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/375429</link>
+            <guid>https://serieson.naver.com/v2/movie/375429</guid>
+            <pubDate>Thu, 09 Dec 2021 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200417_103/1587088820009DdKKx_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자막
@@ -1069,13 +1069,6 @@
             <guid>https://serieson.naver.com/events/13675?productType=movie</guid>
             <pubDate>Thu, 09 Dec 2021 15:17:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13675?productType=movie" class="" onclick="nclk(this, 'mov.list', '13675', '');">📽️상영관이 없어 못 본 그 영화, 지금 '시네마 열사 클럽'에서!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🛩️이탈리아 한 달 살기 떠나자! 리암 니슨의 '메이드 인 이태리' 오픈 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/13667?productType=movie</link>
-            <guid>https://serieson.naver.com/events/13667?productType=movie</guid>
-            <pubDate>Sun, 05 Dec 2021 15:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/13667?productType=movie" class="" onclick="nclk(this, 'mov.list', '13667', '');">🛩️이탈리아 한 달 살기 떠나자! 리암 니슨의 '메이드 인 이태리' 오픈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[12월 우수이용자! 놓치지 말고 확인! ([시리즈온] 이벤트)]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-17T14:15:37.428Z</updated>
+    <updated>2021-12-17T15:17:43.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -67,13 +67,6 @@
         <link href="https://serieson.naver.com/events/13675?productType=movie"/>
         <updated>2021-12-09T15:17:24.048Z</updated>
         <content type="html"><![CDATA[<a href="/events/13675?productType=movie" class="" onclick="nclk(this, 'mov.list', '13675', '');">📽️상영관이 없어 못 본 그 영화, 지금 '시네마 열사 클럽'에서!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🛩️이탈리아 한 달 살기 떠나자! 리암 니슨의 '메이드 인 이태리' 오픈]]></title>
-        <id>https://serieson.naver.com/events/13667?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13667?productType=movie"/>
-        <updated>2021-12-05T15:16:17.869Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13667?productType=movie" class="" onclick="nclk(this, 'mov.list', '13667', '');">🛩️이탈리아 한 달 살기 떠나자! 리암 니슨의 '메이드 인 이태리' 오픈</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12월 우수이용자! 놓치지 말고 확인!]]></title>
