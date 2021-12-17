@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-17T03:17:14.370Z</updated>
+    <updated>2021-12-17T04:21:31.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[📌스파이더맨 특급 복습 지원 이벤트 진행 중]]></title>
+        <id>https://serieson.naver.com/events/20003?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20003?productType=movie"/>
+        <updated>2021-12-17T04:21:13.910Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20003?productType=movie" class="" onclick="nclk(this, 'mov.list', '20003', '');">📌스파이더맨 특급 복습 지원 이벤트 진행 중</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🏆2021 영화 결산 SOTY 올해를 빛낸 작품들]]></title>
         <id>https://serieson.naver.com/events/13677?productType=movie</id>
