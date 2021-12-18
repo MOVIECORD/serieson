@@ -4,22 +4,16 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 14:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 15:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										더빙
-											지옥 : 두개의 삶]]></title>
-            <link>https://serieson.naver.com/v2/movie/473391</link>
-            <guid>https://serieson.naver.com/v2/movie/473391</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211216_73/1639637904707WYlWY_PNG/___.png?type=w320" length="0" type="image/png"/>
+            <title><![CDATA[우주의 크리스마스]]></title>
+            <link>https://serieson.naver.com/v2/movie/161857</link>
+            <guid>https://serieson.naver.com/v2/movie/161857</guid>
+            <pubDate>Sat, 18 Dec 2021 15:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[1월 1일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160921_40/1474421995219SC23G_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[와일드 로즈]]></title>

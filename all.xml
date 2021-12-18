@@ -4,22 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 14:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 15:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										더빙
-											지옥 : 두개의 삶 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/473391</link>
-            <guid>https://serieson.naver.com/v2/movie/473391</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211216_73/1639637904707WYlWY_PNG/___.png?type=w320" length="0" type="image/png"/>
+            <title><![CDATA[우주의 크리스마스 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/161857</link>
+            <guid>https://serieson.naver.com/v2/movie/161857</guid>
+            <pubDate>Sat, 18 Dec 2021 15:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[1월 1일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160921_40/1474421995219SC23G_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[와일드 로즈 ([시리즈온] 이주의 무료영화)]]></title>
@@ -185,76 +179,6 @@
             <pubDate>Tue, 14 Dec 2021 15:16:39 GMT</pubDate>
             <content:encoded><![CDATA[<span>2,800</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211206_137/1638769611123w2kzJ_JPEG/DP_6322394_TheMitchellsVsTheMachines_2000x3000_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-			
-			더빙
-			지옥 : 두개의 삶 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/473391</link>
-            <guid>https://serieson.naver.com/v2/movie/473391</guid>
-            <pubDate>Wed, 01 Dec 2021 22:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/v2/movie/473391" class="NPI=a:content" title="지옥 : 두개의 삶 ">
-		<span class="mask"></span>
-		
-			
-				
-				<em class="ico ico_free1">Free</em>
-				
-				
-				
-				
-				
-				
-			
-		
-		
-			
-			
-				
-				
-				<img src="https://tvstore-phinf.pstatic.net/20211216_73/1639637904707WYlWY_PNG/___.png?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
-			
-		
-		<strong>
-			
-			<em class="ad_ico_s">19</em>
-			
-			<em class="mv_tv_ico lst_dub">더빙</em>
-			지옥 : 두개의 삶 
-		</strong>
-	</a>
-	
-		
-		
-	
-	
-	
-		
-			<span class="score">
-				<span style="width:78%">평점</span>
-				
-			</span>
-			<em class="score_num">7.8</em>
-		
-		
-	
-	
-		
-		
-			<p class="price2 v2">
-				
-					<em class="">대여</em>
-					
-					<strong><span>무료</span></strong><br>
-					
-						
-						
-					
-				
-				
-			</p>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211216_73/1639637904707WYlWY_PNG/___.png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -570,6 +494,14 @@
             <pubDate>Mon, 13 Dec 2021 15:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210521_51/162158451369307FXL_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼크 웨이브 2 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/440854</link>
+            <guid>https://serieson.naver.com/v2/movie/440854</guid>
+            <pubDate>Sat, 18 Dec 2021 15:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210407_56/1617772671538SdMca_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마이 미씽 발렌타인 ([시리즈온] 천원관)]]></title>
@@ -1106,18 +1038,12 @@
             <content:encoded><![CDATA[<a href="/events/13610?productType=movie" class="" onclick="nclk(this, 'mov.list', '13610', '');">✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[19금
-											
-										
-									
-									더빙
-									
-										지옥 : 두개의 삶 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/473391</link>
-            <guid>https://m.serieson.naver.com/v2/movie/473391</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211216_73/1639637904707WYlWY_PNG/___.png?type=f128_184" length="0" type="image/png"/>
+            <title><![CDATA[우주의 크리스마스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/161857</link>
+            <guid>https://m.serieson.naver.com/v2/movie/161857</guid>
+            <pubDate>Sat, 18 Dec 2021 15:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[1월 1일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160921_40/1474421995219SC23G_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[와일드 로즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
