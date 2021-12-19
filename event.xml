@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-19T15:17:01.821Z</updated>
+    <updated>2021-12-19T16:24:38.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="/events/13671?productType=movie" class="" onclick="nclk(this, 'mov.list', '13671', '');">💗말맛 터지는 올해 가장 신선한 로맨스 &lt;장르만 로맨스&gt; 오픈!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💥존 윅 제작진의 노빠꾸 복수 액션! '킬링 카인드: 킬러의 수제자' 경품 이벤트]]></title>
-        <id>https://serieson.naver.com/events/13678?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13678?productType=movie"/>
-        <updated>2021-12-13T15:17:22.139Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13678?productType=movie" class="" onclick="nclk(this, 'mov.list', '13678', '');">💥존 윅 제작진의 노빠꾸 복수 액션! '킬링 카인드: 킬러의 수제자' 경품 이벤트</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[⚡️한국에서 제일 빠르게 즐기는 HBO의 향기 '노 서든 무브' 시리즈온 도착!]]></title>
         <id>https://serieson.naver.com/events/13672?productType=movie</id>
         <link href="https://serieson.naver.com/events/13672?productType=movie"/>
         <updated>2021-12-09T02:02:49.776Z</updated>
         <content type="html"><![CDATA[<a href="/events/13672?productType=movie" class="" onclick="nclk(this, 'mov.list', '13672', '');">⚡️한국에서 제일 빠르게 즐기는 HBO의 향기 '노 서든 무브' 시리즈온 도착!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💥존 윅 제작진의 노빠꾸 복수 액션! '킬링 카인드: 킬러의 수제자' 경품 이벤트]]></title>
+        <id>https://serieson.naver.com/events/13678?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13678?productType=movie"/>
+        <updated>2021-12-13T15:17:22.139Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13678?productType=movie" class="" onclick="nclk(this, 'mov.list', '13678', '');">💥존 윅 제작진의 노빠꾸 복수 액션! '킬링 카인드: 킬러의 수제자' 경품 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📽️상영관이 없어 못 본 그 영화, 지금 '시네마 열사 클럽'에서!]]></title>
