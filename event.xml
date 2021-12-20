@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-20T14:16:04.190Z</updated>
+    <updated>2021-12-20T15:17:43.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[⏱뷰티 인사이드와 존 윅이 만난 신선도 맥스 '유체이탈자' 시리즈온 오픈!]]></title>
+        <id>https://serieson.naver.com/events/20005?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20005?productType=movie"/>
+        <updated>2021-12-20T15:17:24.448Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20005?productType=movie" class="" onclick="nclk(this, 'mov.list', '20005', '');">⏱뷰티 인사이드와 존 윅이 만난 신선도 맥스 '유체이탈자' 시리즈온 오픈!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티!]]></title>
+        <id>https://serieson.naver.com/events/13673?productType=movie</id>
+        <link href="https://serieson.naver.com/events/13673?productType=movie"/>
+        <updated>2021-12-20T15:17:24.449Z</updated>
+        <content type="html"><![CDATA[<a href="/events/13673?productType=movie" class="" onclick="nclk(this, 'mov.list', '13673', '');">🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📌스파이더맨 특급 복습 지원 이벤트 진행 중]]></title>
         <id>https://serieson.naver.com/events/20003?productType=movie</id>
@@ -20,18 +34,18 @@
         <content type="html"><![CDATA[<a href="/events/13677?productType=movie" class="" onclick="nclk(this, 'mov.list', '13677', '');">🏆2021 영화 결산 SOTY 올해를 빛낸 작품들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💓전종서와 손석구의 빨간 맛 썸의 세계 ‘연애 빠진 로맨스'보고 1만 캐시 받자!]]></title>
-        <id>https://serieson.naver.com/events/20002?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20002?productType=movie"/>
-        <updated>2021-12-16T15:17:05.608Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20002?productType=movie" class="" onclick="nclk(this, 'mov.list', '20002', '');">💓전종서와 손석구의 빨간 맛 썸의 세계 ‘연애 빠진 로맨스'보고 1만 캐시 받자!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🤝세상의 모든 에반에게 드리는 선물같은 영화 '디어 에반 핸슨']]></title>
         <id>https://serieson.naver.com/events/20000?productType=movie</id>
         <link href="https://serieson.naver.com/events/20000?productType=movie"/>
         <updated>2021-12-15T07:16:24.093Z</updated>
         <content type="html"><![CDATA[<a href="/events/20000?productType=movie" class="" onclick="nclk(this, 'mov.list', '20000', '');">🤝세상의 모든 에반에게 드리는 선물같은 영화 '디어 에반 핸슨'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💓전종서와 손석구의 빨간 맛 썸의 세계 ‘연애 빠진 로맨스'보고 1만 캐시 받자!]]></title>
+        <id>https://serieson.naver.com/events/20002?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20002?productType=movie"/>
+        <updated>2021-12-16T15:17:05.608Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20002?productType=movie" class="" onclick="nclk(this, 'mov.list', '20002', '');">💓전종서와 손석구의 빨간 맛 썸의 세계 ‘연애 빠진 로맨스'보고 1만 캐시 받자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🥳연말에는 시리즈온에서 팝콘 파티! 시리즈온 X 농심 특급 콜라보 프로모션]]></title>
