@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 00:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 02:05:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1021,6 +1021,13 @@
             <guid>https://serieson.naver.com/events/20000?productType=movie</guid>
             <pubDate>Wed, 15 Dec 2021 07:16:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20000?productType=movie" class="" onclick="nclk(this, 'mov.list', '20000', '');">🤝세상의 모든 에반에게 드리는 선물같은 영화 '디어 에반 핸슨'</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🥳연말에는 시리즈온에서 팝콘 파티! 시리즈온 X 농심 특급 콜라보 프로모션 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/13674?productType=movie</link>
+            <guid>https://serieson.naver.com/events/13674?productType=movie</guid>
+            <pubDate>Mon, 20 Dec 2021 02:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/13674?productType=movie" class="" onclick="nclk(this, 'mov.list', '13674', '');">🥳연말에는 시리즈온에서 팝콘 파티! 시리즈온 X 농심 특급 콜라보 프로모션</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[폴 버호벤 감독 신작! '베네데타' 시리즈온 오픈 ([시리즈온] 이벤트)]]></title>
