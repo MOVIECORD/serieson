@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-21T14:15:40.486Z</updated>
+    <updated>2021-12-21T15:17:31.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[📌연말은 스파이더맨 & 베놈과 함께! SONY 특급 이벤트 오픈!]]></title>
+        <id>https://serieson.naver.com/events/20008?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20008?productType=movie"/>
+        <updated>2021-12-21T15:17:14.895Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20008?productType=movie" class="" onclick="nclk(this, 'mov.list', '20008', '');">📌연말은 스파이더맨 &amp; 베놈과 함께! SONY 특급 이벤트 오픈!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⏱뷰티 인사이드와 존 윅이 만난 신선도 맥스 '유체이탈자' 시리즈온 오픈!]]></title>
         <id>https://serieson.naver.com/events/20005?productType=movie</id>
@@ -18,13 +25,6 @@
         <link href="https://serieson.naver.com/events/13673?productType=movie"/>
         <updated>2021-12-20T15:17:24.449Z</updated>
         <content type="html"><![CDATA[<a href="/events/13673?productType=movie" class="" onclick="nclk(this, 'mov.list', '13673', '');">🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📌스파이더맨 특급 복습 지원 이벤트 진행 중]]></title>
-        <id>https://serieson.naver.com/events/20003?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20003?productType=movie"/>
-        <updated>2021-12-17T04:21:13.910Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20003?productType=movie" class="" onclick="nclk(this, 'mov.list', '20003', '');">📌스파이더맨 특급 복습 지원 이벤트 진행 중</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🏆2021 영화 결산 SOTY 올해를 빛낸 작품들]]></title>
@@ -60,13 +60,6 @@
         <link href="https://serieson.naver.com/events/20001?productType=movie"/>
         <updated>2021-12-16T15:17:05.610Z</updated>
         <content type="html"><![CDATA[<a href="/events/20001?productType=movie" class="" onclick="nclk(this, 'mov.list', '20001', '');">폴 버호벤 감독 신작! '베네데타' 시리즈온 오픈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💗말맛 터지는 올해 가장 신선한 로맨스 <장르만 로맨스> 오픈!]]></title>
-        <id>https://serieson.naver.com/events/13671?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13671?productType=movie"/>
-        <updated>2021-12-07T15:18:02.679Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13671?productType=movie" class="" onclick="nclk(this, 'mov.list', '13671', '');">💗말맛 터지는 올해 가장 신선한 로맨스 &lt;장르만 로맨스&gt; 오픈!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[⚡️한국에서 제일 빠르게 즐기는 HBO의 향기 '노 서든 무브' 시리즈온 도착!]]></title>
