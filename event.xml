@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-22T06:20:40.821Z</updated>
+    <updated>2021-12-22T07:16:30.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[📌연말은 스파이더맨 & 베놈과 함께! SONY 특급 이벤트 오픈!]]></title>
-        <id>https://serieson.naver.com/events/20008?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20008?productType=movie"/>
-        <updated>2021-12-21T15:17:14.895Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20008?productType=movie" class="" onclick="nclk(this, 'mov.list', '20008', '');">📌연말은 스파이더맨 &amp; 베놈과 함께! SONY 특급 이벤트 오픈!</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[⏱뷰티 인사이드와 존 윅이 만난 신선도 맥스 '유체이탈자' 시리즈온 오픈!]]></title>
         <id>https://serieson.naver.com/events/20005?productType=movie</id>
         <link href="https://serieson.naver.com/events/20005?productType=movie"/>
         <updated>2021-12-20T15:17:24.448Z</updated>
         <content type="html"><![CDATA[<a href="/events/20005?productType=movie" class="" onclick="nclk(this, 'mov.list', '20005', '');">⏱뷰티 인사이드와 존 윅이 만난 신선도 맥스 '유체이탈자' 시리즈온 오픈!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📌연말은 스파이더맨 & 베놈과 함께! SONY 특급 이벤트 오픈!]]></title>
+        <id>https://serieson.naver.com/events/20008?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20008?productType=movie"/>
+        <updated>2021-12-21T15:17:14.895Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20008?productType=movie" class="" onclick="nclk(this, 'mov.list', '20008', '');">📌연말은 스파이더맨 &amp; 베놈과 함께! SONY 특급 이벤트 오픈!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티!]]></title>
@@ -32,6 +32,13 @@
         <link href="https://serieson.naver.com/events/13677?productType=movie"/>
         <updated>2021-12-13T05:15:07.391Z</updated>
         <content type="html"><![CDATA[<a href="/events/13677?productType=movie" class="" onclick="nclk(this, 'mov.list', '13677', '');">🏆2021 영화 결산 SOTY 올해를 빛낸 작품들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!]]></title>
+        <id>https://serieson.naver.com/events/20011?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20011?productType=movie"/>
+        <updated>2021-12-22T07:16:15.556Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20011?productType=movie" class="" onclick="nclk(this, 'mov.list', '20011', '');">❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🤝세상의 모든 에반에게 드리는 선물같은 영화 '디어 에반 핸슨']]></title>
