@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-23T14:15:38.453Z</updated>
+    <updated>2021-12-23T15:17:34.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[✨올 겨울 가장 마법같은 영화 '엔칸토: 마법의 세계' 오픈 프로모션]]></title>
+        <id>https://serieson.naver.com/events/20009?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20009?productType=movie"/>
+        <updated>2021-12-23T15:17:16.056Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20009?productType=movie" class="" onclick="nclk(this, 'mov.list', '20009', '');">✨올 겨울 가장 마법같은 영화 '엔칸토: 마법의 세계' 오픈 프로모션</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⏱뷰티 인사이드와 존 윅이 만난 신선도 맥스 '유체이탈자' 시리즈온 오픈!]]></title>
         <id>https://serieson.naver.com/events/20005?productType=movie</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[<a href="/events/20005?productType=movie" class="" onclick="nclk(this, 'mov.list', '20005', '');">⏱뷰티 인사이드와 존 윅이 만난 신선도 맥스 '유체이탈자' 시리즈온 오픈!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[📌연말은 스파이더맨 & 베놈과 함께! SONY 특급 이벤트 오픈!]]></title>
-        <id>https://serieson.naver.com/events/20008?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20008?productType=movie"/>
-        <updated>2021-12-21T15:17:14.895Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20008?productType=movie" class="" onclick="nclk(this, 'mov.list', '20008', '');">📌연말은 스파이더맨 &amp; 베놈과 함께! SONY 특급 이벤트 오픈!</a>]]></content>
+        <title type="html"><![CDATA[🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~]]></title>
+        <id>https://serieson.naver.com/events/20010?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20010?productType=movie"/>
+        <updated>2021-12-23T15:17:16.065Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20010?productType=movie" class="" onclick="nclk(this, 'mov.list', '20010', '');">🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티!]]></title>
@@ -25,6 +32,13 @@
         <link href="https://serieson.naver.com/events/13673?productType=movie"/>
         <updated>2021-12-20T15:17:24.449Z</updated>
         <content type="html"><![CDATA[<a href="/events/13673?productType=movie" class="" onclick="nclk(this, 'mov.list', '13673', '');">🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📌연말은 스파이더맨 & 베놈과 함께! SONY 특급 이벤트 오픈!]]></title>
+        <id>https://serieson.naver.com/events/20008?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20008?productType=movie"/>
+        <updated>2021-12-21T15:17:14.895Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20008?productType=movie" class="" onclick="nclk(this, 'mov.list', '20008', '');">📌연말은 스파이더맨 &amp; 베놈과 함께! SONY 특급 이벤트 오픈!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🏆2021 영화 결산 SOTY 올해를 빛낸 작품들]]></title>
@@ -74,13 +88,6 @@
         <link href="https://serieson.naver.com/events/13678?productType=movie"/>
         <updated>2021-12-13T15:17:22.139Z</updated>
         <content type="html"><![CDATA[<a href="/events/13678?productType=movie" class="" onclick="nclk(this, 'mov.list', '13678', '');">💥존 윅 제작진의 노빠꾸 복수 액션! '킬링 카인드: 킬러의 수제자' 경품 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📽️상영관이 없어 못 본 그 영화, 지금 '시네마 열사 클럽'에서!]]></title>
-        <id>https://serieson.naver.com/events/13675?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13675?productType=movie"/>
-        <updated>2021-12-09T15:17:24.048Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13675?productType=movie" class="" onclick="nclk(this, 'mov.list', '13675', '');">📽️상영관이 없어 못 본 그 영화, 지금 '시네마 열사 클럽'에서!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12월 우수이용자! 놓치지 말고 확인!]]></title>

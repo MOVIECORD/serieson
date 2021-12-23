@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 14:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 15:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,14 +290,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210826_165/1629953952394nbi5I_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팜 스프링스]]></title>
-            <link>https://serieson.naver.com/v2/movie/459346</link>
-            <guid>https://serieson.naver.com/v2/movie/459346</guid>
-            <pubDate>Thu, 09 Dec 2021 15:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210730_271/16276212322688M1Vv_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[해리 포터와 마법사의 돌: 매지..]]></title>
             <link>https://serieson.naver.com/v2/movie/455768</link>
             <guid>https://serieson.naver.com/v2/movie/455768</guid>
@@ -346,6 +338,14 @@
             <guid>https://serieson.naver.com/v2/movie/455099</guid>
             <pubDate>Mon, 20 Dec 2021 15:16:57 GMT</pubDate>
             <content:encoded><![CDATA[<span>4,550</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20120227_34/13303322856160uTw3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아티스트]]></title>
+            <link>https://serieson.naver.com/v2/movie/455100</link>
+            <guid>https://serieson.naver.com/v2/movie/455100</guid>
+            <pubDate>Thu, 23 Dec 2021 15:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,050</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20120227_34/13303322856160uTw3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
