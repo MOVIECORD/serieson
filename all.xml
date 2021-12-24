@@ -4,35 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 23:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 00:52:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[증인 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/274964</link>
-            <guid>https://serieson.naver.com/v2/movie/274964</guid>
+            <title><![CDATA[유열의 음악앨범 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/317970</link>
+            <guid>https://serieson.naver.com/v2/movie/317970</guid>
             <pubDate>Thu, 23 Dec 2021 15:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211111_100/1636634080863mm85A_PNG/ONPOSTER_24..png?type=w320" length="0" type="image/png"/>
+            <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190806_57/1565060277522KjSpd_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자막
-										
-											겨울왕국의 무민 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/223151</link>
-            <guid>https://serieson.naver.com/v2/movie/223151</guid>
+            <title><![CDATA[건축학개론 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/369079</link>
+            <guid>https://serieson.naver.com/v2/movie/369079</guid>
             <pubDate>Thu, 23 Dec 2021 15:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180108_81/1515374105706kpMAJ_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-											호두까기 인형: 장난감 왕국 대모험 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/166719</link>
-            <guid>https://serieson.naver.com/v2/movie/166719</guid>
-            <pubDate>Thu, 23 Dec 2021 15:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20161123_55/1479878956485QxEcr_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211018_135/16345295192938hrvs_PNG/ONPOSTER_9..png?type=w320" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[파이브 피트 ([시리즈온] 이주의 무료영화)]]></title>
@@ -43,18 +32,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20190405_72/155444000594589QMA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[19
+            <title><![CDATA[자막
 										
-											
-										
-										
-										
-											로마 위드 러브 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/39249</link>
-            <guid>https://serieson.naver.com/v2/movie/39249</guid>
+											겨울왕국의 무민 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/223151</link>
+            <guid>https://serieson.naver.com/v2/movie/223151</guid>
             <pubDate>Thu, 23 Dec 2021 15:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200615_180/1592206351186TCyYk_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180108_81/1515374105706kpMAJ_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -71,20 +56,26 @@
             <enclosure url="https://movie-phinf.pstatic.net/20171229_16/1514509184370Pe6k1_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[건축학개론 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/369079</link>
-            <guid>https://serieson.naver.com/v2/movie/369079</guid>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											로마 위드 러브 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/39249</link>
+            <guid>https://serieson.naver.com/v2/movie/39249</guid>
             <pubDate>Thu, 23 Dec 2021 15:16:39 GMT</pubDate>
             <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211018_135/16345295192938hrvs_PNG/ONPOSTER_9..png?type=w320" length="0" type="image/png"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20200615_180/1592206351186TCyYk_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유열의 음악앨범 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/317970</link>
-            <guid>https://serieson.naver.com/v2/movie/317970</guid>
+            <title><![CDATA[증인 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/274964</link>
+            <guid>https://serieson.naver.com/v2/movie/274964</guid>
             <pubDate>Thu, 23 Dec 2021 15:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190806_57/1565060277522KjSpd_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211111_100/1636634080863mm85A_PNG/ONPOSTER_24..png?type=w320" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우주의 크리스마스 ([시리즈온] 이주의 무료영화)]]></title>
@@ -93,6 +84,15 @@
             <pubDate>Sat, 18 Dec 2021 15:15:47 GMT</pubDate>
             <content:encoded><![CDATA[1월 1일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20160921_40/1474421995219SC23G_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+											호두까기 인형: 장난감 왕국 대모험 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/166719</link>
+            <guid>https://serieson.naver.com/v2/movie/166719</guid>
+            <pubDate>Thu, 23 Dec 2021 15:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20161123_55/1479878956485QxEcr_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[와일드 로즈 ([시리즈온] 이주의 무료영화)]]></title>
@@ -1049,31 +1049,20 @@
             <content:encoded><![CDATA[<a href="/events/13610?productType=movie" class="" onclick="nclk(this, 'mov.list', '13610', '');">✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[증인 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/274964</link>
-            <guid>https://m.serieson.naver.com/v2/movie/274964</guid>
+            <title><![CDATA[유열의 음악앨범 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/317970</link>
+            <guid>https://m.serieson.naver.com/v2/movie/317970</guid>
             <pubDate>Thu, 23 Dec 2021 15:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211111_100/1636634080863mm85A_PNG/ONPOSTER_24..png?type=f128_184" length="0" type="image/png"/>
+            <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190806_57/1565060277522KjSpd_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자
-										겨울왕국의 무민 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/223151</link>
-            <guid>https://m.serieson.naver.com/v2/movie/223151</guid>
+            <title><![CDATA[건축학개론 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/369079</link>
+            <guid>https://m.serieson.naver.com/v2/movie/369079</guid>
             <pubDate>Thu, 23 Dec 2021 15:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180108_81/1515374105706kpMAJ_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-									
-										호두까기 인형: 장난감 왕국 대모험 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/166719</link>
-            <guid>https://m.serieson.naver.com/v2/movie/166719</guid>
-            <pubDate>Thu, 23 Dec 2021 15:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20161123_55/1479878956485QxEcr_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211018_135/16345295192938hrvs_PNG/ONPOSTER_9..png?type=f128_184" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[파이브 피트 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -1084,18 +1073,13 @@
             <enclosure url="https://movie-phinf.pstatic.net/20190405_72/155444000594589QMA_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[19금
-											
-										
-									
-									
-									
-										로마 위드 러브 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/39249</link>
-            <guid>https://m.serieson.naver.com/v2/movie/39249</guid>
+            <title><![CDATA[자
+										겨울왕국의 무민 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/223151</link>
+            <guid>https://m.serieson.naver.com/v2/movie/223151</guid>
             <pubDate>Thu, 23 Dec 2021 15:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200615_180/1592206351186TCyYk_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180108_81/1515374105706kpMAJ_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19금
@@ -1112,20 +1096,26 @@
             <enclosure url="https://movie-phinf.pstatic.net/20171229_16/1514509184370Pe6k1_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[건축학개론 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/369079</link>
-            <guid>https://m.serieson.naver.com/v2/movie/369079</guid>
+            <title><![CDATA[19금
+											
+										
+									
+									
+									
+										로마 위드 러브 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/39249</link>
+            <guid>https://m.serieson.naver.com/v2/movie/39249</guid>
             <pubDate>Thu, 23 Dec 2021 15:17:24 GMT</pubDate>
             <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211018_135/16345295192938hrvs_PNG/ONPOSTER_9..png?type=f128_184" length="0" type="image/png"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20200615_180/1592206351186TCyYk_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유열의 음악앨범 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/317970</link>
-            <guid>https://m.serieson.naver.com/v2/movie/317970</guid>
+            <title><![CDATA[증인 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/274964</link>
+            <guid>https://m.serieson.naver.com/v2/movie/274964</guid>
             <pubDate>Thu, 23 Dec 2021 15:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[1월 6일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190806_57/1565060277522KjSpd_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211111_100/1636634080863mm85A_PNG/ONPOSTER_24..png?type=f128_184" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우주의 크리스마스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -1134,6 +1124,16 @@
             <pubDate>Sat, 18 Dec 2021 15:16:29 GMT</pubDate>
             <content:encoded><![CDATA[1월 1일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20160921_40/1474421995219SC23G_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+									
+										호두까기 인형: 장난감 왕국 대모험 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/166719</link>
+            <guid>https://m.serieson.naver.com/v2/movie/166719</guid>
+            <pubDate>Thu, 23 Dec 2021 15:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20161123_55/1479878956485QxEcr_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[와일드 로즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
