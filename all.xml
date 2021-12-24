@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 14:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 15:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선샤인 패밀리 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/418340</link>
+            <guid>https://serieson.naver.com/v2/movie/418340</guid>
+            <pubDate>Fri, 24 Dec 2021 15:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[1월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201221_210/1608530645207eplhA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명당 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/251339</link>
+            <guid>https://serieson.naver.com/v2/movie/251339</guid>
+            <pubDate>Fri, 24 Dec 2021 15:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[1월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180920_268/1537425274130wtXzB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 파더 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/436412</link>
+            <guid>https://serieson.naver.com/v2/movie/436412</guid>
+            <pubDate>Fri, 24 Dec 2021 15:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[1월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210323_50/1616476169545z5HcO_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유열의 음악앨범 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/317970</link>
@@ -127,30 +151,6 @@
             <pubDate>Thu, 16 Dec 2021 15:16:31 GMT</pubDate>
             <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191227_58/1577425715965n3ulU_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창문넘어 도망친 100세 노인 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/68135</link>
-            <guid>https://serieson.naver.com/v2/movie/68135</guid>
-            <pubDate>Fri, 10 Dec 2021 15:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20140613_145/1402640433728U8Swh_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 레이싱 : 이너셜 드리프트 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/180533</link>
-            <guid>https://serieson.naver.com/v2/movie/180533</guid>
-            <pubDate>Fri, 10 Dec 2021 15:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170316_179/1489652746622exLUA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태양의 노래 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/178516</link>
-            <guid>https://serieson.naver.com/v2/movie/178516</guid>
-            <pubDate>Fri, 10 Dec 2021 15:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170207_115/14864285933774Wzrd_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자막
@@ -494,6 +494,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20120227_34/13303322856160uTw3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[더 파더 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/436412</link>
+            <guid>https://serieson.naver.com/v2/movie/436412</guid>
+            <pubDate>Fri, 24 Dec 2021 15:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210323_50/1616476169545z5HcO_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/428766</link>
             <guid>https://serieson.naver.com/v2/movie/428766</guid>
@@ -582,20 +590,20 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200427_139/1587954977691kaCua_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자막
-			
+            <title><![CDATA[더빙
 			트롤: 월드 투어 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/369478</link>
-            <guid>https://serieson.naver.com/v2/movie/369478</guid>
+            <link>https://serieson.naver.com/v2/movie/369479</link>
+            <guid>https://serieson.naver.com/v2/movie/369479</guid>
             <pubDate>Tue, 14 Dec 2021 15:16:47 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200429_215/15881414327594O6hj_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더빙
+            <title><![CDATA[자막
+			
 			트롤: 월드 투어 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/369479</link>
-            <guid>https://serieson.naver.com/v2/movie/369479</guid>
+            <link>https://serieson.naver.com/v2/movie/369478</link>
+            <guid>https://serieson.naver.com/v2/movie/369478</guid>
             <pubDate>Tue, 14 Dec 2021 15:16:47 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200429_215/15881414327594O6hj_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
@@ -673,14 +681,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20191203_217/1575347950420leqmB_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙머니 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/335615</link>
-            <guid>https://serieson.naver.com/v2/movie/335615</guid>
-            <pubDate>Thu, 23 Dec 2021 15:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[블랙머니 (가치봄영화:시청각장.. ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/371673</link>
             <guid>https://serieson.naver.com/v2/movie/371673</guid>
@@ -689,12 +689,12 @@
             <enclosure url="https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[니나 내나 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/330916</link>
-            <guid>https://serieson.naver.com/v2/movie/330916</guid>
+            <title><![CDATA[블랙머니 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/335615</link>
+            <guid>https://serieson.naver.com/v2/movie/335615</guid>
             <pubDate>Thu, 23 Dec 2021 15:16:58 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190930_289/1569807701952m4QR2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가려진 시간 (가치봄영화:시청.. ([시리즈온] 가치봄 영화관)]]></title>
@@ -972,6 +972,13 @@
             <content:encoded><![CDATA[<a href="/events/13677?productType=movie" class="" onclick="nclk(this, 'mov.list', '13677', '');">🏆2021 영화 결산 SOTY 올해를 빛낸 작품들</a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[🎁새해맞이 꿀이득 쿠폰북 이벤트💰 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20012?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20012?productType=movie</guid>
+            <pubDate>Fri, 24 Dec 2021 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20012?productType=movie" class="" onclick="nclk(this, 'mov.list', '20012', '');">🎁새해맞이 꿀이득 쿠폰북 이벤트💰</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20011?productType=movie</link>
             <guid>https://serieson.naver.com/events/20011?productType=movie</guid>
@@ -1047,6 +1054,30 @@
             <guid>https://serieson.naver.com/events/13610?productType=movie</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13610?productType=movie" class="" onclick="nclk(this, 'mov.list', '13610', '');">✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[선샤인 패밀리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/418340</link>
+            <guid>https://m.serieson.naver.com/v2/movie/418340</guid>
+            <pubDate>Fri, 24 Dec 2021 15:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[1월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201221_210/1608530645207eplhA_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명당 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/251339</link>
+            <guid>https://m.serieson.naver.com/v2/movie/251339</guid>
+            <pubDate>Fri, 24 Dec 2021 15:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[1월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180920_268/1537425274130wtXzB_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 파더 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/436412</link>
+            <guid>https://m.serieson.naver.com/v2/movie/436412</guid>
+            <pubDate>Fri, 24 Dec 2021 15:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[1월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210323_50/1616476169545z5HcO_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유열의 음악앨범 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -1167,30 +1198,6 @@
             <pubDate>Thu, 16 Dec 2021 15:17:13 GMT</pubDate>
             <content:encoded><![CDATA[12월 30일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191227_58/1577425715965n3ulU_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창문넘어 도망친 100세 노인 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/68135</link>
-            <guid>https://m.serieson.naver.com/v2/movie/68135</guid>
-            <pubDate>Fri, 10 Dec 2021 15:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20140613_145/1402640433728U8Swh_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 레이싱 : 이너셜 드리프트 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/180533</link>
-            <guid>https://m.serieson.naver.com/v2/movie/180533</guid>
-            <pubDate>Fri, 10 Dec 2021 15:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170316_179/1489652746622exLUA_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태양의 노래 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/178516</link>
-            <guid>https://m.serieson.naver.com/v2/movie/178516</guid>
-            <pubDate>Fri, 10 Dec 2021 15:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[12월 24일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170207_115/14864285933774Wzrd_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가려진 시간 (가치봄영화:시청각장애인용)
