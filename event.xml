@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-26T15:16:29.559Z</updated>
+    <updated>2021-12-26T16:24:17.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[<a href="/events/20010?productType=movie" class="" onclick="nclk(this, 'mov.list', '20010', '');">🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CJ X 시리즈온👀 특급 쿠폰과 함께 할인가로 즐겨요!]]></title>
+        <id>https://serieson.naver.com/events/20015?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20015?productType=movie"/>
+        <updated>2021-12-26T16:24:00.521Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20015?productType=movie" class="" onclick="nclk(this, 'mov.list', '20015', '');">CJ X 시리즈온👀 특급 쿠폰과 함께 할인가로 즐겨요!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티!]]></title>
         <id>https://serieson.naver.com/events/13673?productType=movie</id>
         <link href="https://serieson.naver.com/events/13673?productType=movie"/>
@@ -46,6 +53,13 @@
         <link href="https://serieson.naver.com/events/13677?productType=movie"/>
         <updated>2021-12-13T05:15:07.391Z</updated>
         <content type="html"><![CDATA[<a href="/events/13677?productType=movie" class="" onclick="nclk(this, 'mov.list', '13677', '');">🏆2021 영화 결산 SOTY 올해를 빛낸 작품들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📙뉴욕에서 쓰는 인생의 첫 페이지! '마이 뉴욕 다이어리' 경품 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20016?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20016?productType=movie"/>
+        <updated>2021-12-26T16:24:00.526Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20016?productType=movie" class="" onclick="nclk(this, 'mov.list', '20016', '');">📙뉴욕에서 쓰는 인생의 첫 페이지! '마이 뉴욕 다이어리' 경품 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁새해맞이 꿀이득 쿠폰북 이벤트💰]]></title>
