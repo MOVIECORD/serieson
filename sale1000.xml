@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 14:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 15:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,25 +104,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200427_139/1587954977691kaCua_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자막
-			
-			트롤: 월드 투어]]></title>
-            <link>https://serieson.naver.com/v2/movie/369478</link>
-            <guid>https://serieson.naver.com/v2/movie/369478</guid>
-            <pubDate>Tue, 14 Dec 2021 15:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200429_215/15881414327594O6hj_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-			트롤: 월드 투어]]></title>
-            <link>https://serieson.naver.com/v2/movie/369479</link>
-            <guid>https://serieson.naver.com/v2/movie/369479</guid>
-            <pubDate>Tue, 14 Dec 2021 15:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200429_215/15881414327594O6hj_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[애프터 웨딩 인 뉴욕]]></title>
             <link>https://serieson.naver.com/v2/movie/371784</link>
             <guid>https://serieson.naver.com/v2/movie/371784</guid>
@@ -131,20 +112,20 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200325_124/1585104977889IXrqR_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이장]]></title>
-            <link>https://serieson.naver.com/v2/movie/372791</link>
-            <guid>https://serieson.naver.com/v2/movie/372791</guid>
-            <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200310_275/1583820865612VfIMX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[주디]]></title>
             <link>https://serieson.naver.com/v2/movie/366666</link>
             <guid>https://serieson.naver.com/v2/movie/366666</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200313_59/1584086196479WLA9j_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이장]]></title>
+            <link>https://serieson.naver.com/v2/movie/372791</link>
+            <guid>https://serieson.naver.com/v2/movie/372791</guid>
+            <pubDate>Wed, 01 Dec 2021 22:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200310_275/1583820865612VfIMX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다크 워터스]]></title>
@@ -209,6 +190,22 @@
             <pubDate>Thu, 23 Dec 2021 15:16:58 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[니나 내나]]></title>
+            <link>https://serieson.naver.com/v2/movie/330916</link>
+            <guid>https://serieson.naver.com/v2/movie/330916</guid>
+            <pubDate>Tue, 28 Dec 2021 15:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190930_289/1569807701952m4QR2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시크릿 슈퍼스타]]></title>
+            <link>https://serieson.naver.com/v2/movie/329509</link>
+            <guid>https://serieson.naver.com/v2/movie/329509</guid>
+            <pubDate>Tue, 28 Dec 2021 15:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190927_8/1569550909963dbsdI_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

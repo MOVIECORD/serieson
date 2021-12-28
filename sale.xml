@@ -4,9 +4,27 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 14:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 15:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더빙
+			된다! 뭐든! 무서울 뻔~한..]]></title>
+            <link>https://serieson.naver.com/v2/movie/478920</link>
+            <guid>https://serieson.naver.com/v2/movie/478920</guid>
+            <pubDate>Tue, 28 Dec 2021 15:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211222_96/16401772530894OmkM_JPEG/-__.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			된다! 뭐든! 무서울 뻔~한..]]></title>
+            <link>https://serieson.naver.com/v2/movie/478921</link>
+            <guid>https://serieson.naver.com/v2/movie/478921</guid>
+            <pubDate>Tue, 28 Dec 2021 15:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211222_96/16401772530894OmkM_JPEG/-__.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자막
 			
@@ -331,22 +349,6 @@
             <pubDate>Mon, 20 Dec 2021 15:16:57 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210810_123/16285742137853XFs3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아티스트]]></title>
-            <link>https://serieson.naver.com/v2/movie/455099</link>
-            <guid>https://serieson.naver.com/v2/movie/455099</guid>
-            <pubDate>Mon, 20 Dec 2021 15:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,550</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20120227_34/13303322856160uTw3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아티스트]]></title>
-            <link>https://serieson.naver.com/v2/movie/455100</link>
-            <guid>https://serieson.naver.com/v2/movie/455100</guid>
-            <pubDate>Thu, 23 Dec 2021 15:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,050</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20120227_34/13303322856160uTw3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
