@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-28T12:26:38.106Z</updated>
+    <updated>2021-12-28T13:24:04.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -20,32 +20,11 @@
         <content type="html"><![CDATA[<a href="/events/20005?productType=movie" class="" onclick="nclk(this, 'mov.list', '20005', '');">⏱뷰티 인사이드와 존 윅이 만난 신선도 맥스 '유체이탈자' 시리즈온 오픈!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~]]></title>
-        <id>https://serieson.naver.com/events/20010?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20010?productType=movie"/>
-        <updated>2021-12-23T15:17:16.065Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20010?productType=movie" class="" onclick="nclk(this, 'mov.list', '20010', '');">🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ X 시리즈온👀 특급 쿠폰과 함께 할인가로 즐겨요!]]></title>
-        <id>https://serieson.naver.com/events/20015?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20015?productType=movie"/>
-        <updated>2021-12-26T16:24:00.521Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20015?productType=movie" class="" onclick="nclk(this, 'mov.list', '20015', '');">CJ X 시리즈온👀 특급 쿠폰과 함께 할인가로 즐겨요!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티!]]></title>
         <id>https://serieson.naver.com/events/13673?productType=movie</id>
         <link href="https://serieson.naver.com/events/13673?productType=movie"/>
         <updated>2021-12-20T15:17:24.449Z</updated>
         <content type="html"><![CDATA[<a href="/events/13673?productType=movie" class="" onclick="nclk(this, 'mov.list', '13673', '');">🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📌연말은 스파이더맨 & 베놈과 함께! SONY 특급 이벤트 오픈!]]></title>
-        <id>https://serieson.naver.com/events/20008?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20008?productType=movie"/>
-        <updated>2021-12-21T15:17:14.895Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20008?productType=movie" class="" onclick="nclk(this, 'mov.list', '20008', '');">📌연말은 스파이더맨 &amp; 베놈과 함께! SONY 특급 이벤트 오픈!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🏆2021 영화 결산 SOTY 올해를 빛낸 작품들]]></title>
@@ -55,11 +34,32 @@
         <content type="html"><![CDATA[<a href="/events/13677?productType=movie" class="" onclick="nclk(this, 'mov.list', '13677', '');">🏆2021 영화 결산 SOTY 올해를 빛낸 작품들</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CJ X 시리즈온👀 특급 쿠폰과 함께 할인가로 즐겨요!]]></title>
+        <id>https://serieson.naver.com/events/20015?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20015?productType=movie"/>
+        <updated>2021-12-26T16:24:00.521Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20015?productType=movie" class="" onclick="nclk(this, 'mov.list', '20015', '');">CJ X 시리즈온👀 특급 쿠폰과 함께 할인가로 즐겨요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📌연말은 스파이더맨 & 베놈과 함께! SONY 특급 이벤트 오픈!]]></title>
+        <id>https://serieson.naver.com/events/20008?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20008?productType=movie"/>
+        <updated>2021-12-21T15:17:14.895Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20008?productType=movie" class="" onclick="nclk(this, 'mov.list', '20008', '');">📌연말은 스파이더맨 &amp; 베놈과 함께! SONY 특급 이벤트 오픈!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[📙뉴욕에서 쓰는 인생의 첫 페이지! '마이 뉴욕 다이어리' 경품 이벤트]]></title>
         <id>https://serieson.naver.com/events/20016?productType=movie</id>
         <link href="https://serieson.naver.com/events/20016?productType=movie"/>
         <updated>2021-12-26T16:24:00.526Z</updated>
         <content type="html"><![CDATA[<a href="/events/20016?productType=movie" class="" onclick="nclk(this, 'mov.list', '20016', '');">📙뉴욕에서 쓰는 인생의 첫 페이지! '마이 뉴욕 다이어리' 경품 이벤트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!]]></title>
+        <id>https://serieson.naver.com/events/20011?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20011?productType=movie"/>
+        <updated>2021-12-22T07:16:15.556Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20011?productType=movie" class="" onclick="nclk(this, 'mov.list', '20011', '');">❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎁새해맞이 꿀이득 쿠폰북 이벤트💰]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="/events/20012?productType=movie" class="" onclick="nclk(this, 'mov.list', '20012', '');">🎁새해맞이 꿀이득 쿠폰북 이벤트💰</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!]]></title>
-        <id>https://serieson.naver.com/events/20011?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20011?productType=movie"/>
-        <updated>2021-12-22T07:16:15.556Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20011?productType=movie" class="" onclick="nclk(this, 'mov.list', '20011', '');">❄️영화만 봤는데 올라프 굿즈가 선물로? 디즈니와 함께하는 ‘해피 홀리데이’ 이벤트 중!</a>]]></content>
+        <title type="html"><![CDATA[🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~]]></title>
+        <id>https://serieson.naver.com/events/20010?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20010?productType=movie"/>
+        <updated>2021-12-23T15:17:16.065Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20010?productType=movie" class="" onclick="nclk(this, 'mov.list', '20010', '');">🎄갓벽한 연말연초를 보내는 최고의 방법! 시리즈온 무료 영화 확인하세요~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🤝세상의 모든 에반에게 드리는 선물같은 영화 '디어 에반 핸슨']]></title>
@@ -130,12 +130,5 @@
         <link href="https://serieson.naver.com/events/13632?productType=movie"/>
         <updated>2021-12-17T06:19:44.141Z</updated>
         <content type="html"><![CDATA[<a href="/events/13632?productType=movie" class="" onclick="nclk(this, 'mov.list', '13632', '');">📌100캐시로 5천 캐시 영화 소장할 수 있는 기회!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!]]></title>
-        <id>https://serieson.naver.com/events/13610?productType=movie</id>
-        <link href="https://serieson.naver.com/events/13610?productType=movie"/>
-        <updated>2021-12-01T22:16:25.601Z</updated>
-        <content type="html"><![CDATA[<a href="/events/13610?productType=movie" class="" onclick="nclk(this, 'mov.list', '13610', '');">✅이 혜택 아직 놓치고 계셨나요? 네플멤 혜택 받아 최신 영화 그냥 보는 꿀팁!</a>]]></content>
     </entry>
 </feed>
