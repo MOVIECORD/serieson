@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2021-12-29T14:15:58.258Z</updated>
+    <updated>2021-12-29T15:17:31.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -27,11 +27,32 @@
         <content type="html"><![CDATA[<a href="/events/20019?productType=movie" class="" onclick="nclk(this, 'mov.list', '20019', '');">😎힙한 바로 그 호러! '라스트 나잇 인 소호' 시리즈온 입점!</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[자유, 돈, 명예를 위해 피부를 팔겠습니까? 날카로운 아트 스릴러 ‘피부를 판 남자‘ 오픈!]]></title>
+        <id>https://serieson.naver.com/events/20022?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20022?productType=movie"/>
+        <updated>2021-12-29T15:17:15.212Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20022?productType=movie" class="" onclick="nclk(this, 'mov.list', '20022', '');">자유, 돈, 명예를 위해 피부를 팔겠습니까? 날카로운 아트 스릴러 ‘피부를 판 남자‘ 오픈!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😎유쾌한 놈들과의 위험한 동행 '픽시' 오픈 프로모션]]></title>
+        <id>https://serieson.naver.com/events/20021?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20021?productType=movie"/>
+        <updated>2021-12-29T15:17:15.214Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20021?productType=movie" class="" onclick="nclk(this, 'mov.list', '20021', '');">😎유쾌한 놈들과의 위험한 동행 '픽시' 오픈 프로모션</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티!]]></title>
         <id>https://serieson.naver.com/events/13673?productType=movie</id>
         <link href="https://serieson.naver.com/events/13673?productType=movie"/>
         <updated>2021-12-20T15:17:24.449Z</updated>
         <content type="html"><![CDATA[<a href="/events/13673?productType=movie" class="" onclick="nclk(this, 'mov.list', '13673', '');">🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서!]]></title>
+        <id>https://serieson.naver.com/events/20020?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20020?productType=movie"/>
+        <updated>2021-12-29T15:17:15.217Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20020?productType=movie" class="" onclick="nclk(this, 'mov.list', '20020', '');">👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🏆2021 영화 결산 SOTY 올해를 빛낸 작품들]]></title>

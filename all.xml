@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 14:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 15:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,6 +239,17 @@
             <pubDate>Tue, 21 Dec 2021 15:16:48 GMT</pubDate>
             <content:encoded><![CDATA[<span>7,630</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211007_148/16336023443337eHho_JPEG/_____Main.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+			
+			
+			캔사스 시티 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/466837</link>
+            <guid>https://serieson.naver.com/v2/movie/466837</guid>
+            <pubDate>Wed, 29 Dec 2021 15:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span>700</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_249/1324481065248iKOgd_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자막
@@ -488,14 +499,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[만남의 광장 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/455872</link>
-            <guid>https://serieson.naver.com/v2/movie/455872</guid>
-            <pubDate>Mon, 20 Dec 2021 15:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210810_123/16285742137853XFs3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[더 파더 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/436412</link>
             <guid>https://serieson.naver.com/v2/movie/436412</guid>
@@ -664,17 +667,17 @@
             <enclosure url="https://movie-phinf.pstatic.net/20191203_217/1575347950420leqmB_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙머니 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/335615</link>
-            <guid>https://serieson.naver.com/v2/movie/335615</guid>
+            <title><![CDATA[블랙머니 (가치봄영화:시청각장.. ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/371673</link>
+            <guid>https://serieson.naver.com/v2/movie/371673</guid>
             <pubDate>Thu, 23 Dec 2021 15:16:58 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙머니 (가치봄영화:시청각장.. ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/371673</link>
-            <guid>https://serieson.naver.com/v2/movie/371673</guid>
+            <title><![CDATA[블랙머니 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/335615</link>
+            <guid>https://serieson.naver.com/v2/movie/335615</guid>
             <pubDate>Thu, 23 Dec 2021 15:16:58 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191113_203/1573610067050zNCj1_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
@@ -950,11 +953,32 @@
             <content:encoded><![CDATA[<a href="/events/20019?productType=movie" class="" onclick="nclk(this, 'mov.list', '20019', '');">😎힙한 바로 그 호러! '라스트 나잇 인 소호' 시리즈온 입점!</a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[자유, 돈, 명예를 위해 피부를 팔겠습니까? 날카로운 아트 스릴러 ‘피부를 판 남자‘ 오픈! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20022?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20022?productType=movie</guid>
+            <pubDate>Wed, 29 Dec 2021 15:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20022?productType=movie" class="" onclick="nclk(this, 'mov.list', '20022', '');">자유, 돈, 명예를 위해 피부를 팔겠습니까? 날카로운 아트 스릴러 ‘피부를 판 남자‘ 오픈!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[😎유쾌한 놈들과의 위험한 동행 '픽시' 오픈 프로모션 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20021?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20021?productType=movie</guid>
+            <pubDate>Wed, 29 Dec 2021 15:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20021?productType=movie" class="" onclick="nclk(this, 'mov.list', '20021', '');">😎유쾌한 놈들과의 위험한 동행 '픽시' 오픈 프로모션</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/13673?productType=movie</link>
             <guid>https://serieson.naver.com/events/13673?productType=movie</guid>
             <pubDate>Mon, 20 Dec 2021 15:17:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/13673?productType=movie" class="" onclick="nclk(this, 'mov.list', '13673', '');">🥂만나서 반가웠고, 쿨하게 헤어지자 2021년! Year-end 파티!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20020?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20020?productType=movie</guid>
+            <pubDate>Wed, 29 Dec 2021 15:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20020?productType=movie" class="" onclick="nclk(this, 'mov.list', '20020', '');">👂당신은 좋은 리스너 인가요? 전세계를 울린 ‘리슨‘은 지금 시리즈온에서!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🏆2021 영화 결산 SOTY 올해를 빛낸 작품들 ([시리즈온] 이벤트)]]></title>
