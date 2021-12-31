@@ -4,7 +4,7 @@
         <title>모바일 네이버 시리즈온 ─ 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 14:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 15:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -267,7 +267,7 @@
             <guid>https://m.serieson.naver.com/movie/detail?productNo=6716611</guid>
             <pubDate>Wed, 01 Dec 2021 22:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">2,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                    <dd><span class="hel_bd">1,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200703_48/1593739617223iuD2b_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
