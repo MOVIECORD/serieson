@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 08:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 09:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -592,6 +592,42 @@
             <enclosure url="https://movie-phinf.pstatic.net/20171110_103/15102901253487gTe2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세자매(가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/480712</link>
+            <guid>https://serieson.naver.com/v2/movie/480712</guid>
+            <pubDate>Wed, 05 Jan 2022 09:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210114_78/1610588407942CoL2I_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세자매(가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/480710</link>
+            <guid>https://serieson.naver.com/v2/movie/480710</guid>
+            <pubDate>Wed, 05 Jan 2022 09:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210114_78/1610588407942CoL2I_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파이프라인(가치봄영화:시청각.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/480709</link>
+            <guid>https://serieson.naver.com/v2/movie/480709</guid>
+            <pubDate>Wed, 05 Jan 2022 09:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210526_164/1622018439127m1L49_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파이프라인(가치봄영화:시청각.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/480708</link>
+            <guid>https://serieson.naver.com/v2/movie/480708</guid>
+            <pubDate>Wed, 05 Jan 2022 09:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210526_164/1622018439127m1L49_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더스트맨(가치봄영화:시청각장.. ([시리즈온] 가치봄 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/480443</link>
             <guid>https://serieson.naver.com/v2/movie/480443</guid>
@@ -787,44 +823,6 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211007_104/1633602962450ffpiv_JPEG/_mogadishu_pos_main_final.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-			마왕의 딸 이리샤(가치봄.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/468985</link>
-            <guid>https://serieson.naver.com/v2/movie/468985</guid>
-            <pubDate>Mon, 03 Jan 2022 20:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211115_229/1636951641389Rccbq_PNG/ONPOSTER_178.__.png?type=f102_138" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빛나는 순간(가치봄영화:시청각.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/468984</link>
-            <guid>https://serieson.naver.com/v2/movie/468984</guid>
-            <pubDate>Mon, 03 Jan 2022 20:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>5,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210630_227/1625035301941FCenY_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강철비2: 정상회담(가치봄영화.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/468983</link>
-            <guid>https://serieson.naver.com/v2/movie/468983</guid>
-            <pubDate>Mon, 03 Jan 2022 20:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>1,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200703_48/1593739617223iuD2b_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-			날씨의 아이(가치봄영화:.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/468819</link>
-            <guid>https://serieson.naver.com/v2/movie/468819</guid>
-            <pubDate>Mon, 03 Jan 2022 20:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>1,400</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[👻우리 보고 싶었어? 심쿵 어택 특급 굿즈와 함께 '고스트 버스터즈 라이즈' 시리즈온 오픈! ([시리즈온] 이벤트)]]></title>
@@ -1068,6 +1066,52 @@
             <pubDate>Mon, 03 Jan 2022 20:18:01 GMT</pubDate>
             <content:encoded><![CDATA[1월 7일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201221_210/1608530645207eplhA_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세자매(가치봄영화:시청각장애인용)
+                (대여) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/480712</link>
+            <guid>https://m.serieson.naver.com/v2/movie/480712</guid>
+            <pubDate>Wed, 05 Jan 2022 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>대여</dt>
+                    <dd><span class="hel_bd">2,750</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210114_78/1610588407942CoL2I_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세자매(가치봄영화:시청각장애인용)
+                
+                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/480710</link>
+            <guid>https://m.serieson.naver.com/v2/movie/480710</guid>
+            <pubDate>Wed, 05 Jan 2022 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>구매</dt>
+                    <dd><span class="hel_bd">7,150</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210114_78/1610588407942CoL2I_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파이프라인(가치봄영화:시청각장애인용)
+                (대여) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/480709</link>
+            <guid>https://m.serieson.naver.com/v2/movie/480709</guid>
+            <pubDate>Wed, 05 Jan 2022 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>대여</dt>
+                    <dd><span class="hel_bd">2,750</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210526_164/1622018439127m1L49_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파이프라인(가치봄영화:시청각장애인용)
+                
+                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/480708</link>
+            <guid>https://m.serieson.naver.com/v2/movie/480708</guid>
+            <pubDate>Wed, 05 Jan 2022 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>구매</dt>
+                    <dd><span class="hel_bd">7,150</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210526_164/1622018439127m1L49_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더스트맨(가치봄영화:시청각장애인용)
@@ -1316,62 +1360,6 @@
                     <dd><span class="hel_bd">9,900</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211007_104/1633602962450ffpiv_JPEG/_mogadishu_pos_main_final.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-				
-                
-                
-                마왕의 딸 이리샤(가치봄영화:시청각장애인용)
-                
-                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/468985</link>
-            <guid>https://m.serieson.naver.com/v2/movie/468985</guid>
-            <pubDate>Wed, 05 Jan 2022 07:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">1,200</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211115_229/1636951641389Rccbq_PNG/ONPOSTER_178.__.png?type=f128_184" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빛나는 순간(가치봄영화:시청각장애인용)
-                
-                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/468984</link>
-            <guid>https://m.serieson.naver.com/v2/movie/468984</guid>
-            <pubDate>Wed, 05 Jan 2022 07:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">5,000</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210630_227/1625035301941FCenY_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강철비2: 정상회담(가치봄영화:시청각장애인용)
-                
-                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/468983</link>
-            <guid>https://m.serieson.naver.com/v2/movie/468983</guid>
-            <pubDate>Wed, 05 Jan 2022 07:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">1,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200703_48/1593739617223iuD2b_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-				
-                
-                
-                날씨의 아이(가치봄영화:시청각장애인용)
-                
-                (구매) (모바일 네이버 시리즈온 ─ 가치봄 영화관)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/468819</link>
-            <guid>https://m.serieson.naver.com/v2/movie/468819</guid>
-            <pubDate>Wed, 05 Jan 2022 07:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">1,400</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
