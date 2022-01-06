@@ -4,9 +4,44 @@
         <title>모바일 네이버 시리즈온 ─ 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 04:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스프링 송(가치봄영화:시청각장애인용)
+                (대여)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/480950</link>
+            <guid>https://m.serieson.naver.com/v2/movie/480950</guid>
+            <pubDate>Thu, 06 Jan 2022 05:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>대여</dt>
+                    <dd><span class="hel_bd">2,750</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210504_123/1620115047276vk493_JPEG/___%281%29.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스프링 송(가치봄영화:시청각장애인용)
+                
+                (구매)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/480948</link>
+            <guid>https://m.serieson.naver.com/v2/movie/480948</guid>
+            <pubDate>Thu, 06 Jan 2022 05:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>구매</dt>
+                    <dd><span class="hel_bd">7,150</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210504_123/1620115047276vk493_JPEG/___%281%29.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[학교 가는 길(가치봄영화:시청각장애인용)
+                
+                (구매)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/480947</link>
+            <guid>https://m.serieson.naver.com/v2/movie/480947</guid>
+            <pubDate>Thu, 06 Jan 2022 05:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>구매</dt>
+                    <dd><span class="hel_bd">5,000</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210416_118/1618536200110fLn7g_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세자매(가치봄영화:시청각장애인용)
                 (대여)]]></title>
@@ -265,41 +300,6 @@
                     <dd><span class="hel_bd">5,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210831_152/1630371935224qy9s6_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이스(가치봄영화:시청각장애인용)
-                
-                (구매)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/472716</link>
-            <guid>https://m.serieson.naver.com/v2/movie/472716</guid>
-            <pubDate>Wed, 05 Jan 2022 07:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">10,890</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210831_152/1630371935224qy9s6_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모가디슈(가치봄영화:시청각장애인용)
-                (대여)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/471602</link>
-            <guid>https://m.serieson.naver.com/v2/movie/471602</guid>
-            <pubDate>Wed, 05 Jan 2022 07:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">5,000</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211007_104/1633602962450ffpiv_JPEG/_mogadishu_pos_main_final.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모가디슈(가치봄영화:시청각장애인용)
-                
-                (구매)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/471601</link>
-            <guid>https://m.serieson.naver.com/v2/movie/471601</guid>
-            <pubDate>Wed, 05 Jan 2022 07:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">9,900</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211007_104/1633602962450ffpiv_JPEG/_mogadishu_pos_main_final.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
