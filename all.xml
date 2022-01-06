@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 15:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 16:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -441,7 +441,7 @@
             <title><![CDATA[아멜리에 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/464225</link>
             <guid>https://serieson.naver.com/v2/movie/464225</guid>
-            <pubDate>Thu, 06 Jan 2022 15:17:24 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 15:17:15 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211215_59/1639548396861gSznN_JPEG/Amelie_teaser_01.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -449,7 +449,7 @@
             <title><![CDATA[플로렌스 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/462825</link>
             <guid>https://serieson.naver.com/v2/movie/462825</guid>
-            <pubDate>Thu, 06 Jan 2022 15:17:24 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 15:17:15 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20160725_196/1469422765200RJrJ8_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
