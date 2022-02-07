@@ -4,9 +4,32 @@
         <title>모바일 네이버 시리즈온 ─ 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 06:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마스터(가치봄영화:시청각장애인용)
+                (대여)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/485694</link>
+            <guid>https://m.serieson.naver.com/v2/movie/485694</guid>
+            <pubDate>Mon, 07 Feb 2022 06:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>대여</dt>
+                    <dd><span class="hel_bd">2,750</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220131_166/1643618243060emJ1M_JPEG/__.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마스터(가치봄영화:시청각장애인용)
+                
+                (구매)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/485693</link>
+            <guid>https://m.serieson.naver.com/v2/movie/485693</guid>
+            <pubDate>Mon, 07 Feb 2022 06:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>구매</dt>
+                    <dd><span class="hel_bd">7,150</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220131_166/1643618243060emJ1M_JPEG/__.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화의 거리(가치봄영화:시청각장애인용)
                 (대여)]]></title>
@@ -278,29 +301,6 @@
                     <dd><span class="hel_bd">1,540</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200115_223/1579061805057fDTGd_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로젯(가치봄영화:시청각장애인용)
-                
-                (구매)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/484778</link>
-            <guid>https://m.serieson.naver.com/v2/movie/484778</guid>
-            <pubDate>Sat, 29 Jan 2022 12:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">6,050</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200116_23/1579154974413LvtIf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로젯(가치봄영화:시청각장애인용)
-                (대여)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/484777</link>
-            <guid>https://m.serieson.naver.com/v2/movie/484777</guid>
-            <pubDate>Sat, 29 Jan 2022 12:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">1,540</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200116_23/1579154974413LvtIf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
