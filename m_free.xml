@@ -4,9 +4,25 @@
         <title>모바일 네이버 시리즈온 ─ 무료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 14:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 15:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정글]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/234201</link>
+            <guid>https://m.serieson.naver.com/v2/movie/234201</guid>
+            <pubDate>Fri, 18 Feb 2022 15:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[3월 4일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180523_89/1527041515521jQKPn_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세 번째 살인]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/225030</link>
+            <guid>https://m.serieson.naver.com/v2/movie/225030</guid>
+            <pubDate>Fri, 18 Feb 2022 15:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[3월 4일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171127_45/1511746082042xUgGT_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 히어로: 메모리 리메인즈]]></title>
             <link>https://m.serieson.naver.com/v2/movie/270605</link>
@@ -143,22 +159,6 @@
             <pubDate>Thu, 10 Feb 2022 15:16:33 GMT</pubDate>
             <content:encoded><![CDATA[2월 24일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180820_10/153474750289407IYO_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[침입자들]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/302118</link>
-            <guid>https://m.serieson.naver.com/v2/movie/302118</guid>
-            <pubDate>Fri, 04 Feb 2022 15:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[2월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190813_79/1565658818133uQJPM_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잇 로컬]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/197610</link>
-            <guid>https://m.serieson.naver.com/v2/movie/197610</guid>
-            <pubDate>Fri, 04 Feb 2022 15:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[2월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170720_238/1500514908694bHy8V_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
