@@ -4,7 +4,7 @@
         <title>모바일 네이버 시리즈온 ─ 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 14:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 15:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -305,7 +305,7 @@
             <guid>https://m.serieson.naver.com/v2/movie/486763</guid>
             <pubDate>Sat, 12 Feb 2022 15:14:59 GMT</pubDate>
             <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">5,000</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                    <dd><span class="hel_bd">2,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210928_52/1632794575215QfiwE_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -317,7 +317,7 @@
             <guid>https://m.serieson.naver.com/v2/movie/486762</guid>
             <pubDate>Sat, 12 Feb 2022 15:14:59 GMT</pubDate>
             <content:encoded><![CDATA[<dt>구매</dt>
-                    <dd><span class="hel_bd">9,900</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                    <dd><span class="hel_bd">6,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210928_52/1632794575215QfiwE_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
