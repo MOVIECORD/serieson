@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 16:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 17:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,7 +147,7 @@
             <title><![CDATA[휘트니 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 03 Mar 2022 16:23:33 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 17:17:26 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -160,7 +160,7 @@
 											러브 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 03 Mar 2022 16:23:34 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 17:17:26 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -1044,7 +1044,7 @@
             <title><![CDATA[휘트니 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 03 Mar 2022 16:24:13 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 17:18:07 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211125_148/163782752965682JWH_PNG/ONPOSTER_2515..png?type=f128_184" length="0" type="image/png"/>
         </item>
@@ -1058,7 +1058,7 @@
 								러브 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 03 Mar 2022 16:24:13 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 17:18:07 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20171010_174/1507626689763r27dl_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
