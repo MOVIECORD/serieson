@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 14:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 15:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,7 +131,7 @@
             <title><![CDATA[휘트니 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 14:15:00 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 15:16:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -144,21 +144,21 @@
 											러브 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 14:15:00 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 15:16:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그해 여름 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 14:15:00 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 15:16:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시카리오: 데이 오브 솔다도 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 14:15:00 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 15:16:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20201106_164/1604629218336jHBEf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내 사랑 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/403669</link>
+            <guid>https://serieson.naver.com/v2/movie/403669</guid>
+            <pubDate>Mon, 07 Mar 2022 15:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span>700</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_294/1324558013154i22kp_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자막
 			
 			바람이 분다(패키지상품:.. ([시리즈온] 할인 영화관)]]></title>
@@ -364,6 +372,18 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200910_288/15997115593797SfBW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[19
+			
+			
+			
+			펜트하우스 코끼리 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/397618</link>
+            <guid>https://serieson.naver.com/v2/movie/397618</guid>
+            <pubDate>Mon, 07 Mar 2022 15:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span>700</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_35/1324594330640SukIJ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더빙
 			모노노케 히메(원령공주).. ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/399892</link>
@@ -371,26 +391,6 @@
             <pubDate>Sun, 06 Mar 2022 15:15:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_63/1324483671210VVU36_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-			
-			모노노케 히메(원령공주).. ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/396048</link>
-            <guid>https://serieson.naver.com/v2/movie/396048</guid>
-            <pubDate>Sun, 06 Mar 2022 15:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_63/1324483671210VVU36_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-			
-			이웃집 야마다군(패키지상.. ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/394843</link>
-            <guid>https://serieson.naver.com/v2/movie/394843</guid>
-            <pubDate>Sun, 06 Mar 2022 15:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111221_276/1324451631976netM8_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[범죄의 여왕(가치봄영화:시청각.. ([시리즈온] 천원관)]]></title>
@@ -883,6 +883,13 @@
             <content:encoded><![CDATA[<a href="/events/20092?productType=movie" class="" onclick="nclk(this, 'mov.list', '20092', '');">🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙</a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20103?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20103?productType=movie</guid>
+            <pubDate>Mon, 07 Mar 2022 15:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20103?productType=movie" class="" onclick="nclk(this, 'mov.list', '20103', '');">💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[🥂술과 인생이 만들어낸 유쾌한 술생찬가! '어나더 라운드' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20101?productType=movie</link>
             <guid>https://serieson.naver.com/events/20101?productType=movie</guid>
@@ -1048,7 +1055,7 @@
             <title><![CDATA[휘트니 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 14:15:39 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 15:17:27 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211125_148/163782752965682JWH_PNG/ONPOSTER_2515..png?type=f128_184" length="0" type="image/png"/>
         </item>
@@ -1062,7 +1069,7 @@
 								러브 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 14:15:39 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 15:17:27 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20171010_174/1507626689763r27dl_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1070,7 +1077,7 @@
             <title><![CDATA[그해 여름 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 14:15:39 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 15:17:27 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_121/1324570748255LDMxf_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1078,7 +1085,7 @@
             <title><![CDATA[시카리오: 데이 오브 솔다도 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 14:15:39 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 15:17:27 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220224_72/1645702767261Axd9A_JPEG/%BD%C3%B8%AE%C1%EEONPOSTER_3196.%BD%C3%C4%AB%B8%AE%BF%C0__%B5%A5%C0%CC_%BF%C0%BA%EA_%BC%D6%B4%D9%B5%B5.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
