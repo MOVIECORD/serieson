@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 03:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 04:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,10 +142,23 @@
             <enclosure url="https://movie-phinf.pstatic.net/20130718_5/1374116517723KjwyC_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											키스 오브 뱀파이어 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
+            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
+            <pubDate>Fri, 11 Mar 2022 04:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미녀는 괴로워 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 11 Mar 2022 03:17:56 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2022 04:21:54 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -158,14 +171,7 @@
 											화장 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 11 Mar 2022 03:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부러진 화살 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
-            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 11 Mar 2022 03:17:56 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2022 04:21:54 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -1072,10 +1078,24 @@
             <enclosure url="https://movie-phinf.pstatic.net/20130718_5/1374116517723KjwyC_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[19금
+									
+								
+							
+							
+							
+								키스 오브 뱀파이어 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
+            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
+            <pubDate>Fri, 11 Mar 2022 04:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150715_205/14369257778716yf7s_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미녀는 괴로워 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 11 Mar 2022 03:18:39 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2022 04:22:36 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_283/1324561166934KJyL7_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1089,17 +1109,9 @@
 								화장 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 11 Mar 2022 03:18:39 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2022 04:22:36 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150417_262/14292474706454sGwS_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부러진 화살 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
-            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 11 Mar 2022 03:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20120117_128/1326792036128WSKQp_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더빙
