@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-13T14:16:10.791Z</updated>
+    <updated>2022-03-13T15:17:12.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://serieson.naver.com/events/20103?productType=movie"/>
         <updated>2022-03-07T15:17:19.841Z</updated>
         <content type="html"><![CDATA[<a href="/events/20103?productType=movie" class="" onclick="nclk(this, 'mov.list', '20103', '');">💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📐혹시 나도 천재일지 몰라! 자극 받는 천재 영화 모아 '파이 데이']]></title>
+        <id>https://serieson.naver.com/events/20114?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20114?productType=movie"/>
+        <updated>2022-03-13T15:16:56.600Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20114?productType=movie" class="" onclick="nclk(this, 'mov.list', '20114', '');">📐혹시 나도 천재일지 몰라! 자극 받는 천재 영화 모아 '파이 데이'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🐉호소다 마모루의 메타버스! '용과 주근깨 공주' 시리즈온 상륙]]></title>
@@ -67,13 +74,6 @@
         <link href="https://serieson.naver.com/events/20034?productType=movie"/>
         <updated>2022-03-01T15:17:57.152Z</updated>
         <content type="html"><![CDATA[<a href="/events/20034?productType=movie" class="" onclick="nclk(this, 'mov.list', '20034', '');">✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📌영혼을 채우는 명작 영화, 5천 캐시로 보세요!]]></title>
-        <id>https://serieson.naver.com/events/20053?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20053?productType=movie"/>
-        <updated>2022-03-03T11:13:55.321Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20053?productType=movie" class="" onclick="nclk(this, 'mov.list', '20053', '');">📌영혼을 채우는 명작 영화, 5천 캐시로 보세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[22년 3월 우수 이용자! 꼭 확인해보자!]]></title>
