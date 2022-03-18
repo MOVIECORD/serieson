@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-18T14:16:04.526Z</updated>
+    <updated>2022-03-18T15:18:00.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://serieson.naver.com/events/20119?productType=movie"/>
         <updated>2022-03-15T02:39:59.511Z</updated>
         <content type="html"><![CDATA[<a href="/events/20119?productType=movie" class="" onclick="nclk(this, 'mov.list', '20119', '');">🦋쉿,그들이 너를 선택했다! '안테벨룸'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁토일 2일간 무제한 영화 할인 쿠폰이 와르르!]]></title>
+        <id>https://serieson.naver.com/events/20125?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20125?productType=movie"/>
+        <updated>2022-03-18T15:17:44.549Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20125?productType=movie" class="" onclick="nclk(this, 'mov.list', '20125', '');">🎁토일 2일간 무제한 영화 할인 쿠폰이 와르르!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🏆더욱 더 다양한 영화를 위해! 포커스 피쳐스 20주년 기념 파티]]></title>
