@@ -4,9 +4,24 @@
         <title>모바일 네이버 시리즈온 ─ 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 14:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 15:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더빙
+				
+                
+                
+                미래의 미라이(가치봄영화:시청각장애인용)
+                (대여)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/491126</link>
+            <guid>https://m.serieson.naver.com/v2/movie/491126</guid>
+            <pubDate>Sun, 20 Mar 2022 15:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dt>대여</dt>
+                    <dd><span class="hel_bd">1,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
+                        </dd>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181221_261/15453677473946ktg5_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더빙
 				
@@ -307,17 +322,6 @@
                     <dd><span class="hel_bd">9,900</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
                         </dd>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210908_98/1631077678630Mtkxn_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브라더(가치봄영화:시청각장애인용)
-                (대여)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/486768</link>
-            <guid>https://m.serieson.naver.com/v2/movie/486768</guid>
-            <pubDate>Sat, 12 Feb 2022 15:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[<dt>대여</dt>
-                    <dd><span class="hel_bd">2,500</span><i class="spr_cash_img unit_cash"><span class="u_hc">캐시 아이콘 이미지</span></i>
-                        </dd>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210923_272/16323630541200iQPb_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
