@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-21T14:16:12.188Z</updated>
+    <updated>2022-03-21T15:18:44.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="/events/20112?productType=movie" class="" onclick="nclk(this, 'mov.list', '20112', '');">🐖돼지를 잃어버린 남자, 마음을 잃어버린 사람들을 만나다 '피그'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20103?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20103?productType=movie"/>
-        <updated>2022-03-07T15:17:19.841Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20103?productType=movie" class="" onclick="nclk(this, 'mov.list', '20103', '');">💖21세기 최고의 문제작으로 빚은 파격 멜로! '인민을 위해 복무하라' 경품 이벤트</a>]]></content>
+        <title type="html"><![CDATA[💥리암 니슨의 끝장 액션 ‘블랙 라이트’ 보고 아이스크림 케이크 받자!]]></title>
+        <id>https://serieson.naver.com/events/20116?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20116?productType=movie"/>
+        <updated>2022-03-21T15:18:29.774Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20116?productType=movie" class="" onclick="nclk(this, 'mov.list', '20116', '');">💥리암 니슨의 끝장 액션 ‘블랙 라이트’ 보고 아이스크림 케이크 받자! </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🌹저.. 예술 영화 좋아하세요?]]></title>
