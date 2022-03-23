@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 05:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 06:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,21 +145,21 @@
 											황제를 위하여 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 23 Mar 2022 05:15:05 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 06:20:22 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[재심 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 23 Mar 2022 05:15:05 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 06:20:22 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[윤희에게 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 23 Mar 2022 05:15:06 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 06:20:22 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -918,6 +918,13 @@
             <content:encoded><![CDATA[<a href="/events/20098?productType=movie" class="" onclick="nclk(this, 'mov.list', '20098', '');">22년 3월 우수 이용자! 꼭 확인해보자!</a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[📌영혼을 채우는 명작 영화, 5천 캐시로 보세요! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20053?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20053?productType=movie</guid>
+            <pubDate>Wed, 23 Mar 2022 06:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20053?productType=movie" class="" onclick="nclk(this, 'mov.list', '20053', '');">📌영혼을 채우는 명작 영화, 5천 캐시로 보세요!</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[19금
 											
 										
@@ -1055,7 +1062,7 @@
 								황제를 위하여 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 23 Mar 2022 05:15:47 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 06:21:03 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140519_265/1400467628668cQXYH_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1063,7 +1070,7 @@
             <title><![CDATA[재심 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 23 Mar 2022 05:15:47 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 06:21:03 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170206_116/1486347780659NI0zd_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1071,7 +1078,7 @@
             <title><![CDATA[윤희에게 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 23 Mar 2022 05:15:47 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 06:21:03 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191203_217/1575347950420leqmB_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
