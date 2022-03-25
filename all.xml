@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 02:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 03:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -135,14 +135,14 @@
             <title><![CDATA[러덜리스 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:18 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 03:20:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[알래스카 대지진 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:18 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 03:20:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -155,7 +155,7 @@
 											겟 아웃 얼라이브 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:18 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 03:20:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -163,14 +163,14 @@
 											토미카 무비 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:18 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 03:20:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리틀 킹덤 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:18 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 03:20:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -851,13 +851,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210908_98/1631077678630Mtkxn_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[☕따뜻한 독립예술영화 한잔! <소피의 세계> 경품/할인 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20130?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20130?productType=movie</guid>
-            <pubDate>Thu, 24 Mar 2022 16:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20130?productType=movie" class="" onclick="nclk(this, 'mov.list', '20130', '');">☕따뜻한 독립예술영화 한잔! &lt;소피의 세계&gt; 경품/할인 이벤트</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[🕷스파이더맨 노 웨이 홈 소장하고 블루레이 DVD 받자! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20120?productType=movie</link>
             <guid>https://serieson.naver.com/events/20120?productType=movie</guid>
@@ -870,6 +863,13 @@
             <guid>https://serieson.naver.com/events/20128?productType=movie</guid>
             <pubDate>Wed, 23 Mar 2022 15:17:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20128?productType=movie" class="" onclick="nclk(this, 'mov.list', '20128', '');">🏆94회 아카데미 시상식 특집! 역대 수상작 할인 &amp; 50% 쿠폰 BACK 이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[☕따뜻한 독립예술영화 한잔! <소피의 세계> 경품/할인 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20130?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20130?productType=movie</guid>
+            <pubDate>Thu, 24 Mar 2022 16:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20130?productType=movie" class="" onclick="nclk(this, 'mov.list', '20130', '');">☕따뜻한 독립예술영화 한잔! &lt;소피의 세계&gt; 경품/할인 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🦋쉿,그들이 너를 선택했다! '안테벨룸' ([시리즈온] 이벤트)]]></title>
@@ -886,6 +886,13 @@
             <content:encoded><![CDATA[<a href="/events/20116?productType=movie" class="" onclick="nclk(this, 'mov.list', '20116', '');">💥리암 니슨의 끝장 액션 ‘블랙 라이트’ 보고 아이스크림 케이크 받자! </a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[📌캐시가 애매할 때? 착한 가격 착한 영화 라인업 체크! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20135?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20135?productType=movie</guid>
+            <pubDate>Fri, 25 Mar 2022 03:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20135?productType=movie" class="" onclick="nclk(this, 'mov.list', '20135', '');">📌캐시가 애매할 때? 착한 가격 착한 영화 라인업 체크!</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십 ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20034?productType=movie</link>
             <guid>https://serieson.naver.com/events/20034?productType=movie</guid>
@@ -898,13 +905,6 @@
             <guid>https://serieson.naver.com/events/20098?productType=movie</guid>
             <pubDate>Mon, 28 Feb 2022 15:18:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20098?productType=movie" class="" onclick="nclk(this, 'mov.list', '20098', '');">22년 3월 우수 이용자! 꼭 확인해보자!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📌영혼을 채우는 명작 영화, 5천 캐시로 보세요! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20053?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20053?productType=movie</guid>
-            <pubDate>Wed, 23 Mar 2022 06:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20053?productType=movie" class="" onclick="nclk(this, 'mov.list', '20053', '');">📌영혼을 채우는 명작 영화, 5천 캐시로 보세요!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[19금
@@ -1034,7 +1034,7 @@
             <title><![CDATA[러덜리스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:55 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 03:21:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150617_37/1434505314610VyfmV_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1042,7 +1042,7 @@
             <title><![CDATA[알래스카 대지진 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:55 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 03:21:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150422_279/1429676400463ELRJd_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1056,7 +1056,7 @@
 								겟 아웃 얼라이브 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:55 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 03:21:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200720_58/1595230670383UhlAA_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1066,7 +1066,7 @@
 								토미카 무비 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:55 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 03:21:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20141117_57/14162015668034GFK9_JPEG/movie_image.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
@@ -1074,7 +1074,7 @@
             <title><![CDATA[리틀 킹덤 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:55 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 03:21:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20201104_204/1604455185245sojYf_JPEG/____1104.jpg?type=f128_184" length="0" type="image/jpg"/>
         </item>
