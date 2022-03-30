@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 14:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 15:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,13 +20,6 @@
             <guid>https://serieson.naver.com/events/20133?productType=movie</guid>
             <pubDate>Tue, 29 Mar 2022 15:18:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20133?productType=movie" class="" onclick="nclk(this, 'mov.list', '20133', '');">😎포와로 탐정과 함께 이집트 초호화 크루즈 여행을! '나일 강의 죽음'</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🏆94회 아카데미 시상식 특집! 역대 수상작 할인 & 50% 쿠폰 BACK 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20128?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20128?productType=movie</guid>
-            <pubDate>Wed, 23 Mar 2022 15:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20128?productType=movie" class="" onclick="nclk(this, 'mov.list', '20128', '');">🏆94회 아카데미 시상식 특집! 역대 수상작 할인 &amp; 50% 쿠폰 BACK 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[😘조금 더 색다르게 '스파이더맨: 노 웨이 홈' 즐기려면? 더빙판의 즐거움을! ([시리즈온] 이벤트)]]></title>
@@ -176,7 +169,7 @@
             <title><![CDATA[러덜리스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 30 Mar 2022 14:16:52 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 15:17:59 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150617_37/1434505314610VyfmV_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -184,7 +177,7 @@
             <title><![CDATA[알래스카 대지진 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 30 Mar 2022 14:16:52 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 15:17:59 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150422_279/1429676400463ELRJd_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -192,7 +185,7 @@
             <title><![CDATA[겟 아웃 얼라이브 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 30 Mar 2022 14:16:52 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 15:17:59 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200720_58/1595230670383UhlAA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -200,7 +193,7 @@
             <title><![CDATA[토미카 무비 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 30 Mar 2022 14:16:52 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 15:17:59 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20141117_57/14162015668034GFK9_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -208,7 +201,7 @@
             <title><![CDATA[리틀 킹덤 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 30 Mar 2022 14:16:52 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 15:17:59 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20201104_204/1604455185245sojYf_JPEG/____1104.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
