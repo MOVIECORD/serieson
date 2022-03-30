@@ -4,15 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 07:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 08:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[🕷스파이더맨 노 웨이 홈 소장하고 블루레이 DVD 받자! ([시리즈온] 이벤트)]]></title>
+            <title><![CDATA[🕷스파이더맨 노 웨이 홈 소장하고 블루레이 받자! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20120?productType=movie</link>
             <guid>https://serieson.naver.com/events/20120?productType=movie</guid>
             <pubDate>Thu, 17 Mar 2022 16:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20120?productType=movie" class="" onclick="nclk(this, 'mov.list', '20120', '');">🕷스파이더맨 노 웨이 홈 소장하고 블루레이 DVD 받자!</a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/events/20120?productType=movie" class="" onclick="nclk(this, 'mov.list', '20120', '');">🕷스파이더맨 노 웨이 홈 소장하고 블루레이 받자!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[😎포와로 탐정과 함께 이집트 초호화 크루즈 여행을! '나일 강의 죽음' ([시리즈온] 이벤트)]]></title>
@@ -176,7 +176,7 @@
             <title><![CDATA[러덜리스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 30 Mar 2022 07:17:30 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 08:21:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150617_37/1434505314610VyfmV_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -184,7 +184,7 @@
             <title><![CDATA[알래스카 대지진 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 30 Mar 2022 07:17:30 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 08:21:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150422_279/1429676400463ELRJd_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -192,7 +192,7 @@
             <title><![CDATA[겟 아웃 얼라이브 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 30 Mar 2022 07:17:30 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 08:21:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200720_58/1595230670383UhlAA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -200,7 +200,7 @@
             <title><![CDATA[토미카 무비 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 30 Mar 2022 07:17:30 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 08:21:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20141117_57/14162015668034GFK9_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -208,7 +208,7 @@
             <title><![CDATA[리틀 킹덤 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 30 Mar 2022 07:17:30 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2022 08:21:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20201104_204/1604455185245sojYf_JPEG/____1104.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
