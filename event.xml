@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-03-31T15:19:00.794Z</updated>
+    <updated>2022-03-31T16:23:40.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🤿시리즈온 단독소장! 오픈특가! <바다 탐험대 옥토넛:해저동굴 대탈출> 할인 이벤트!]]></title>
+        <id>https://serieson.naver.com/events/20142?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20142?productType=movie"/>
+        <updated>2022-03-31T16:23:23.483Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20142?productType=movie" class="" onclick="nclk(this, 'mov.list', '20142', '');">🤿시리즈온 단독소장! 오픈특가! &lt;바다 탐험대 옥토넛:해저동굴 대탈출&gt; 할인 이벤트!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎁만우절 기념 쿠폰 이벤트! 선착순 3천명 1천 캐시 쿠폰 무조건 선물!]]></title>
         <id>https://serieson.naver.com/events/20144?productType=movie</id>
