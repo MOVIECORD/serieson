@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 23:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 01:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,18 +29,18 @@
             <content:encoded><![CDATA[<a href="/events/20145?productType=movie" class="" onclick="nclk(this, 'mov.list', '20145', '');">⏰누구보다 빠르게! 오직 시리즈온에서만! &lt;만년이 지나도 변하지 않는게 있어&gt; 대여 선공개 할인 이벤트!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🎉무제한 영화 감상하고 5천원 쿠폰 받아가자! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20146?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20146?productType=movie</guid>
-            <pubDate>Fri, 01 Apr 2022 10:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20146?productType=movie" class="" onclick="nclk(this, 'mov.list', '20146', '');">🎉무제한 영화 감상하고 5천원 쿠폰 받아가자!</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[📅벌써 4월? 이제라도 갓생 시작! 동기부여 영화 모음.zip ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20139?productType=movie</link>
             <guid>https://serieson.naver.com/events/20139?productType=movie</guid>
             <pubDate>Thu, 31 Mar 2022 01:08:56 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20139?productType=movie" class="" onclick="nclk(this, 'mov.list', '20139', '');">📅벌써 4월? 이제라도 갓생 시작! 동기부여 영화 모음.zip</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎉무제한 영화 감상하고 5천원 쿠폰 받아가자! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20146?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20146?productType=movie</guid>
+            <pubDate>Fri, 01 Apr 2022 10:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20146?productType=movie" class="" onclick="nclk(this, 'mov.list', '20146', '');">🎉무제한 영화 감상하고 5천원 쿠폰 받아가자!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🤿시리즈온 단독소장! 오픈특가! <바다 탐험대 옥토넛:해저동굴 대탈출> 할인 이벤트! ([시리즈온] 이벤트)]]></title>
@@ -184,7 +184,7 @@
             <title><![CDATA[나, 다니엘 블레이크 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 04 Apr 2022 23:18:25 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 01:09:37 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20161117_246/1479344102925C9Ens_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -192,7 +192,7 @@
             <title><![CDATA[퍼펙트 겟어웨이 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 04 Apr 2022 23:18:25 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 01:09:37 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211118_13/1637241846709KQbfV_PNG/ONPOSTER_506._.png?type=w320" length="0" type="image/png"/>
         </item>
@@ -200,7 +200,7 @@
             <title><![CDATA[킹 아더 카멜롯의 기사 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 04 Apr 2022 23:18:25 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 01:09:37 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200710_261/1594364872582YtlaR_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -208,7 +208,7 @@
             <title><![CDATA[지골로 인 뉴욕 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 04 Apr 2022 23:18:25 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 01:09:37 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211022_156/1634884798893qsncQ_JPEG/___NEW__01.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
