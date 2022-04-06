@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 05:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 06:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,7 +112,7 @@
             <guid>https://m.serieson.naver.com/v2/movie/402158</guid>
             <pubDate>Thu, 31 Mar 2022 15:18:51 GMT</pubDate>
             <content:encoded><![CDATA[4월 14일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20201104_204/1604455185245sojYf_JPEG/____1104.jpg?type=w320" length="0" type="image/jpg"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220406_57/1649224003376fINqi_PNG/%BD%C3%B8%AE%C1%EEONPOSTER_3396.%B8%AE%C6%B2_%C5%B7%B4%FD.png?type=w320" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[잉글리쉬 티처 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -198,7 +198,7 @@
             <title><![CDATA[나, 다니엘 블레이크 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 06 Apr 2022 05:16:11 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 06:20:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20161117_246/1479344102925C9Ens_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -206,7 +206,7 @@
             <title><![CDATA[퍼펙트 겟어웨이 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 06 Apr 2022 05:16:11 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 06:20:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211118_13/1637241846709KQbfV_PNG/ONPOSTER_506._.png?type=w320" length="0" type="image/png"/>
         </item>
@@ -214,7 +214,7 @@
             <title><![CDATA[킹 아더 카멜롯의 기사 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 06 Apr 2022 05:16:11 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 06:20:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200710_261/1594364872582YtlaR_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -222,7 +222,7 @@
             <title><![CDATA[지골로 인 뉴욕 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 06 Apr 2022 05:16:11 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 06:20:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211022_156/1634884798893qsncQ_JPEG/___NEW__01.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
