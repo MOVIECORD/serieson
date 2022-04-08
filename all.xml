@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 08:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 09:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,13 +83,6 @@
             <guid>https://serieson.naver.com/events/20142?productType=movie</guid>
             <pubDate>Thu, 31 Mar 2022 16:23:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20142?productType=movie" class="" onclick="nclk(this, 'mov.list', '20142', '');">🤿시리즈온 단독소장! 오픈특가! &lt;바다 탐험대 옥토넛:해저동굴 대탈출&gt; 할인 이벤트!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🎉무제한 영화 감상하고 5천원 쿠폰 받아가자! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20146?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20146?productType=movie</guid>
-            <pubDate>Fri, 01 Apr 2022 10:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20146?productType=movie" class="" onclick="nclk(this, 'mov.list', '20146', '');">🎉무제한 영화 감상하고 5천원 쿠폰 받아가자!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[📌캐시가 애매할 때? 착한 가격 착한 영화 라인업 체크! ([시리즈온] 이벤트)]]></title>
@@ -213,7 +206,7 @@
             <title><![CDATA[스마트 피플 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 08 Apr 2022 08:20:29 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 09:16:56 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_174/13245234881759jbec_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -221,7 +214,7 @@
             <title><![CDATA[캡틴 샤키 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 08 Apr 2022 08:20:29 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 09:16:56 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20181018_51/1539848348762RxgRn_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -229,7 +222,7 @@
             <title><![CDATA[찡찡 막막 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 08 Apr 2022 08:20:29 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 09:16:56 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20141024_216/1414117250596Igvdo_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
