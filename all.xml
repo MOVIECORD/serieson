@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 06:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 07:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[😍대만풍 로맨스 레전드들의 만남, <만년이 지나도 변하지 않는게 있어> 경품/할인 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20110?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20110?productType=movie</guid>
-            <pubDate>Thu, 07 Apr 2022 15:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20110?productType=movie" class="" onclick="nclk(this, 'mov.list', '20110', '');">😍대만풍 로맨스 레전드들의 만남, &lt;만년이 지나도 변하지 않는게 있어&gt; 경품/할인 이벤트</a>]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[😎포와로 탐정과 함께 이집트 초호화 크루즈 여행을! '나일 강의 죽음' ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20133?productType=movie</link>
@@ -27,6 +20,13 @@
             <guid>https://serieson.naver.com/events/20149?productType=movie</guid>
             <pubDate>Wed, 06 Apr 2022 03:30:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20149?productType=movie" class="" onclick="nclk(this, 'mov.list', '20149', '');">🌜지구는 영화에서 구하고, 지갑은 시리즈온에서 구하자! &lt;문폴&gt; 할인 이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[😍대만풍 로맨스 레전드들의 만남, <만년이 지나도 변하지 않는게 있어> 경품/할인 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20110?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20110?productType=movie</guid>
+            <pubDate>Thu, 07 Apr 2022 15:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20110?productType=movie" class="" onclick="nclk(this, 'mov.list', '20110', '');">😍대만풍 로맨스 레전드들의 만남, &lt;만년이 지나도 변하지 않는게 있어&gt; 경품/할인 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💪올해 남은 MCU 놓치지 않으려면! 꼭 지금 '스파이더맨: 노 웨이 홈' 보세요! ([시리즈온] 이벤트)]]></title>
@@ -206,7 +206,7 @@
             <title><![CDATA[스마트 피플 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 08 Apr 2022 06:21:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 07:17:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_174/13245234881759jbec_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -214,7 +214,7 @@
             <title><![CDATA[캡틴 샤키 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 08 Apr 2022 06:21:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 07:17:44 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20181018_51/1539848348762RxgRn_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -222,7 +222,7 @@
             <title><![CDATA[찡찡 막막 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 08 Apr 2022 06:21:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 07:17:44 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20141024_216/1414117250596Igvdo_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
