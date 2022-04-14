@@ -4,9 +4,57 @@
         <title>모바일 네이버 시리즈온 ─ 무료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 14:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 15:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스마트 피플]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/464414</link>
+            <guid>https://m.serieson.naver.com/v2/movie/464414</guid>
+            <pubDate>Thu, 14 Apr 2022 15:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[4월 28일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_174/13245234881759jbec_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캡틴 샤키]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/258309</link>
+            <guid>https://m.serieson.naver.com/v2/movie/258309</guid>
+            <pubDate>Thu, 14 Apr 2022 15:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[4월 28일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181018_51/1539848348762RxgRn_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찡찡 막막]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/166718</link>
+            <guid>https://m.serieson.naver.com/v2/movie/166718</guid>
+            <pubDate>Thu, 14 Apr 2022 15:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[4월 28일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20141024_216/1414117250596Igvdo_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패왕]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/435149</link>
+            <guid>https://m.serieson.naver.com/v2/movie/435149</guid>
+            <pubDate>Thu, 14 Apr 2022 15:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[4월 28일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210412_181/1618194120434dDu9c_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크라운 빅]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/341083</link>
+            <guid>https://m.serieson.naver.com/v2/movie/341083</guid>
+            <pubDate>Thu, 14 Apr 2022 15:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[4월 28일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200123_149/1579761167066UnKpg_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무국적소녀]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/467251</link>
+            <guid>https://m.serieson.naver.com/v2/movie/467251</guid>
+            <pubDate>Thu, 14 Apr 2022 15:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[4월 28일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160622_137/1466561593027Xo1L3_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나, 다니엘 블레이크]]></title>
             <link>https://m.serieson.naver.com/v2/movie/167795</link>
@@ -56,84 +104,36 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210122_96/161129835027337E5G_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러덜리스]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/478918</link>
-            <guid>https://m.serieson.naver.com/v2/movie/478918</guid>
-            <pubDate>Thu, 31 Mar 2022 15:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[4월 14일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150617_37/1434505314610VyfmV_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리틀 킹덤]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/402158</link>
-            <guid>https://m.serieson.naver.com/v2/movie/402158</guid>
-            <pubDate>Thu, 31 Mar 2022 15:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[4월 14일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20220406_57/1649224003376fINqi_PNG/%BD%C3%B8%AE%C1%EEONPOSTER_3396.%B8%AE%C6%B2_%C5%B7%B4%FD.png?type=w320" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[잉글리쉬 티처]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/470089</link>
-            <guid>https://m.serieson.naver.com/v2/movie/470089</guid>
-            <pubDate>Thu, 31 Mar 2022 15:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[4월 14일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20160729_208/146977090858400qxJ_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알래스카 대지진]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/441890</link>
-            <guid>https://m.serieson.naver.com/v2/movie/441890</guid>
-            <pubDate>Thu, 31 Mar 2022 15:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[4월 14일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20220411_107/164966368027542obp_PNG/%BD%C3%B8%AE%C1%EEONPOSTER_3410.%BE%CB%B7%A1%BD%BA%C4%AB_%B4%EB%C1%F6%C1%F8.png?type=w320" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[겟 아웃 얼라이브]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/391701</link>
-            <guid>https://m.serieson.naver.com/v2/movie/391701</guid>
-            <pubDate>Thu, 31 Mar 2022 15:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[4월 14일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200720_58/1595230670383UhlAA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토미카 무비]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/362282</link>
-            <guid>https://m.serieson.naver.com/v2/movie/362282</guid>
-            <pubDate>Thu, 31 Mar 2022 15:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[4월 14일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20141117_57/14162015668034GFK9_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬레이브워]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/230786</link>
-            <guid>https://m.serieson.naver.com/v2/movie/230786</guid>
-            <pubDate>Thu, 31 Mar 2022 15:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[4월 14일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180423_86/15244510861627ax5F_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트 피플]]></title>
+            <title><![CDATA[메가 사이클론 스톰]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 14 Apr 2022 14:16:27 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 15:18:55 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_174/13245234881759jbec_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20161201_101/1480559695433OnyJl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캡틴 샤키]]></title>
+            <title><![CDATA[결혼 후에 남겨진 것들]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 14 Apr 2022 14:16:27 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 15:18:55 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181018_51/1539848348762RxgRn_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20210928_272/1632791807061fiSix_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찡찡 막막]]></title>
+            <title><![CDATA[치에리와 체리]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 14 Apr 2022 14:16:27 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 15:18:55 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20141024_216/1414117250596Igvdo_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20180920_160/1537425808526GowvM_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어쩌다 암살클럽]]></title>
+            <link>https://m.serieson.naver.com/free</link>
+            <guid>https://m.serieson.naver.com/free</guid>
+            <pubDate>Thu, 14 Apr 2022 15:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171025_265/1508907682602YsUsz_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
