@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 01:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:27:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,11 +36,11 @@
             <content:encoded><![CDATA[<a href="/events/20160?productType=movie" class="" onclick="nclk(this, 'mov.list', '20160', '');">🎁갤럭시 탭 S8과 선물과 함께 '뜨거운 피' 오픈! 느와르의 쌉싸름한 맛에 지금 빠져보세요~</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🎁슈퍼스타 X 슈퍼노멀 커플의 특급 로코 '메리 미' 보고 부티크 스위트 박스 가자! ([시리즈온] 이벤트)]]></title>
+            <title><![CDATA[💕슈퍼스타 X 슈퍼노멀 커플의 특급 로코 '메리 미' 보고 부티크 스위트 박스 가자! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20154?productType=movie</link>
             <guid>https://serieson.naver.com/events/20154?productType=movie</guid>
             <pubDate>Tue, 12 Apr 2022 15:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20154?productType=movie" class="" onclick="nclk(this, 'mov.list', '20154', '');">🎁슈퍼스타 X 슈퍼노멀 커플의 특급 로코 '메리 미' 보고 부티크 스위트 박스 가자!</a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/events/20154?productType=movie" class="" onclick="nclk(this, 'mov.list', '20154', '');">💕슈퍼스타 X 슈퍼노멀 커플의 특급 로코 '메리 미' 보고 부티크 스위트 박스 가자!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎉무제한 영화 감상하고 5천원 쿠폰 받아가자! ([시리즈온] 이벤트)]]></title>
@@ -170,7 +170,7 @@
             <title><![CDATA[메가 사이클론 스톰 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 21 Apr 2022 01:21:44 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 03:27:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20161201_101/1480559695433OnyJl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -178,7 +178,7 @@
             <title><![CDATA[결혼 후에 남겨진 것들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 21 Apr 2022 01:21:44 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 03:27:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210928_272/1632791807061fiSix_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -186,7 +186,7 @@
             <title><![CDATA[치에리와 체리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 21 Apr 2022 01:21:44 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 03:27:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180920_160/1537425808526GowvM_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -194,7 +194,7 @@
             <title><![CDATA[어쩌다 암살클럽 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 21 Apr 2022 01:21:44 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 03:27:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20171025_265/1508907682602YsUsz_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
