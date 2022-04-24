@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 14:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 15:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,13 +20,6 @@
             <guid>https://serieson.naver.com/events/20161?productType=movie</guid>
             <pubDate>Thu, 21 Apr 2022 15:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20161?productType=movie" class="" onclick="nclk(this, 'mov.list', '20161', '');">😎폭발하는 톰 홀랜드의 특급 액션 어드벤쳐! '언차티드' 예약 구매 중</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[☑️금토일 3일간 무제한 영화 할인 쿠폰이 와르르~ 설레는 봄을 위한 심쿵 선물! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20164?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20164?productType=movie</guid>
-            <pubDate>Thu, 21 Apr 2022 15:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20164?productType=movie" class="" onclick="nclk(this, 'mov.list', '20164', '');">☑️금토일 3일간 무제한 영화 할인 쿠폰이 와르르~ 설레는 봄을 위한 심쿵 선물!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 & 할인 프로모션! ([시리즈온] 이벤트)]]></title>
@@ -184,7 +177,7 @@
             <title><![CDATA[숀더쉽 더 무비: 꼬마 외계인 룰라! (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 24 Apr 2022 14:16:21 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2022 15:17:41 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200219_23/1582077476942c1IGT_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -192,7 +185,7 @@
             <title><![CDATA[나를 사랑한다면 영화를 보여줘 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 24 Apr 2022 14:16:21 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2022 15:17:41 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20160211_286/145517855974153sty_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -200,7 +193,7 @@
             <title><![CDATA[프리즌 이스케이프 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 24 Apr 2022 14:16:21 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2022 15:17:41 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200428_196/1588038709486FYyHu_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -208,7 +201,7 @@
             <title><![CDATA[고흐, 영원의 문에서 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 24 Apr 2022 14:16:21 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2022 15:17:41 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191129_154/1574988869384waHXM_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
