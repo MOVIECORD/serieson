@@ -4,22 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 05:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 06:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[👷‍♀️ 불도저 진짜 탑니다! '불도저에 탄 소녀' ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20174?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20174?productType=movie</guid>
-            <pubDate>Thu, 28 Apr 2022 04:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20174?productType=movie" class="" onclick="nclk(this, 'mov.list', '20174', '');">👷‍♀️ 불도저 진짜 탑니다! '불도저에 탄 소녀'</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🚘 버라이어티 카체이싱 휴먼 코미디! '스텔라' ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20173?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20173?productType=movie</guid>
-            <pubDate>Thu, 28 Apr 2022 04:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20173?productType=movie" class="" onclick="nclk(this, 'mov.list', '20173', '');">🚘 버라이어티 카체이싱 휴먼 코미디! '스텔라'</a>]]></content:encoded>
+            <title><![CDATA[🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20156?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20156?productType=movie</guid>
+            <pubDate>Mon, 18 Apr 2022 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20156?productType=movie" class="" onclick="nclk(this, 'mov.list', '20156', '');">🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[😎톰 홀랜드 좋아하면 아묻따 클릭! 시리즈온 단독 언차티드 패키지 판매 중! ([시리즈온] 이벤트)]]></title>
@@ -29,18 +22,11 @@
             <content:encoded><![CDATA[<a href="/events/20171?productType=movie" class="" onclick="nclk(this, 'mov.list', '20171', '');">😎톰 홀랜드 좋아하면 아묻따 클릭! 시리즈온 단독 언차티드 패키지 판매 중!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20156?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20156?productType=movie</guid>
-            <pubDate>Mon, 18 Apr 2022 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20156?productType=movie" class="" onclick="nclk(this, 'mov.list', '20156', '');">🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20155?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20155?productType=movie</guid>
-            <pubDate>Tue, 12 Apr 2022 15:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20155?productType=movie" class="" onclick="nclk(this, 'mov.list', '20155', '');">👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자</a>]]></content:encoded>
+            <title><![CDATA[🚘 버라이어티 카체이싱 휴먼 코미디! '스텔라' ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20173?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20173?productType=movie</guid>
+            <pubDate>Thu, 28 Apr 2022 04:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20173?productType=movie" class="" onclick="nclk(this, 'mov.list', '20173', '');">🚘 버라이어티 카체이싱 휴먼 코미디! '스텔라'</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[❤️쏘 큐트 거대 레서판다 ‘메이의 새빨간 비밀‘ 경품 이벤트! ([시리즈온] 이벤트)]]></title>
@@ -55,6 +41,20 @@
             <guid>https://serieson.naver.com/events/20169?productType=movie</guid>
             <pubDate>Tue, 26 Apr 2022 15:19:01 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20169?productType=movie" class="" onclick="nclk(this, 'mov.list', '20169', '');">👩‍👩‍👦페드로 알모도바르 X 페넬로페 크루즈 레전드 페어의 또 하나의 명작 ‘패러렐 마더스’</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[👷‍♀️ 불도저 진짜 탑니다! '불도저에 탄 소녀' ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20174?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20174?productType=movie</guid>
+            <pubDate>Thu, 28 Apr 2022 04:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20174?productType=movie" class="" onclick="nclk(this, 'mov.list', '20174', '');">👷‍♀️ 불도저 진짜 탑니다! '불도저에 탄 소녀'</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20155?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20155?productType=movie</guid>
+            <pubDate>Tue, 12 Apr 2022 15:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20155?productType=movie" class="" onclick="nclk(this, 'mov.list', '20155', '');">👨‍🏫 수포자도 쫄지마요! 문송해도 괜찮아요! 이상한 나라의 수학자</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🏆올해 아카데미를 불태웠던 바로 그 작품! 실화보다 더 큰 울림 ‘킹 리차드’ ([시리즈온] 이벤트)]]></title>
@@ -205,7 +205,7 @@
             <title><![CDATA[숀더쉽 더 무비: 꼬마 외계인 룰라! (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 28 Apr 2022 05:40:19 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 06:24:57 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200219_23/1582077476942c1IGT_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -213,7 +213,7 @@
             <title><![CDATA[나를 사랑한다면 영화를 보여줘 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 28 Apr 2022 05:40:19 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 06:24:57 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20160211_286/145517855974153sty_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -221,7 +221,7 @@
             <title><![CDATA[프리즌 이스케이프 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 28 Apr 2022 05:40:20 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 06:24:57 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200428_196/1588038709486FYyHu_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -229,7 +229,7 @@
             <title><![CDATA[고흐, 영원의 문에서 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 28 Apr 2022 05:40:20 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 06:24:57 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191129_154/1574988869384waHXM_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
