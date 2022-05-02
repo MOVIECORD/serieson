@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 10:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 11:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,13 @@
             <guid>https://serieson.naver.com/events/20167?productType=movie</guid>
             <pubDate>Mon, 25 Apr 2022 03:13:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20167?productType=movie" class="" onclick="nclk(this, 'mov.list', '20167', '');">💕 '캐롤' 제작진이 참여한 또 하나의 띵작, '사랑 후의 두 여자'</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🐙 최신 옥토넛 극장판, 대박 할인으로 소장하자! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20187?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20187?productType=movie</guid>
+            <pubDate>Mon, 02 May 2022 11:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20187?productType=movie" class="" onclick="nclk(this, 'mov.list', '20187', '');">🐙 최신 옥토넛 극장판, 대박 할인으로 소장하자!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[22년 5월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
@@ -220,7 +227,7 @@
             <title><![CDATA[유체이탈자 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 10:20:49 GMT</pubDate>
+            <pubDate>Mon, 02 May 2022 11:16:23 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211228_279/16406572972032J9Pj_JPEG/spirit_pos_main_fin_re.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -228,7 +235,7 @@
             <title><![CDATA[인질 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 10:20:49 GMT</pubDate>
+            <pubDate>Mon, 02 May 2022 11:16:23 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210714_30/16262486171225Il6s_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -236,7 +243,7 @@
             <title><![CDATA[장르만 로맨스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 10:20:49 GMT</pubDate>
+            <pubDate>Mon, 02 May 2022 11:16:23 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211028_30/1635398023343MQ4xA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
