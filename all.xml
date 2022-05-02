@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 04:52:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:30:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,13 @@
             <guid>https://serieson.naver.com/events/20163?productType=movie</guid>
             <pubDate>Wed, 20 Apr 2022 15:20:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20163?productType=movie" class="" onclick="nclk(this, 'mov.list', '20163', '');">💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 &amp; 할인 프로모션!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🥳어른이도 어린이도 쑥쑥 크는 5월! 소니 특급 추천 라인업! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20185?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20185?productType=movie</guid>
+            <pubDate>Mon, 02 May 2022 05:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20185?productType=movie" class="" onclick="nclk(this, 'mov.list', '20185', '');">🥳어른이도 어린이도 쑥쑥 크는 5월! 소니 특급 추천 라인업!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[❤️쏘 큐트 거대 레서판다 ‘메이의 새빨간 비밀‘ 경품 이벤트! ([시리즈온] 이벤트)]]></title>
@@ -213,7 +220,7 @@
             <title><![CDATA[유체이탈자 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 04:52:35 GMT</pubDate>
+            <pubDate>Mon, 02 May 2022 05:30:22 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211228_279/16406572972032J9Pj_JPEG/spirit_pos_main_fin_re.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -221,7 +228,7 @@
             <title><![CDATA[인질 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 04:52:35 GMT</pubDate>
+            <pubDate>Mon, 02 May 2022 05:30:22 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210714_30/16262486171225Il6s_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -229,7 +236,7 @@
             <title><![CDATA[장르만 로맨스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 04:52:35 GMT</pubDate>
+            <pubDate>Mon, 02 May 2022 05:30:22 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211028_30/1635398023343MQ4xA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
