@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 14:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 15:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -141,6 +141,54 @@
             <content:encoded><![CDATA[<a href="/events/20175?productType=movie" class="" onclick="nclk(this, 'mov.list', '20175', '');">22년 5월 우수 이용자! 꼭 확인해보자!</a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[저스트 짐 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/454833</link>
+            <guid>https://m.serieson.naver.com/v2/movie/454833</guid>
+            <pubDate>Thu, 05 May 2022 15:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[5월 19일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160519_236/1463634123700lfR34_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 인생여행 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/412855</link>
+            <guid>https://m.serieson.naver.com/v2/movie/412855</guid>
+            <pubDate>Thu, 05 May 2022 15:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[5월 19일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201104_54/1604465196745zrUWn_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꼬마잠수함 올리 2 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/470092</link>
+            <guid>https://m.serieson.naver.com/v2/movie/470092</guid>
+            <pubDate>Thu, 05 May 2022 15:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[5월 19일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20141103_261/1414978087830IH5o7_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[180도 사우스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/104050</link>
+            <guid>https://m.serieson.naver.com/v2/movie/104050</guid>
+            <pubDate>Thu, 05 May 2022 15:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[5월 19일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200203_194/1580692457359KTQDR_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아메리카 뮤직&와일드 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/281483</link>
+            <guid>https://m.serieson.naver.com/v2/movie/281483</guid>
+            <pubDate>Thu, 05 May 2022 15:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[5월 19일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190419_277/1555657061846CrJjE_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로지 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/284701</link>
+            <guid>https://m.serieson.naver.com/v2/movie/284701</guid>
+            <pubDate>Thu, 05 May 2022 15:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[5월 19일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190410_271/1554860593148LxSVq_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유체이탈자 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://m.serieson.naver.com/v2/movie/477880</link>
             <guid>https://m.serieson.naver.com/v2/movie/477880</guid>
@@ -219,54 +267,6 @@
             <pubDate>Thu, 28 Apr 2022 15:19:56 GMT</pubDate>
             <content:encoded><![CDATA[5월 12일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170315_120/1489566311284aUqiX_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩌다 암살클럽 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/211123</link>
-            <guid>https://m.serieson.naver.com/v2/movie/211123</guid>
-            <pubDate>Mon, 25 Apr 2022 04:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[5월 5일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171025_265/1508907682602YsUsz_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼 후에 남겨진 것들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/466247</link>
-            <guid>https://m.serieson.naver.com/v2/movie/466247</guid>
-            <pubDate>Mon, 25 Apr 2022 04:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[5월 5일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210928_272/1632791807061fiSix_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쉬즈 더 원 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/400604</link>
-            <guid>https://m.serieson.naver.com/v2/movie/400604</guid>
-            <pubDate>Mon, 25 Apr 2022 04:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[5월 5일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_190/1324618719589hyrAa_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가 사이클론 스톰 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/436317</link>
-            <guid>https://m.serieson.naver.com/v2/movie/436317</guid>
-            <pubDate>Mon, 25 Apr 2022 04:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[5월 5일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20161201_101/1480559695433OnyJl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치에리와 체리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/248973</link>
-            <guid>https://m.serieson.naver.com/v2/movie/248973</guid>
-            <pubDate>Mon, 25 Apr 2022 04:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[5월 5일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180920_160/1537425808526GowvM_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화이트 힐 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/341781</link>
-            <guid>https://m.serieson.naver.com/v2/movie/341781</guid>
-            <pubDate>Mon, 25 Apr 2022 04:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[5월 5일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200206_152/1580965980429xqii1_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
