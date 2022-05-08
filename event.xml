@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-05-08T14:16:32.500Z</updated>
+    <updated>2022-05-08T15:18:47.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🎙️ 할인+10,000캐시와 함께! 웰메이드 미스터리 스릴러, '앵커']]></title>
+        <id>https://serieson.naver.com/events/20192?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20192?productType=movie"/>
+        <updated>2022-05-08T15:18:31.081Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20192?productType=movie" class="" onclick="nclk(this, 'mov.list', '20192', '');">🎙️ 할인+10,000캐시와 함께! 웰메이드 미스터리 스릴러, '앵커'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💨 초특급 경품과 함께 레벨업되어 돌아왔다! '수퍼 소닉 2' 오픈 프로모션]]></title>
         <id>https://serieson.naver.com/events/20190?productType=movie</id>
@@ -25,13 +32,6 @@
         <link href="https://serieson.naver.com/events/20189?productType=movie"/>
         <updated>2022-05-04T03:26:18.066Z</updated>
         <content type="html"><![CDATA[<a href="/events/20189?productType=movie" class="" onclick="nclk(this, 'mov.list', '20189', '');">🚔 액션 마스터 '마이클 베이' 감독 신작! '앰뷸런스' OPEN</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎁5월엔 무료영화 SPECIAL 라인-업 확인! 시리즈온이 드리는 5월의 영화 선물 받아 가세요~]]></title>
-        <id>https://serieson.naver.com/events/20179?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20179?productType=movie"/>
-        <updated>2022-05-02T01:25:51.997Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20179?productType=movie" class="" onclick="nclk(this, 'mov.list', '20179', '');">🎁5월엔 무료영화 SPECIAL 라인-업 확인! 시리즈온이 드리는 5월의 영화 선물 받아 가세요~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💌 디즈니가 전하는 5월의 러브레터! 영화도 보고 디즈니 굿즈도 받고]]></title>
@@ -60,13 +60,6 @@
         <link href="https://serieson.naver.com/events/20186?productType=movie"/>
         <updated>2022-05-02T15:19:21.413Z</updated>
         <content type="html"><![CDATA[<a href="/events/20186?productType=movie" class="" onclick="nclk(this, 'mov.list', '20186', '');">🕸스파이더맨 20주년! 스파이더맨: 노 웨이 홈, 돌아갈 길은 없다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각!]]></title>
-        <id>https://serieson.naver.com/events/20156?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20156?productType=movie"/>
-        <updated>2022-04-18T09:17:52.779Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20156?productType=movie" class="" onclick="nclk(this, 'mov.list', '20156', '');">🦇드디어 시작된 새로운 배트맨의 역사! '더 배트맨' 지금 바로 소장각!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[❤️쏘 큐트 거대 레서판다 ‘메이의 새빨간 비밀‘ 경품 이벤트!]]></title>
@@ -116,20 +109,6 @@
         <link href="https://serieson.naver.com/events/20174?productType=movie"/>
         <updated>2022-04-28T04:12:20.442Z</updated>
         <content type="html"><![CDATA[<a href="/events/20174?productType=movie" class="" onclick="nclk(this, 'mov.list', '20174', '');">👷‍♀️ 불도저 진짜 탑니다! '불도저에 탄 소녀'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💕 '캐롤' 제작진이 참여한 또 하나의 띵작, '사랑 후의 두 여자']]></title>
-        <id>https://serieson.naver.com/events/20167?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20167?productType=movie"/>
-        <updated>2022-04-25T03:13:17.180Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20167?productType=movie" class="" onclick="nclk(this, 'mov.list', '20167', '');">💕 '캐롤' 제작진이 참여한 또 하나의 띵작, '사랑 후의 두 여자'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🐙 최신 옥토넛 극장판, 대박 할인으로 소장하자!]]></title>
-        <id>https://serieson.naver.com/events/20187?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20187?productType=movie"/>
-        <updated>2022-05-02T11:16:14.909Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20187?productType=movie" class="" onclick="nclk(this, 'mov.list', '20187', '');">🐙 최신 옥토넛 극장판, 대박 할인으로 소장하자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[22년 5월 우수 이용자! 꼭 확인해보자!]]></title>
