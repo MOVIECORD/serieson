@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 01:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 03:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,6 +41,13 @@
             <guid>https://serieson.naver.com/events/20188?productType=movie</guid>
             <pubDate>Tue, 03 May 2022 15:19:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20188?productType=movie" class="" onclick="nclk(this, 'mov.list', '20188', '');">💌 디즈니가 전하는 5월의 러브레터! 영화도 보고 디즈니 굿즈도 받고</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🦇배트맨과 리들러의 뇌를 쪼이는 추리 대결! ‘더 배트맨’ 지금 조금 더 합리적인 가격에 소장하자 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20193?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20193?productType=movie</guid>
+            <pubDate>Mon, 09 May 2022 03:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20193?productType=movie" class="" onclick="nclk(this, 'mov.list', '20193', '');">🦇배트맨과 리들러의 뇌를 쪼이는 추리 대결! ‘더 배트맨’ 지금 조금 더 합리적인 가격에 소장하자</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[😺베니X고양이의 황홀한 로맨틱의 세계로! '루이스 웨인: 사랑을 그린 고양이 화가' ([시리즈온] 이벤트)]]></title>
@@ -219,7 +226,7 @@
             <title><![CDATA[러닝 온 엠프티:불타는 청춘 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 09 May 2022 01:24:47 GMT</pubDate>
+            <pubDate>Mon, 09 May 2022 03:20:50 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_163/13246358353593wlPO_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -227,7 +234,7 @@
             <title><![CDATA[노바디 웍스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 09 May 2022 01:24:47 GMT</pubDate>
+            <pubDate>Mon, 09 May 2022 03:20:50 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211005_111/1633397535369JVR3C_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -235,7 +242,7 @@
             <title><![CDATA[러브 앳 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 09 May 2022 01:24:47 GMT</pubDate>
+            <pubDate>Mon, 09 May 2022 03:20:50 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191101_59/1572592686493NxSfy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -243,7 +250,7 @@
             <title><![CDATA[용루각: 비정도시 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 09 May 2022 01:24:47 GMT</pubDate>
+            <pubDate>Mon, 09 May 2022 03:20:50 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201106_248/1604623711905hCyh0_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
