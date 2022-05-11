@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 14:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 15:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,6 +43,13 @@
             <content:encoded><![CDATA[<a href="/events/20189?productType=movie" class="" onclick="nclk(this, 'mov.list', '20189', '');">🚔 액션 마스터 '마이클 베이' 감독 신작! '앰뷸런스' OPEN</a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[🌹성년의 날 기념, 빨간 맛 로맨스 최대 50% 할인 & 2만 캐시 선물! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20195?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20195?productType=movie</guid>
+            <pubDate>Wed, 11 May 2022 15:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20195?productType=movie" class="" onclick="nclk(this, 'mov.list', '20195', '');">🌹성년의 날 기념, 빨간 맛 로맨스 최대 50% 할인 &amp; 2만 캐시 선물!</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[💌 디즈니가 전하는 5월의 러브레터! 영화도 보고 디즈니 굿즈도 받고 ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20188?productType=movie</link>
             <guid>https://serieson.naver.com/events/20188?productType=movie</guid>
@@ -78,13 +85,6 @@
             <content:encoded><![CDATA[<a href="/events/20186?productType=movie" class="" onclick="nclk(this, 'mov.list', '20186', '');">🕸스파이더맨 20주년! 스파이더맨: 노 웨이 홈, 돌아갈 길은 없다</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 & 할인 프로모션! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20163?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20163?productType=movie</guid>
-            <pubDate>Wed, 20 Apr 2022 15:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20163?productType=movie" class="" onclick="nclk(this, 'mov.list', '20163', '');">💄 매혹적인 크리스틴 스튜어트와 함께! '스펜서' 경품 &amp; 할인 프로모션!</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[🥳어른이도 어린이도 쑥쑥 크는 5월! 소니 특급 추천 라인업! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20185?productType=movie</link>
             <guid>https://serieson.naver.com/events/20185?productType=movie</guid>
@@ -97,13 +97,6 @@
             <guid>https://serieson.naver.com/events/20166?productType=movie</guid>
             <pubDate>Thu, 28 Apr 2022 15:19:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20166?productType=movie" class="" onclick="nclk(this, 'mov.list', '20166', '');">👨‍👩‍👧가정의 달 5월, 소중한 사람들과 꿀잼 타임 ON! 가족과 함께 보면 딱 좋은 영화 최대 50% 할인!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🏆올해 아카데미를 불태웠던 바로 그 작품! 실화보다 더 큰 울림 ‘킹 리차드’ ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20170?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20170?productType=movie</guid>
-            <pubDate>Tue, 26 Apr 2022 15:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20170?productType=movie" class="" onclick="nclk(this, 'mov.list', '20170', '');">🏆올해 아카데미를 불태웠던 바로 그 작품! 실화보다 더 큰 울림 ‘킹 리차드’</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[👷‍♀️ 불도저 진짜 탑니다! '불도저에 탄 소녀' ([시리즈온] 이벤트)]]></title>
@@ -219,7 +212,7 @@
             <title><![CDATA[러닝 온 엠프티:불타는 청춘 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 11 May 2022 14:17:35 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 15:19:45 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_163/13246358353593wlPO_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -227,7 +220,7 @@
             <title><![CDATA[노바디 웍스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 11 May 2022 14:17:35 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 15:19:45 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211005_111/1633397535369JVR3C_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -235,7 +228,7 @@
             <title><![CDATA[러브 앳 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 11 May 2022 14:17:35 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 15:19:45 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191101_59/1572592686493NxSfy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
@@ -243,7 +236,7 @@
             <title><![CDATA[용루각: 비정도시 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 11 May 2022 14:17:35 GMT</pubDate>
+            <pubDate>Wed, 11 May 2022 15:19:45 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201106_248/1604623711905hCyh0_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
