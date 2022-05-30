@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 14:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 15:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,13 +69,6 @@
             <guid>https://serieson.naver.com/events/20210?productType=movie</guid>
             <pubDate>Tue, 24 May 2022 09:18:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20210?productType=movie" class="" onclick="nclk(this, 'mov.list', '20210', '');">🎥 누벨바그의 거장, 에릭 로메르 감독전 할인!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대한민국을 공포에 빠뜨린 충격적 재난! ‘공기살인’ 경품 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20199?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20199?productType=movie</guid>
-            <pubDate>Tue, 24 May 2022 02:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20199?productType=movie" class="" onclick="nclk(this, 'mov.list', '20199', '');">대한민국을 공포에 빠뜨린 충격적 재난! ‘공기살인’ 경품 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✅ 아직 네플멤 쿠폰 안 쓰셨다면? 이번 달은 이 영화 어때요? ([시리즈온] 이벤트)]]></title>
@@ -191,7 +184,7 @@
             <title><![CDATA[더 프레지던트 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 30 May 2022 14:18:03 GMT</pubDate>
+            <pubDate>Mon, 30 May 2022 15:21:08 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211018_68/1634539151226n5mL7_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -199,7 +192,7 @@
             <title><![CDATA[기적의 팀: 샤페코엔시 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 30 May 2022 14:18:03 GMT</pubDate>
+            <pubDate>Mon, 30 May 2022 15:21:08 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210226_21/1614322446634pFpOJ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -207,7 +200,7 @@
             <title><![CDATA[오케이 마담 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 30 May 2022 14:18:03 GMT</pubDate>
+            <pubDate>Mon, 30 May 2022 15:21:08 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200812_245/159719521887011fjF_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -215,7 +208,7 @@
             <title><![CDATA[날씨의 아이 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 30 May 2022 14:18:03 GMT</pubDate>
+            <pubDate>Mon, 30 May 2022 15:21:08 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
