@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 01:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 03:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,6 +27,13 @@
             <guid>https://serieson.naver.com/events/20217?productType=movie</guid>
             <pubDate>Sun, 29 May 2022 15:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20217?productType=movie" class="" onclick="nclk(this, 'mov.list', '20217', '');">♠️ 지금 '더 배트맨' 보고 DC 굿즈도 받아가자</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🔥 영화 좀 본다면 주목! 하마구치 류스케 '우연과 상상' ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20225?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20225?productType=movie</guid>
+            <pubDate>Tue, 31 May 2022 03:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20225?productType=movie" class="" onclick="nclk(this, 'mov.list', '20225', '');">🔥 영화 좀 본다면 주목! 하마구치 류스케 '우연과 상상'</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💐 주인공이 INFP라는데요!? '완벽한 축사를 준비하는 방법' ([시리즈온] 이벤트)]]></title>
@@ -184,7 +191,7 @@
             <title><![CDATA[더 프레지던트 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 31 May 2022 01:26:38 GMT</pubDate>
+            <pubDate>Tue, 31 May 2022 03:24:01 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211018_68/1634539151226n5mL7_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -192,7 +199,7 @@
             <title><![CDATA[기적의 팀: 샤페코엔시 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 31 May 2022 01:26:38 GMT</pubDate>
+            <pubDate>Tue, 31 May 2022 03:24:01 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210226_21/1614322446634pFpOJ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -200,7 +207,7 @@
             <title><![CDATA[오케이 마담 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 31 May 2022 01:26:38 GMT</pubDate>
+            <pubDate>Tue, 31 May 2022 03:24:01 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200812_245/159719521887011fjF_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -208,7 +215,7 @@
             <title><![CDATA[날씨의 아이 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 31 May 2022 01:26:38 GMT</pubDate>
+            <pubDate>Tue, 31 May 2022 03:24:01 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
