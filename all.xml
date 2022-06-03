@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 01:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 03:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://serieson.naver.com/events/20218?productType=movie</guid>
             <pubDate>Tue, 31 May 2022 15:28:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20218?productType=movie" class="" onclick="nclk(this, 'mov.list', '20218', '');">🦊 드림웍스의 쫄깃한 범죄액션 블록버스터 '배드 가이즈'보면 3천 캐시 100% BACK!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💌6월에도 시리즈온 무료영화와 함께! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20229?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20229?productType=movie</guid>
+            <pubDate>Fri, 03 Jun 2022 03:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20229?productType=movie" class="" onclick="nclk(this, 'mov.list', '20229', '');">💌6월에도 시리즈온 무료영화와 함께!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🦕 쥬라기 월드로 여행을 떠나요~ 특급 쥬라기 패키지 오픈 ([시리즈온] 이벤트)]]></title>
@@ -27,6 +34,13 @@
             <guid>https://serieson.naver.com/events/20209?productType=movie</guid>
             <pubDate>Tue, 24 May 2022 15:29:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20209?productType=movie" class="" onclick="nclk(this, 'mov.list', '20209', '');">👨🏻‍✈️갓벽한 제복핏 ‘킹스맨' 콜린 퍼스의 ‘민스미트 작전’ 시리즈온 상륙!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[😎 지금 톰 크루즈 필모 보면 '탑건: 매버릭' 예매권 선물이! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20231?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20231?productType=movie</guid>
+            <pubDate>Fri, 03 Jun 2022 03:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20231?productType=movie" class="" onclick="nclk(this, 'mov.list', '20231', '');">😎 지금 톰 크루즈 필모 보면 '탑건: 매버릭' 예매권 선물이!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💚보고 싶은 영화 '관심' 누르면 선물 드려요!🎁 ([시리즈온] 이벤트)]]></title>
@@ -106,22 +120,6 @@
             <content:encoded><![CDATA[<a href="/events/20227?productType=movie" class="" onclick="nclk(this, 'mov.list', '20227', '');">22년 6월 우수 이용자! 꼭 확인해보자!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[더 프레지던트 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/471098</link>
-            <guid>https://m.serieson.naver.com/v2/movie/471098</guid>
-            <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[6월 9일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20211018_68/1634539151226n5mL7_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기적의 팀: 샤페코엔시 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/428338</link>
-            <guid>https://m.serieson.naver.com/v2/movie/428338</guid>
-            <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[6월 9일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210226_21/1614322446634pFpOJ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오케이 마담 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://m.serieson.naver.com/v2/movie/398982</link>
             <guid>https://m.serieson.naver.com/v2/movie/398982</guid>
@@ -130,12 +128,12 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200812_245/159719521887011fjF_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[날씨의 아이 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/373897</link>
-            <guid>https://m.serieson.naver.com/v2/movie/373897</guid>
+            <title><![CDATA[더 프레지던트 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/471098</link>
+            <guid>https://m.serieson.naver.com/v2/movie/471098</guid>
             <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[6월 16일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[6월 9일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211018_68/1634539151226n5mL7_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[날씨의 아이 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -144,6 +142,14 @@
             <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
             <content:encoded><![CDATA[6월 16일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기적의 팀: 샤페코엔시 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/428338</link>
+            <guid>https://m.serieson.naver.com/v2/movie/428338</guid>
+            <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[6월 9일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210226_21/1614322446634pFpOJ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[울프 콜 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -186,6 +192,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20201026_214/1603695361668TuYGN_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[날씨의 아이 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/373897</link>
+            <guid>https://m.serieson.naver.com/v2/movie/373897</guid>
+            <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[6월 16일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꼬마잠수함 올리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://m.serieson.naver.com/v2/movie/470091</link>
             <guid>https://m.serieson.naver.com/v2/movie/470091</guid>
@@ -213,7 +227,7 @@
             <title><![CDATA[싱크홀 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 03 Jun 2022 01:15:14 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2022 03:12:35 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210726_114/1627265960693kkM0B_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -221,7 +235,7 @@
             <title><![CDATA[뱅퀴시 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 03 Jun 2022 01:15:14 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2022 03:12:35 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210602_222/1622600165626gehk0_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -229,7 +243,7 @@
             <title><![CDATA[그레타 툰베리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 03 Jun 2022 01:15:14 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2022 03:12:35 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210629_69/1624945460597wBVF5_JPEG/____.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
