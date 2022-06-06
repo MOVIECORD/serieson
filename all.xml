@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 14:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 15:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,13 +92,6 @@
             <content:encoded><![CDATA[<a href="/events/20203?productType=movie" class="" onclick="nclk(this, 'mov.list', '20203', '');">😎 대환장 코믹 케미스트리! '로스트 시티' 보고 한바탕 웃자</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🥳스타일쉐어 X 시리즈온 특급 콜라보 OPEN 귀여움 한도 초과 파자마 입고 집콕 파티하자! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20206?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20206?productType=movie</guid>
-            <pubDate>Tue, 24 May 2022 02:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20206?productType=movie" class="" onclick="nclk(this, 'mov.list', '20206', '');">🥳스타일쉐어 X 시리즈온 특급 콜라보 OPEN 귀여움 한도 초과 파자마 입고 집콕 파티하자!</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[✅ 아직 네플멤 쿠폰 안 쓰셨다면? 이번 달은 이 영화 어때요? ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20211?productType=movie</link>
             <guid>https://serieson.naver.com/events/20211?productType=movie</guid>
@@ -111,14 +104,6 @@
             <guid>https://serieson.naver.com/events/20227?productType=movie</guid>
             <pubDate>Tue, 31 May 2022 15:28:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20227?productType=movie" class="" onclick="nclk(this, 'mov.list', '20227', '');">22년 6월 우수 이용자! 꼭 확인해보자!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[싱크홀 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/461068</link>
-            <guid>https://m.serieson.naver.com/v2/movie/461068</guid>
-            <pubDate>Fri, 03 Jun 2022 15:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[6월 6일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210726_114/1627265960693kkM0B_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오케이 마담 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -228,7 +213,7 @@
             <title><![CDATA[뱅퀴시 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 06 Jun 2022 14:15:15 GMT</pubDate>
+            <pubDate>Mon, 06 Jun 2022 15:19:38 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210602_222/1622600165626gehk0_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -236,9 +221,17 @@
             <title><![CDATA[그레타 툰베리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 06 Jun 2022 14:15:15 GMT</pubDate>
+            <pubDate>Mon, 06 Jun 2022 15:19:38 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210629_69/1624945460597wBVF5_JPEG/____.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[용루각2: 신들의 밤 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
+            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
+            <pubDate>Mon, 06 Jun 2022 15:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210128_206/1611825286502CtYO6_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
