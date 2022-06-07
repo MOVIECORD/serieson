@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 14:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 15:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,13 +36,6 @@
             <content:encoded><![CDATA[<a href="/events/20216?productType=movie" class="" onclick="nclk(this, 'mov.list', '20216', '');">🦕 쥬라기 월드로 여행을 떠나요~ 특급 쥬라기 패키지 오픈</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[👨🏻‍✈️갓벽한 제복핏 ‘킹스맨' 콜린 퍼스의 ‘민스미트 작전’ 시리즈온 상륙! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20209?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20209?productType=movie</guid>
-            <pubDate>Tue, 24 May 2022 15:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20209?productType=movie" class="" onclick="nclk(this, 'mov.list', '20209', '');">👨🏻‍✈️갓벽한 제복핏 ‘킹스맨' 콜린 퍼스의 ‘민스미트 작전’ 시리즈온 상륙!</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[😎 지금 톰 크루즈 필모 보면 '탑건: 매버릭' 예매권 선물이! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20231?productType=movie</link>
             <guid>https://serieson.naver.com/events/20231?productType=movie</guid>
@@ -55,13 +48,6 @@
             <guid>https://serieson.naver.com/events/20232?productType=movie</guid>
             <pubDate>Tue, 07 Jun 2022 01:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20232?productType=movie" class="" onclick="nclk(this, 'mov.list', '20232', '');">🩸 이완 X 조동혁의 쫄깃한 하드보일드 액션 ‘피는 물보다 진하다’ 보고 치킨 받아가세요~</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[💚보고 싶은 영화 '관심' 누르면 선물 드려요!🎁 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20228?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20228?productType=movie</guid>
-            <pubDate>Tue, 31 May 2022 16:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20228?productType=movie" class="" onclick="nclk(this, 'mov.list', '20228', '');">💚보고 싶은 영화 '관심' 누르면 선물 드려요!🎁</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎖️기억해야 할 그날을 위해! 호국보훈의 달 맞이 최대 50% 전쟁 & 역사 영화 할인! ([시리즈온] 이벤트)]]></title>
@@ -97,13 +83,6 @@
             <guid>https://serieson.naver.com/events/20221?productType=movie</guid>
             <pubDate>Mon, 30 May 2022 03:36:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20221?productType=movie" class="" onclick="nclk(this, 'mov.list', '20221', '');">💐 주인공이 INFP라는데요!? '완벽한 축사를 준비하는 방법'</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[😎 대환장 코믹 케미스트리! '로스트 시티' 보고 한바탕 웃자 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20203?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20203?productType=movie</guid>
-            <pubDate>Tue, 24 May 2022 02:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20203?productType=movie" class="" onclick="nclk(this, 'mov.list', '20203', '');">😎 대환장 코믹 케미스트리! '로스트 시티' 보고 한바탕 웃자</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✅ 아직 네플멤 쿠폰 안 쓰셨다면? 이번 달은 이 영화 어때요? ([시리즈온] 이벤트)]]></title>
@@ -227,7 +206,7 @@
             <title><![CDATA[뱅퀴시 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 07 Jun 2022 14:16:38 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 15:18:22 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210602_222/1622600165626gehk0_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -235,7 +214,7 @@
             <title><![CDATA[그레타 툰베리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 07 Jun 2022 14:16:38 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 15:18:22 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210629_69/1624945460597wBVF5_JPEG/____.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -243,7 +222,7 @@
             <title><![CDATA[용루각2: 신들의 밤 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 07 Jun 2022 14:16:38 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 15:18:22 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210128_206/1611825286502CtYO6_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
