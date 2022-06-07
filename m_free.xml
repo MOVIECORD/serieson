@@ -4,7 +4,7 @@
         <title>모바일 네이버 시리즈온 ─ 무료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 03:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 04:27:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://movie-phinf.pstatic.net/20211018_68/1634539151226n5mL7_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[울프 콜]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/363413</link>
+            <guid>https://m.serieson.naver.com/v2/movie/363413</guid>
+            <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[6월 16일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200211_99/1581385788027OEySM_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[날씨의 아이]]></title>
             <link>https://m.serieson.naver.com/v2/movie/373896</link>
             <guid>https://m.serieson.naver.com/v2/movie/373896</guid>
@@ -38,14 +46,6 @@
             <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
             <content:encoded><![CDATA[6월 9일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210226_21/1614322446634pFpOJ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울프 콜]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/363413</link>
-            <guid>https://m.serieson.naver.com/v2/movie/363413</guid>
-            <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[6월 16일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200211_99/1581385788027OEySM_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[47 미터]]></title>
@@ -115,7 +115,7 @@
             <title><![CDATA[뱅퀴시]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Tue, 07 Jun 2022 01:19:16 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 04:27:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210602_222/1622600165626gehk0_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -123,7 +123,7 @@
             <title><![CDATA[그레타 툰베리]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Tue, 07 Jun 2022 01:19:16 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 04:27:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210629_69/1624945460597wBVF5_JPEG/____.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -131,7 +131,7 @@
             <title><![CDATA[용루각2: 신들의 밤]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Tue, 07 Jun 2022 01:19:16 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 04:27:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210128_206/1611825286502CtYO6_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
