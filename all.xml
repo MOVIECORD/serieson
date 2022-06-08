@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 19:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 20:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,13 @@
             <guid>https://serieson.naver.com/events/20216?productType=movie</guid>
             <pubDate>Sun, 29 May 2022 15:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20216?productType=movie" class="" onclick="nclk(this, 'mov.list', '20216', '');">🦕 쥬라기 월드로 여행을 떠나요~ 특급 쥬라기 패키지 오픈</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💊 하루하루 버텨내며 살아가는 당신을 위한 힐링무비, '안녕하세요' ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20235?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20235?productType=movie</guid>
+            <pubDate>Wed, 08 Jun 2022 20:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20235?productType=movie" class="" onclick="nclk(this, 'mov.list', '20235', '');">💊 하루하루 버텨내며 살아가는 당신을 위한 힐링무비, '안녕하세요'</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[😎 지금 톰 크루즈 필모 보면 '탑건: 매버릭' 예매권 선물이! ([시리즈온] 이벤트)]]></title>
@@ -206,7 +213,7 @@
             <title><![CDATA[뱅퀴시 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 08 Jun 2022 19:14:18 GMT</pubDate>
+            <pubDate>Wed, 08 Jun 2022 20:22:59 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210602_222/1622600165626gehk0_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -214,7 +221,7 @@
             <title><![CDATA[그레타 툰베리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 08 Jun 2022 19:14:18 GMT</pubDate>
+            <pubDate>Wed, 08 Jun 2022 20:22:59 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210629_69/1624945460597wBVF5_JPEG/____.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -222,7 +229,7 @@
             <title><![CDATA[용루각2: 신들의 밤 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 08 Jun 2022 19:14:18 GMT</pubDate>
+            <pubDate>Wed, 08 Jun 2022 20:22:59 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210128_206/1611825286502CtYO6_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
