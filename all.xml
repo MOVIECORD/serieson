@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 15:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 16:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,13 +13,6 @@
             <guid>https://serieson.naver.com/events/20218?productType=movie</guid>
             <pubDate>Tue, 31 May 2022 15:28:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20218?productType=movie" class="" onclick="nclk(this, 'mov.list', '20218', '');">🦊 드림웍스의 쫄깃한 범죄액션 블록버스터 '배드 가이즈'보면 3천 캐시 100% BACK!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🎊 시리즈온 ONLY! "I AM" 시리즈 오픈 기념 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20234?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20234?productType=movie</guid>
-            <pubDate>Tue, 07 Jun 2022 03:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20234?productType=movie" class="" onclick="nclk(this, 'mov.list', '20234', '');">🎊 시리즈온 ONLY! "I AM" 시리즈 오픈 기념 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🦕 쥬라기 월드로 여행을 떠나요~ 특급 쥬라기 패키지 오픈 ([시리즈온] 이벤트)]]></title>
@@ -36,6 +29,13 @@
             <content:encoded><![CDATA[<a href="/events/20235?productType=movie" class="" onclick="nclk(this, 'mov.list', '20235', '');">💊 하루하루 버텨내며 살아가는 당신을 위한 힐링무비, '안녕하세요'</a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[🎊 시리즈온 ONLY! "I AM" 시리즈 오픈 기념 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20234?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20234?productType=movie</guid>
+            <pubDate>Tue, 07 Jun 2022 03:27:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20234?productType=movie" class="" onclick="nclk(this, 'mov.list', '20234', '');">🎊 시리즈온 ONLY! "I AM" 시리즈 오픈 기념 이벤트</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[😎 지금 톰 크루즈 필모 보면 '탑건: 매버릭' 예매권 선물이! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20231?productType=movie</link>
             <guid>https://serieson.naver.com/events/20231?productType=movie</guid>
@@ -48,6 +48,13 @@
             <guid>https://serieson.naver.com/events/20232?productType=movie</guid>
             <pubDate>Tue, 07 Jun 2022 01:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20232?productType=movie" class="" onclick="nclk(this, 'mov.list', '20232', '');">🩸 이완 X 조동혁의 쫄깃한 하드보일드 액션 ‘피는 물보다 진하다’ 보고 치킨 받아가세요~</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🔠 영어 잘 하는 법 지금 풀어DREAM 시리즈온 특급 추천 영어자막 영화 지금 확인! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20236?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20236?productType=movie</guid>
+            <pubDate>Thu, 09 Jun 2022 16:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20236?productType=movie" class="" onclick="nclk(this, 'mov.list', '20236', '');">🔠 영어 잘 하는 법 지금 풀어DREAM 시리즈온 특급 추천 영어자막 영화 지금 확인!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎖️기억해야 할 그날을 위해! 호국보훈의 달 맞이 최대 50% 전쟁 & 역사 영화 할인! ([시리즈온] 이벤트)]]></title>
