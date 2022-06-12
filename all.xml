@@ -4,23 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 14:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 15:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🦊 드림웍스의 쫄깃한 범죄액션 블록버스터 '배드 가이즈'보면 3천 캐시 100% BACK! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20218?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20218?productType=movie</guid>
-            <pubDate>Tue, 31 May 2022 15:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20218?productType=movie" class="" onclick="nclk(this, 'mov.list', '20218', '');">🦊 드림웍스의 쫄깃한 범죄액션 블록버스터 '배드 가이즈'보면 3천 캐시 100% BACK!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🦕 쥬라기 월드로 여행을 떠나요~ 특급 쥬라기 패키지 오픈 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20216?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20216?productType=movie</guid>
-            <pubDate>Sun, 29 May 2022 15:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20216?productType=movie" class="" onclick="nclk(this, 'mov.list', '20216', '');">🦕 쥬라기 월드로 여행을 떠나요~ 특급 쥬라기 패키지 오픈</a>]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[💊 하루하루 버텨내며 살아가는 당신을 위한 힐링무비, '안녕하세요' ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20235?productType=movie</link>
@@ -62,13 +48,6 @@
             <guid>https://serieson.naver.com/events/20220?productType=movie</guid>
             <pubDate>Tue, 31 May 2022 15:28:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20220?productType=movie" class="" onclick="nclk(this, 'mov.list', '20220', '');">🎖️기억해야 할 그날을 위해! 호국보훈의 달 맞이 최대 50% 전쟁 &amp; 역사 영화 할인!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[♠️ 지금 '더 배트맨' 보고 DC 굿즈도 받아가자 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20217?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20217?productType=movie</guid>
-            <pubDate>Sun, 29 May 2022 15:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20217?productType=movie" class="" onclick="nclk(this, 'mov.list', '20217', '');">♠️ 지금 '더 배트맨' 보고 DC 굿즈도 받아가자</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🔥 영화 좀 본다면 주목! 하마구치 류스케 '우연과 상상' ([시리즈온] 이벤트)]]></title>
@@ -213,7 +192,7 @@
             <title><![CDATA[강호불패 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 12 Jun 2022 14:14:40 GMT</pubDate>
+            <pubDate>Sun, 12 Jun 2022 15:16:46 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210929_3/1632882444301MG2P1_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -221,7 +200,7 @@
             <title><![CDATA[베이비티스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 12 Jun 2022 14:14:40 GMT</pubDate>
+            <pubDate>Sun, 12 Jun 2022 15:16:46 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200907_134/1599440748453C55X3_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -229,7 +208,7 @@
             <title><![CDATA[탑캣 : 뉴욕 대소동 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 12 Jun 2022 14:14:40 GMT</pubDate>
+            <pubDate>Sun, 12 Jun 2022 15:16:46 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140423_259/1398220276970jszs8_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
