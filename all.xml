@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 01:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 03:40:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,13 +62,6 @@
             <guid>https://serieson.naver.com/events/20221?productType=movie</guid>
             <pubDate>Mon, 30 May 2022 03:36:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20221?productType=movie" class="" onclick="nclk(this, 'mov.list', '20221', '');">💐 주인공이 INFP라는데요!? '완벽한 축사를 준비하는 방법'</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[✅ 아직 네플멤 쿠폰 안 쓰셨다면? 이번 달은 이 영화 어때요? ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20211?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20211?productType=movie</guid>
-            <pubDate>Wed, 25 May 2022 03:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20211?productType=movie" class="" onclick="nclk(this, 'mov.list', '20211', '');">✅ 아직 네플멤 쿠폰 안 쓰셨다면? 이번 달은 이 영화 어때요?</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[22년 6월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
@@ -185,7 +178,7 @@
             <title><![CDATA[강호불패 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 15 Jun 2022 01:28:04 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 03:40:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210929_3/1632882444301MG2P1_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -193,7 +186,7 @@
             <title><![CDATA[베이비티스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 15 Jun 2022 01:28:04 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 03:40:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200907_134/1599440748453C55X3_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -201,7 +194,7 @@
             <title><![CDATA[탑캣 : 뉴욕 대소동 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 15 Jun 2022 01:28:04 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 03:40:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140423_259/1398220276970jszs8_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
