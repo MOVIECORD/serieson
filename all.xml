@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 14:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 15:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://serieson.naver.com/events/20239?productType=movie</guid>
             <pubDate>Tue, 14 Jun 2022 03:51:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20239?productType=movie" class="" onclick="nclk(this, 'mov.list', '20239', '');">👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🏆 상반기 가장 사랑 받은 영화는? 시리즈온 영화 올스타전 시작! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20242?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20242?productType=movie</guid>
+            <pubDate>Thu, 16 Jun 2022 15:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20242?productType=movie" class="" onclick="nclk(this, 'mov.list', '20242', '');">🏆 상반기 가장 사랑 받은 영화는? 시리즈온 영화 올스타전 시작!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💊 하루하루 버텨내며 살아가는 당신을 위한 힐링무비, '안녕하세요' ([시리즈온] 이벤트)]]></title>
@@ -64,12 +71,44 @@
             <content:encoded><![CDATA[<a href="/events/20227?productType=movie" class="" onclick="nclk(this, 'mov.list', '20227', '');">22년 6월 우수 이용자! 꼭 확인해보자!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뱅퀴시 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/445335</link>
-            <guid>https://m.serieson.naver.com/v2/movie/445335</guid>
-            <pubDate>Thu, 09 Jun 2022 15:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[6월 16일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210602_222/1622600165626gehk0_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <title><![CDATA[강호불패 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/467486</link>
+            <guid>https://m.serieson.naver.com/v2/movie/467486</guid>
+            <pubDate>Thu, 16 Jun 2022 15:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[6월 30일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210929_3/1632882444301MG2P1_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베이비티스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/407761</link>
+            <guid>https://m.serieson.naver.com/v2/movie/407761</guid>
+            <pubDate>Thu, 16 Jun 2022 15:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[6월 30일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200907_134/1599440748453C55X3_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탑캣 : 뉴욕 대소동 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/484007</link>
+            <guid>https://m.serieson.naver.com/v2/movie/484007</guid>
+            <pubDate>Thu, 16 Jun 2022 15:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[6월 30일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140423_259/1398220276970jszs8_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마더 앤 머더 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/471102</link>
+            <guid>https://m.serieson.naver.com/v2/movie/471102</guid>
+            <pubDate>Thu, 16 Jun 2022 15:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[6월 30일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211020_193/1634706197211jc4QN_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이지 오브 탱크 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/469166</link>
+            <guid>https://m.serieson.naver.com/v2/movie/469166</guid>
+            <pubDate>Thu, 16 Jun 2022 15:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[6월 30일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210927_223/1632721112734oApul_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그레타 툰베리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -126,70 +165,6 @@
             <pubDate>Thu, 09 Jun 2022 15:17:29 GMT</pubDate>
             <content:encoded><![CDATA[6월 23일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_250/1324489974498ras5O_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오케이 마담 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/398982</link>
-            <guid>https://m.serieson.naver.com/v2/movie/398982</guid>
-            <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[6월 16일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200812_245/159719521887011fjF_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울프 콜 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/363413</link>
-            <guid>https://m.serieson.naver.com/v2/movie/363413</guid>
-            <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[6월 16일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200211_99/1581385788027OEySM_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[날씨의 아이 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/373896</link>
-            <guid>https://m.serieson.naver.com/v2/movie/373896</guid>
-            <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[6월 16일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[47 미터 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/456471</link>
-            <guid>https://m.serieson.naver.com/v2/movie/456471</guid>
-            <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[6월 16일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170710_236/1499649120659mlzY0_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[날씨의 아이 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/373897</link>
-            <guid>https://m.serieson.naver.com/v2/movie/373897</guid>
-            <pubDate>Thu, 02 Jun 2022 15:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[6월 16일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강호불패 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
-            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 16 Jun 2022 14:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210929_3/1632882444301MG2P1_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이비티스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
-            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 16 Jun 2022 14:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200907_134/1599440748453C55X3_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탑캣 : 뉴욕 대소동 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
-            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 16 Jun 2022 14:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20140423_259/1398220276970jszs8_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
