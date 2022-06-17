@@ -4,7 +4,7 @@
         <title>모바일 네이버 시리즈온 ─ 무료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 03:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 04:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,38 @@
             <pubDate>Thu, 09 Jun 2022 15:17:29 GMT</pubDate>
             <content:encoded><![CDATA[6월 23일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_250/1324489974498ras5O_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해피니스]]></title>
+            <link>https://m.serieson.naver.com/free</link>
+            <guid>https://m.serieson.naver.com/free</guid>
+            <pubDate>Fri, 17 Jun 2022 04:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210908_243/1631087702376M2bGA_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워터 릴리스]]></title>
+            <link>https://m.serieson.naver.com/free</link>
+            <guid>https://m.serieson.naver.com/free</guid>
+            <pubDate>Fri, 17 Jun 2022 04:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200721_78/1595297783123YfmzE_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치어리딩 클럽]]></title>
+            <link>https://m.serieson.naver.com/free</link>
+            <guid>https://m.serieson.naver.com/free</guid>
+            <pubDate>Fri, 17 Jun 2022 04:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200910_288/15997115593797SfBW_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄의 멜로디]]></title>
+            <link>https://m.serieson.naver.com/free</link>
+            <guid>https://m.serieson.naver.com/free</guid>
+            <pubDate>Fri, 17 Jun 2022 04:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150105_24/1420419467688grXBG_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
