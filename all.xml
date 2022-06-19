@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 14:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 15:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -55,13 +55,6 @@
             <guid>https://serieson.naver.com/events/20236?productType=movie</guid>
             <pubDate>Thu, 09 Jun 2022 16:25:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20236?productType=movie" class="" onclick="nclk(this, 'mov.list', '20236', '');">🔠 영어 잘 하는 법 지금 풀어DREAM 시리즈온 특급 추천 영어자막 영화 지금 확인!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[💐 주인공이 INFP라는데요!? '완벽한 축사를 준비하는 방법' ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20221?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20221?productType=movie</guid>
-            <pubDate>Mon, 30 May 2022 03:36:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20221?productType=movie" class="" onclick="nclk(this, 'mov.list', '20221', '');">💐 주인공이 INFP라는데요!? '완벽한 축사를 준비하는 방법'</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[22년 6월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
@@ -170,7 +163,7 @@
             <title><![CDATA[해피니스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 19 Jun 2022 14:14:54 GMT</pubDate>
+            <pubDate>Sun, 19 Jun 2022 15:16:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210908_243/1631087702376M2bGA_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -178,7 +171,7 @@
             <title><![CDATA[워터 릴리스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 19 Jun 2022 14:14:54 GMT</pubDate>
+            <pubDate>Sun, 19 Jun 2022 15:16:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200721_78/1595297783123YfmzE_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -186,7 +179,7 @@
             <title><![CDATA[치어리딩 클럽 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 19 Jun 2022 14:14:54 GMT</pubDate>
+            <pubDate>Sun, 19 Jun 2022 15:16:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200910_288/15997115593797SfBW_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -194,7 +187,7 @@
             <title><![CDATA[봄의 멜로디 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 19 Jun 2022 14:14:54 GMT</pubDate>
+            <pubDate>Sun, 19 Jun 2022 15:16:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150105_24/1420419467688grXBG_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
