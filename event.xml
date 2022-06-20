@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-06-20T14:15:30.939Z</updated>
+    <updated>2022-06-20T15:18:39.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://serieson.naver.com/events/20239?productType=movie"/>
         <updated>2022-06-14T03:51:55.901Z</updated>
         <content type="html"><![CDATA[<a href="/events/20239?productType=movie" class="" onclick="nclk(this, 'mov.list', '20239', '');">👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏫 대환장 약.육.강.식 학교 생존기! 살벌한 아부 전쟁 ‘아부쟁이’ 경품 이벤트]]></title>
+        <id>https://serieson.naver.com/events/20244?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20244?productType=movie"/>
+        <updated>2022-06-20T15:18:19.339Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20244?productType=movie" class="" onclick="nclk(this, 'mov.list', '20244', '');">🏫 대환장 약.육.강.식 학교 생존기! 살벌한 아부 전쟁 ‘아부쟁이’ 경품 이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🏆 상반기 가장 사랑 받은 영화는? 시리즈온 영화 올스타전 시작!]]></title>
@@ -32,13 +39,6 @@
         <link href="https://serieson.naver.com/events/20235?productType=movie"/>
         <updated>2022-06-08T20:22:49.762Z</updated>
         <content type="html"><![CDATA[<a href="/events/20235?productType=movie" class="" onclick="nclk(this, 'mov.list', '20235', '');">💊 하루하루 버텨내며 살아가는 당신을 위한 힐링무비, '안녕하세요'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🩸 이완 X 조동혁의 쫄깃한 하드보일드 액션 ‘피는 물보다 진하다’ 보고 치킨 받아가세요~]]></title>
-        <id>https://serieson.naver.com/events/20232?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20232?productType=movie"/>
-        <updated>2022-06-07T01:19:05.935Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20232?productType=movie" class="" onclick="nclk(this, 'mov.list', '20232', '');">🩸 이완 X 조동혁의 쫄깃한 하드보일드 액션 ‘피는 물보다 진하다’ 보고 치킨 받아가세요~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎊 시리즈온 ONLY! "I AM" 시리즈 오픈 기념 이벤트]]></title>
