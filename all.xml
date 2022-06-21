@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 14:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 15:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[😎 '닥터스트레인지: 대혼돈의 멀티버스' 시리즈온 OPEN ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20237?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20237?productType=movie</guid>
+            <pubDate>Tue, 21 Jun 2022 15:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20237?productType=movie" class="" onclick="nclk(this, 'mov.list', '20237', '');">😎 '닥터스트레인지: 대혼돈의 멀티버스' 시리즈온 OPEN</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20239?productType=movie</link>
@@ -170,7 +177,7 @@
             <title><![CDATA[해피니스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 21 Jun 2022 14:17:09 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2022 15:20:02 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210908_243/1631087702376M2bGA_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -178,7 +185,7 @@
             <title><![CDATA[워터 릴리스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 21 Jun 2022 14:17:09 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2022 15:20:02 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200721_78/1595297783123YfmzE_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -186,7 +193,7 @@
             <title><![CDATA[치어리딩 클럽 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 21 Jun 2022 14:17:09 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2022 15:20:02 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200910_288/15997115593797SfBW_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -194,7 +201,7 @@
             <title><![CDATA[봄의 멜로디 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 21 Jun 2022 14:17:09 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2022 15:20:02 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150105_24/1420419467688grXBG_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
