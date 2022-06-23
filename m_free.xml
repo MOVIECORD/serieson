@@ -4,9 +4,65 @@
         <title>모바일 네이버 시리즈온 ─ 무료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 14:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 15:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해피니스]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/461613</link>
+            <guid>https://m.serieson.naver.com/v2/movie/461613</guid>
+            <pubDate>Thu, 23 Jun 2022 15:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[6월 30일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210908_243/1631087702376M2bGA_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워터 릴리스]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/394881</link>
+            <guid>https://m.serieson.naver.com/v2/movie/394881</guid>
+            <pubDate>Thu, 23 Jun 2022 15:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[7월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200721_78/1595297783123YfmzE_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치어리딩 클럽]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/400407</link>
+            <guid>https://m.serieson.naver.com/v2/movie/400407</guid>
+            <pubDate>Thu, 23 Jun 2022 15:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[7월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200910_288/15997115593797SfBW_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄의 멜로디]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/409849</link>
+            <guid>https://m.serieson.naver.com/v2/movie/409849</guid>
+            <pubDate>Thu, 23 Jun 2022 15:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[7월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150105_24/1420419467688grXBG_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두 번째 겨울]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/265804</link>
+            <guid>https://m.serieson.naver.com/v2/movie/265804</guid>
+            <pubDate>Thu, 23 Jun 2022 15:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[7월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181214_191/1544767095151zsv20_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치어리더는 모두 죽는다]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/409851</link>
+            <guid>https://m.serieson.naver.com/v2/movie/409851</guid>
+            <pubDate>Thu, 23 Jun 2022 15:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[7월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20141030_101/1414636790335hdaBW_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알렉스 크로스]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/459771</link>
+            <guid>https://m.serieson.naver.com/v2/movie/459771</guid>
+            <pubDate>Thu, 23 Jun 2022 15:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[7월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130222_254/1361516003920I9lsi_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강호불패]]></title>
             <link>https://m.serieson.naver.com/v2/movie/467486</link>
@@ -22,14 +78,6 @@
             <pubDate>Thu, 16 Jun 2022 15:17:47 GMT</pubDate>
             <content:encoded><![CDATA[6월 30일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200907_134/1599440748453C55X3_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복까지 30일]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/452736</link>
-            <guid>https://m.serieson.naver.com/v2/movie/452736</guid>
-            <pubDate>Thu, 09 Jun 2022 15:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[6월 23일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20220616_175/1655368011470zfXGl_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3787.ED9689EBB3B5EAB98CECA7.png?type=w320_r145" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[탑캣 : 뉴욕 대소동]]></title>
@@ -54,86 +102,6 @@
             <pubDate>Thu, 16 Jun 2022 15:17:47 GMT</pubDate>
             <content:encoded><![CDATA[6월 30일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210927_223/1632721112734oApul_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그레타 툰베리]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/447252</link>
-            <guid>https://m.serieson.naver.com/v2/movie/447252</guid>
-            <pubDate>Thu, 09 Jun 2022 15:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[6월 23일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210629_69/1624945460597wBVF5_JPEG/____.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용루각2: 신들의 밤]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/424560</link>
-            <guid>https://m.serieson.naver.com/v2/movie/424560</guid>
-            <pubDate>Thu, 09 Jun 2022 15:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[6월 23일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210128_206/1611825286502CtYO6_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스페셜 포스 : 화이트 마운틴]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/227658</link>
-            <guid>https://m.serieson.naver.com/v2/movie/227658</guid>
-            <pubDate>Thu, 09 Jun 2022 15:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[6월 23일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20220511_248/1652243089270x5IgK_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3566.EC8AA4ED8E98EC859C%2BED8.png?type=w320_r145" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[1918: 크루티 대전투]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/287765</link>
-            <guid>https://m.serieson.naver.com/v2/movie/287765</guid>
-            <pubDate>Thu, 09 Jun 2022 15:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[6월 23일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190528_154/1559029499899PIfDn_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포트라이트]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/138024</link>
-            <guid>https://m.serieson.naver.com/v2/movie/138024</guid>
-            <pubDate>Thu, 09 Jun 2022 15:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[6월 23일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20160303_13/1456966400581eqgp6_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이랜더]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/472583</link>
-            <guid>https://m.serieson.naver.com/v2/movie/472583</guid>
-            <pubDate>Thu, 09 Jun 2022 15:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[6월 23일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_250/1324489974498ras5O_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해피니스]]></title>
-            <link>https://m.serieson.naver.com/free</link>
-            <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 23 Jun 2022 14:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210908_243/1631087702376M2bGA_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워터 릴리스]]></title>
-            <link>https://m.serieson.naver.com/free</link>
-            <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 23 Jun 2022 14:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200721_78/1595297783123YfmzE_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치어리딩 클럽]]></title>
-            <link>https://m.serieson.naver.com/free</link>
-            <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 23 Jun 2022 14:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200910_288/15997115593797SfBW_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄의 멜로디]]></title>
-            <link>https://m.serieson.naver.com/free</link>
-            <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 23 Jun 2022 14:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150105_24/1420419467688grXBG_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
