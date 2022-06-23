@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 04:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>https://serieson.naver.com/events/20239?productType=movie</guid>
             <pubDate>Tue, 14 Jun 2022 03:51:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20239?productType=movie" class="" onclick="nclk(this, 'mov.list', '20239', '');">👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💤 열대야의 시작, 올타임 레전드 영화 할인과 함께! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20246?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20246?productType=movie</guid>
+            <pubDate>Thu, 23 Jun 2022 05:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20246?productType=movie" class="" onclick="nclk(this, 'mov.list', '20246', '');">💤 열대야의 시작, 올타임 레전드 영화 할인과 함께!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🏫 대환장 약.육.강.식 학교 생존기! 살벌한 아부 전쟁 ‘아부쟁이’ 경품 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -170,7 +177,7 @@
             <title><![CDATA[해피니스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 23 Jun 2022 04:35:49 GMT</pubDate>
+            <pubDate>Thu, 23 Jun 2022 05:21:50 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210908_243/1631087702376M2bGA_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -178,7 +185,7 @@
             <title><![CDATA[워터 릴리스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 23 Jun 2022 04:35:49 GMT</pubDate>
+            <pubDate>Thu, 23 Jun 2022 05:21:50 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200721_78/1595297783123YfmzE_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -186,7 +193,7 @@
             <title><![CDATA[치어리딩 클럽 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 23 Jun 2022 04:35:49 GMT</pubDate>
+            <pubDate>Thu, 23 Jun 2022 05:21:50 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200910_288/15997115593797SfBW_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -194,7 +201,7 @@
             <title><![CDATA[봄의 멜로디 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 23 Jun 2022 04:35:49 GMT</pubDate>
+            <pubDate>Thu, 23 Jun 2022 05:21:50 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150105_24/1420419467688grXBG_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
