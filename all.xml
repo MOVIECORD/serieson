@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 09:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 10:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,13 @@
             <guid>https://serieson.naver.com/events/20241?productType=movie</guid>
             <pubDate>Thu, 23 Jun 2022 15:19:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20241?productType=movie" class="" onclick="nclk(this, 'mov.list', '20241', '');">⛱️ 전용 쿠폰과 함께 떠나요 씨네바캉스! 여름마다 재탕하는 영화만 모아모아!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🌹 아름다운 장미 보고가세요! '베르네 부인의 장미정원' 경품+할인 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20250?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20250?productType=movie</guid>
+            <pubDate>Mon, 27 Jun 2022 10:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20250?productType=movie" class="" onclick="nclk(this, 'mov.list', '20250', '');">🌹 아름다운 장미 보고가세요! '베르네 부인의 장미정원' 경품+할인</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요! ([시리즈온] 이벤트)]]></title>
@@ -170,7 +177,7 @@
             <title><![CDATA[뷰티풀 다크니스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 09:22:47 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 10:21:14 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210818_26/1629264123119fRKBg_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -178,7 +185,7 @@
             <title><![CDATA[타이페이 카페 스토리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 09:22:47 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 10:21:14 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_260/1324639127015oLJfr_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -186,7 +193,7 @@
             <title><![CDATA[궁궐에서 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 09:22:47 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 10:21:14 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200804_288/15965217619686olCq_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -194,7 +201,7 @@
             <title><![CDATA[청설 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 09:22:47 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 10:21:14 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20181019_192/1539926516385x2hHY_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
