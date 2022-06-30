@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 01:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 03:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[👶 '브로커' 오늘부터 딱 4일! 일요일까지 예약구매 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20253?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20253?productType=movie</guid>
+            <pubDate>Thu, 30 Jun 2022 03:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20253?productType=movie" class="" onclick="nclk(this, 'mov.list', '20253', '');">👶 '브로커' 오늘부터 딱 4일! 일요일까지 예약구매</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[😎 '닥터스트레인지: 대혼돈의 멀티버스' 시리즈온 OPEN ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20237?productType=movie</link>
@@ -177,7 +184,7 @@
             <title><![CDATA[뷰티풀 다크니스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 30 Jun 2022 01:28:44 GMT</pubDate>
+            <pubDate>Thu, 30 Jun 2022 03:42:40 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210818_26/1629264123119fRKBg_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -185,7 +192,7 @@
             <title><![CDATA[타이페이 카페 스토리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 30 Jun 2022 01:28:44 GMT</pubDate>
+            <pubDate>Thu, 30 Jun 2022 03:42:40 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_260/1324639127015oLJfr_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -193,7 +200,7 @@
             <title><![CDATA[궁궐에서 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 30 Jun 2022 01:28:44 GMT</pubDate>
+            <pubDate>Thu, 30 Jun 2022 03:42:40 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200804_288/15965217619686olCq_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -201,7 +208,7 @@
             <title><![CDATA[청설 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 30 Jun 2022 01:28:44 GMT</pubDate>
+            <pubDate>Thu, 30 Jun 2022 03:42:40 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20181019_192/1539926516385x2hHY_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
