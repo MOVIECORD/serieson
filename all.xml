@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 14:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 15:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,20 +41,6 @@
             <guid>https://serieson.naver.com/events/20250?productType=movie</guid>
             <pubDate>Mon, 27 Jun 2022 10:21:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20250?productType=movie" class="" onclick="nclk(this, 'mov.list', '20250', '');">🌹 아름다운 장미 보고가세요! '베르네 부인의 장미정원' 경품+할인</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20239?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20239?productType=movie</guid>
-            <pubDate>Tue, 14 Jun 2022 03:51:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20239?productType=movie" class="" onclick="nclk(this, 'mov.list', '20239', '');">👨‍👧 서현진, 안성기 주연의 '카시오페아', 소중한 사람을 떠올려 보세요!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🏫 대환장 약.육.강.식 학교 생존기! 살벌한 아부 전쟁 ‘아부쟁이’ 경품 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20244?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20244?productType=movie</guid>
-            <pubDate>Mon, 20 Jun 2022 15:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20244?productType=movie" class="" onclick="nclk(this, 'mov.list', '20244', '');">🏫 대환장 약.육.강.식 학교 생존기! 살벌한 아부 전쟁 ‘아부쟁이’ 경품 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🖤 두 거장이 선사하는 찐~한 프렌치 로맨스 '파리 13구' 굿즈 이벤트 오픈! ([시리즈온] 이벤트)]]></title>
@@ -170,7 +156,7 @@
             <title><![CDATA[뉴 오더 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 04 Jul 2022 14:15:29 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2022 15:18:23 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211028_132/1635384987716dULVd_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -178,7 +164,7 @@
             <title><![CDATA[엘리스 헤지나 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 04 Jul 2022 14:15:29 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2022 15:18:23 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220627_209/1656311458361HTtQw_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3820.EC9798EBA6ACEC8AA4ED97.png?type=w320_r145" length="0" type="image/png"/>
         </item>
@@ -186,7 +172,7 @@
             <title><![CDATA[워터 디바이너 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 04 Jul 2022 14:15:29 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2022 15:18:23 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150116_94/14213729886205WUiY_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -194,7 +180,7 @@
             <title><![CDATA[히어로즈 앤 카워즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 04 Jul 2022 14:15:29 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2022 15:18:23 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210525_290/1621907495890sQlgj_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
