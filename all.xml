@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 01:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 03:50:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🍼 '브로커' 오픈! 할인해줘서 고마워! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20256?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20256?productType=movie</guid>
+            <pubDate>Mon, 04 Jul 2022 03:50:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20256?productType=movie" class="" onclick="nclk(this, 'mov.list', '20256', '');">🍼 '브로커' 오픈! 할인해줘서 고마워!</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[😎 '닥터스트레인지: 대혼돈의 멀티버스' 시리즈온 OPEN ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20237?productType=movie</link>
@@ -163,7 +170,7 @@
             <title><![CDATA[뉴 오더 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 04 Jul 2022 01:51:40 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2022 03:50:15 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211028_132/1635384987716dULVd_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -171,7 +178,7 @@
             <title><![CDATA[엘리스 헤지나 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 04 Jul 2022 01:51:40 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2022 03:50:15 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220627_209/1656311458361HTtQw_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3820.EC9798EBA6ACEC8AA4ED97.png?type=w320_r145" length="0" type="image/png"/>
         </item>
@@ -179,7 +186,7 @@
             <title><![CDATA[워터 디바이너 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 04 Jul 2022 01:51:40 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2022 03:50:15 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20150116_94/14213729886205WUiY_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -187,7 +194,7 @@
             <title><![CDATA[히어로즈 앤 카워즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 04 Jul 2022 01:51:40 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2022 03:50:15 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210525_290/1621907495890sQlgj_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
