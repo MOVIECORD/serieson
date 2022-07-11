@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-07-11T14:18:12.100Z</updated>
+    <updated>2022-07-11T15:28:23.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -20,18 +20,25 @@
         <content type="html"><![CDATA[<a href="/events/20258?productType=movie" class="" onclick="nclk(this, 'mov.list', '20258', '');">🦖지상 최대 블록버스터의 압도적 피날레! '쥬라기월드: 도미니언' 시리즈온 개장!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다!]]></title>
-        <id>https://serieson.naver.com/events/20260?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20260?productType=movie"/>
-        <updated>2022-07-11T03:38:36.730Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20260?productType=movie" class="" onclick="nclk(this, 'mov.list', '20260', '');">🎁 네이버 멤버십 영화 무제한을 소개합니다!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🍼 '브로커' 오픈! 할인해줘서 고마워!]]></title>
         <id>https://serieson.naver.com/events/20256?productType=movie</id>
         <link href="https://serieson.naver.com/events/20256?productType=movie"/>
         <updated>2022-07-04T03:50:06.946Z</updated>
         <content type="html"><![CDATA[<a href="/events/20256?productType=movie" class="" onclick="nclk(this, 'mov.list', '20256', '');">🍼 '브로커' 오픈! 할인해줘서 고마워!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력']]></title>
+        <id>https://serieson.naver.com/events/20261?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20261?productType=movie"/>
+        <updated>2022-07-11T15:28:06.702Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20261?productType=movie" class="" onclick="nclk(this, 'mov.list', '20261', '');">😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다!]]></title>
+        <id>https://serieson.naver.com/events/20260?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20260?productType=movie"/>
+        <updated>2022-07-11T03:38:36.730Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20260?productType=movie" class="" onclick="nclk(this, 'mov.list', '20260', '');">🎁 네이버 멤버십 영화 무제한을 소개합니다!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🔥 열대야를 책임질 HOT한 영화 반값 할인!]]></title>
