@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 15:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 16:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🧙‍♀️ 마녀 아가씨, 오랜만이네? ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20264?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20264?productType=movie</guid>
+            <pubDate>Wed, 13 Jul 2022 16:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20264?productType=movie" class="" onclick="nclk(this, 'mov.list', '20264', '');">🧙‍♀️ 마녀 아가씨, 오랜만이네?</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[🦖지상 최대 블록버스터의 압도적 피날레! '쥬라기월드: 도미니언' 시리즈온 개장! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20258?productType=movie</link>
@@ -155,7 +162,7 @@
             <title><![CDATA[나의 인생여행 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 13 Jul 2022 15:24:17 GMT</pubDate>
+            <pubDate>Wed, 13 Jul 2022 16:26:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201104_54/1604465196745zrUWn_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -163,7 +170,7 @@
             <title><![CDATA[런던 타운 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 13 Jul 2022 15:24:17 GMT</pubDate>
+            <pubDate>Wed, 13 Jul 2022 16:26:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170201_147/1485911199750XRrbk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -171,7 +178,7 @@
             <title><![CDATA[슈퍼노바 지구 탈출기 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 13 Jul 2022 15:24:17 GMT</pubDate>
+            <pubDate>Wed, 13 Jul 2022 16:26:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140120_171/1390181740740nlq1M_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -179,7 +186,7 @@
             <title><![CDATA[헤븐퀘스트 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 13 Jul 2022 15:24:17 GMT</pubDate>
+            <pubDate>Wed, 13 Jul 2022 16:26:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200706_173/15940091063660hz5A_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -187,7 +194,7 @@
             <title><![CDATA[희망에 빠진 남자들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 13 Jul 2022 15:24:17 GMT</pubDate>
+            <pubDate>Wed, 13 Jul 2022 16:26:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20141210_194/1418178237461iPjHC_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
