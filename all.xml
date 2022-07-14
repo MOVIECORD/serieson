@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 14:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 15:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,12 +71,52 @@
             <content:encoded><![CDATA[<a href="/events/20254?productType=movie" class="" onclick="nclk(this, 'mov.list', '20254', '');">22년 7월 우수 이용자! 꼭 확인해보자!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴 오더 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/474241</link>
-            <guid>https://m.serieson.naver.com/v2/movie/474241</guid>
-            <pubDate>Thu, 07 Jul 2022 15:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[7월 14일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20211028_132/1635384987716dULVd_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <title><![CDATA[나의 인생여행 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/412855</link>
+            <guid>https://m.serieson.naver.com/v2/movie/412855</guid>
+            <pubDate>Thu, 14 Jul 2022 15:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[7월 21일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201104_54/1604465196745zrUWn_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[런던 타운 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/172622</link>
+            <guid>https://m.serieson.naver.com/v2/movie/172622</guid>
+            <pubDate>Thu, 14 Jul 2022 15:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[7월 28일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170201_147/1485911199750XRrbk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼노바 지구 탈출기 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/470085</link>
+            <guid>https://m.serieson.naver.com/v2/movie/470085</guid>
+            <pubDate>Thu, 14 Jul 2022 15:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[7월 28일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140120_171/1390181740740nlq1M_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤븐퀘스트 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/387662</link>
+            <guid>https://m.serieson.naver.com/v2/movie/387662</guid>
+            <pubDate>Thu, 14 Jul 2022 15:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[7월 28일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200706_173/15940091063660hz5A_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[희망에 빠진 남자들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/428078</link>
+            <guid>https://m.serieson.naver.com/v2/movie/428078</guid>
+            <pubDate>Thu, 14 Jul 2022 15:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[7월 28일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20141210_194/1418178237461iPjHC_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[래빗 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/290374</link>
+            <guid>https://m.serieson.naver.com/v2/movie/290374</guid>
+            <pubDate>Thu, 14 Jul 2022 15:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[7월 28일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220630_149/1656559563856fvaRH_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3845.EB9E98EBB997.png?type=w320_r145" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[비커밍 제인 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -119,84 +159,44 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210525_290/1621907495890sQlgj_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[타이페이 카페 스토리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/198752</link>
-            <guid>https://m.serieson.naver.com/v2/movie/198752</guid>
-            <pubDate>Thu, 30 Jun 2022 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[7월 14일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_260/1324639127015oLJfr_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[궁궐에서 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/412852</link>
-            <guid>https://m.serieson.naver.com/v2/movie/412852</guid>
-            <pubDate>Thu, 30 Jun 2022 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[7월 14일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200804_288/15965217619686olCq_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청설 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/257179</link>
-            <guid>https://m.serieson.naver.com/v2/movie/257179</guid>
-            <pubDate>Thu, 30 Jun 2022 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[7월 14일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181019_192/1539926516385x2hHY_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상의 모든 아침 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/467259</link>
-            <guid>https://m.serieson.naver.com/v2/movie/467259</guid>
-            <pubDate>Thu, 30 Jun 2022 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[7월 14일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111221_258/1324466041809jvq6I_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이브 테러 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/467256</link>
-            <guid>https://m.serieson.naver.com/v2/movie/467256</guid>
-            <pubDate>Thu, 30 Jun 2022 15:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[7월 14일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150810_180/1439191597306MgT5e_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 인생여행 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <title><![CDATA[리벤저스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 14 Jul 2022 14:21:05 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2022 15:20:50 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201104_54/1604465196745zrUWn_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20210902_250/1630560723994mJxyM_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[런던 타운 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <title><![CDATA[트립 투 아메리카 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 14 Jul 2022 14:21:05 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2022 15:20:50 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170201_147/1485911199750XRrbk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20210408_42/16178433519650Fboy_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼노바 지구 탈출기 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <title><![CDATA[반교: 디텐션 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 14 Jul 2022 14:21:05 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2022 15:20:50 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20140120_171/1390181740740nlq1M_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20200813_98/15973043908847Ojuu_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헤븐퀘스트 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <title><![CDATA[부다페스트 로큰롤 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 14 Jul 2022 14:21:05 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2022 15:20:50 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200706_173/15940091063660hz5A_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20200811_248/1597124726849gBB2o_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[희망에 빠진 남자들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <title><![CDATA[세이브 솔져스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 14 Jul 2022 14:21:05 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2022 15:20:50 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20141210_194/1418178237461iPjHC_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20200630_2/1593506217141wVRl7_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
