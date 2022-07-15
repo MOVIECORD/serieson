@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 01:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 03:57:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[👊 올해 최초 천만 돌파 그 영화 ‘범죄도시 2’ 4천 캐시와 함께 예약 구매 시작! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20265?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20265?productType=movie</guid>
+            <pubDate>Fri, 15 Jul 2022 03:57:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20265?productType=movie" class="" onclick="nclk(this, 'mov.list', '20265', '');">👊 올해 최초 천만 돌파 그 영화 ‘범죄도시 2’ 4천 캐시와 함께 예약 구매 시작! </a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[🧙‍♀️ 마녀 아가씨, 오랜만이네? ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20264?productType=movie</link>
@@ -162,7 +169,7 @@
             <title><![CDATA[리벤저스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 15 Jul 2022 01:54:27 GMT</pubDate>
+            <pubDate>Fri, 15 Jul 2022 03:57:15 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210902_250/1630560723994mJxyM_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -170,7 +177,7 @@
             <title><![CDATA[트립 투 아메리카 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 15 Jul 2022 01:54:27 GMT</pubDate>
+            <pubDate>Fri, 15 Jul 2022 03:57:15 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210408_42/16178433519650Fboy_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -178,7 +185,7 @@
             <title><![CDATA[반교: 디텐션 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 15 Jul 2022 01:54:27 GMT</pubDate>
+            <pubDate>Fri, 15 Jul 2022 03:57:15 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200813_98/15973043908847Ojuu_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -186,7 +193,7 @@
             <title><![CDATA[부다페스트 로큰롤 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 15 Jul 2022 01:54:27 GMT</pubDate>
+            <pubDate>Fri, 15 Jul 2022 03:57:15 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200811_248/1597124726849gBB2o_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -194,7 +201,7 @@
             <title><![CDATA[세이브 솔져스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 15 Jul 2022 01:54:27 GMT</pubDate>
+            <pubDate>Fri, 15 Jul 2022 03:57:15 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200630_2/1593506217141wVRl7_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
