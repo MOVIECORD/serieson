@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 15:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 16:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,13 @@
             <content:encoded><![CDATA[<a href="/events/20264?productType=movie" class="" onclick="nclk(this, 'mov.list', '20264', '');">🧙‍♀️ 마녀 아가씨, 오랜만이네?</a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[😎 담당자 PICK! 이왕이면 시리즈 한 번에 소장하자! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20266?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20266?productType=movie</guid>
+            <pubDate>Tue, 19 Jul 2022 16:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20266?productType=movie" class="" onclick="nclk(this, 'mov.list', '20266', '');">😎 담당자 PICK! 이왕이면 시리즈 한 번에 소장하자!</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[👰🏻 HBO MAX 1위 찍은 그 작품의 국내 최초 공개! 현대판 로미오와 줄리엣 ‘신부의 아버지’ ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20262?productType=movie</link>
             <guid>https://serieson.naver.com/events/20262?productType=movie</guid>
@@ -36,13 +43,6 @@
             <content:encoded><![CDATA[<a href="/events/20256?productType=movie" class="" onclick="nclk(this, 'mov.list', '20256', '');">🍼 '브로커' 오픈! 할인해줘서 고마워!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력' ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20261?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20261?productType=movie</guid>
-            <pubDate>Mon, 11 Jul 2022 15:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20261?productType=movie" class="" onclick="nclk(this, 'mov.list', '20261', '');">😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력'</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20260?productType=movie</link>
             <guid>https://serieson.naver.com/events/20260?productType=movie</guid>
@@ -50,11 +50,25 @@
             <content:encoded><![CDATA[<a href="/events/20260?productType=movie" class="" onclick="nclk(this, 'mov.list', '20260', '');">🎁 네이버 멤버십 영화 무제한을 소개합니다!</a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력' ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20261?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20261?productType=movie</guid>
+            <pubDate>Mon, 11 Jul 2022 15:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20261?productType=movie" class="" onclick="nclk(this, 'mov.list', '20261', '');">😎 데드풀 제작진 X 니콜라스 케이지의 대환장 브로맨스 '미친 능력'</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[🔥 열대야를 책임질 HOT한 영화 반값 할인! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20259?productType=movie</link>
             <guid>https://serieson.naver.com/events/20259?productType=movie</guid>
             <pubDate>Thu, 07 Jul 2022 06:22:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20259?productType=movie" class="" onclick="nclk(this, 'mov.list', '20259', '');">🔥 열대야를 책임질 HOT한 영화 반값 할인!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20268?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20268?productType=movie</guid>
+            <pubDate>Tue, 19 Jul 2022 16:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20268?productType=movie" class="" onclick="nclk(this, 'mov.list', '20268', '');">✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[22년 7월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
@@ -155,7 +169,7 @@
             <title><![CDATA[리벤저스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 19 Jul 2022 15:21:19 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 16:26:14 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210902_250/1630560723994mJxyM_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -163,7 +177,7 @@
             <title><![CDATA[트립 투 아메리카 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 19 Jul 2022 15:21:19 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 16:26:14 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210408_42/16178433519650Fboy_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -171,7 +185,7 @@
             <title><![CDATA[반교: 디텐션 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 19 Jul 2022 15:21:19 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 16:26:14 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200813_98/15973043908847Ojuu_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -179,7 +193,7 @@
             <title><![CDATA[부다페스트 로큰롤 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 19 Jul 2022 15:21:19 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 16:26:14 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200811_248/1597124726849gBB2o_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -187,7 +201,7 @@
             <title><![CDATA[세이브 솔져스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 19 Jul 2022 15:21:19 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 16:26:14 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200630_2/1593506217141wVRl7_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
