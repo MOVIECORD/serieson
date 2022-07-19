@@ -4,15 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 14:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 15:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[👊 올해 최초 천만 돌파 그 영화 ‘범죄도시 2’ 4천 캐시와 함께 예약 구매 시작! ([시리즈온] 이벤트)]]></title>
+            <title><![CDATA[👊 업그레이드된 말맛 & 손맛으로 더 시원하게 터지는 ‘범죄도시2’ ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20265?productType=movie</link>
             <guid>https://serieson.naver.com/events/20265?productType=movie</guid>
             <pubDate>Mon, 18 Jul 2022 01:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20265?productType=movie" class="" onclick="nclk(this, 'mov.list', '20265', '');">👊 올해 최초 천만 돌파 그 영화 ‘범죄도시 2’ 4천 캐시와 함께 예약 구매 시작! </a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/events/20265?productType=movie" class="" onclick="nclk(this, 'mov.list', '20265', '');">👊 업그레이드된 말맛 &amp; 손맛으로 더 시원하게 터지는 ‘범죄도시2’ </a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🧙‍♀️ 마녀 아가씨, 오랜만이네? ([시리즈온] 이벤트)]]></title>
@@ -20,20 +20,6 @@
             <guid>https://serieson.naver.com/events/20264?productType=movie</guid>
             <pubDate>Wed, 13 Jul 2022 16:26:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20264?productType=movie" class="" onclick="nclk(this, 'mov.list', '20264', '');">🧙‍♀️ 마녀 아가씨, 오랜만이네?</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🦖지상 최대 블록버스터의 압도적 피날레! '쥬라기월드: 도미니언' 시리즈온 개장! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20258?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20258?productType=movie</guid>
-            <pubDate>Tue, 05 Jul 2022 15:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20258?productType=movie" class="" onclick="nclk(this, 'mov.list', '20258', '');">🦖지상 최대 블록버스터의 압도적 피날레! '쥬라기월드: 도미니언' 시리즈온 개장!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🥳 오랜마니언! 미니언즈 좋아한다면 지금이 기회언! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20263?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20263?productType=movie</guid>
-            <pubDate>Tue, 12 Jul 2022 15:29:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20263?productType=movie" class="" onclick="nclk(this, 'mov.list', '20263', '');">🥳 오랜마니언! 미니언즈 좋아한다면 지금이 기회언!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[👰🏻 HBO MAX 1위 찍은 그 작품의 국내 최초 공개! 현대판 로미오와 줄리엣 ‘신부의 아버지’ ([시리즈온] 이벤트)]]></title>
@@ -169,7 +155,7 @@
             <title><![CDATA[리벤저스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 19 Jul 2022 14:17:16 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 15:21:19 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210902_250/1630560723994mJxyM_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -177,7 +163,7 @@
             <title><![CDATA[트립 투 아메리카 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 19 Jul 2022 14:17:16 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 15:21:19 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210408_42/16178433519650Fboy_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -185,7 +171,7 @@
             <title><![CDATA[반교: 디텐션 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 19 Jul 2022 14:17:16 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 15:21:19 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200813_98/15973043908847Ojuu_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -193,7 +179,7 @@
             <title><![CDATA[부다페스트 로큰롤 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 19 Jul 2022 14:17:16 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 15:21:19 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200811_248/1597124726849gBB2o_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -201,7 +187,7 @@
             <title><![CDATA[세이브 솔져스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 19 Jul 2022 14:17:16 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 15:21:19 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200630_2/1593506217141wVRl7_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
