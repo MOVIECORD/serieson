@@ -4,16 +4,64 @@
         <title>모바일 네이버 시리즈온 ─ 무료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 14:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 15:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[나의 인생여행]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/412855</link>
-            <guid>https://m.serieson.naver.com/v2/movie/412855</guid>
-            <pubDate>Thu, 14 Jul 2022 15:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[7월 21일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201104_54/1604465196745zrUWn_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <title><![CDATA[리벤저스]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/462173</link>
+            <guid>https://m.serieson.naver.com/v2/movie/462173</guid>
+            <pubDate>Thu, 21 Jul 2022 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[7월 28일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210902_250/1630560723994mJxyM_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트립 투 아메리카]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/436421</link>
+            <guid>https://m.serieson.naver.com/v2/movie/436421</guid>
+            <pubDate>Thu, 21 Jul 2022 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[8월 4일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210408_42/16178433519650Fboy_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반교: 디텐션]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/396617</link>
+            <guid>https://m.serieson.naver.com/v2/movie/396617</guid>
+            <pubDate>Thu, 21 Jul 2022 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[8월 4일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200813_98/15973043908847Ojuu_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부다페스트 로큰롤]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/264110</link>
+            <guid>https://m.serieson.naver.com/v2/movie/264110</guid>
+            <pubDate>Thu, 21 Jul 2022 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[8월 4일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200811_248/1597124726849gBB2o_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세이브 솔져스]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/373750</link>
+            <guid>https://m.serieson.naver.com/v2/movie/373750</guid>
+            <pubDate>Thu, 21 Jul 2022 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[8월 4일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200630_2/1593506217141wVRl7_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반딧불이 정원]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/243440</link>
+            <guid>https://m.serieson.naver.com/v2/movie/243440</guid>
+            <pubDate>Thu, 21 Jul 2022 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[8월 4일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220713_288/1657690020743bYyVR_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3953.EBB098EB94A7EBB688EC9D.png?type=w320_r145" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이 캣]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/477881</link>
+            <guid>https://m.serieson.naver.com/v2/movie/477881</guid>
+            <pubDate>Thu, 21 Jul 2022 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[8월 4일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211112_281/1636679389835LjNzw_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[런던 타운]]></title>
@@ -56,84 +104,36 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20220630_149/1656559563856fvaRH_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3845.EB9E98EBB997.png?type=w320_r145" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[비커밍 제인]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/321251</link>
-            <guid>https://m.serieson.naver.com/v2/movie/321251</guid>
-            <pubDate>Thu, 07 Jul 2022 15:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[7월 21일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200513_103/1589332405875VwYMY_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10년]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/336025</link>
-            <guid>https://m.serieson.naver.com/v2/movie/336025</guid>
-            <pubDate>Thu, 07 Jul 2022 15:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[7월 21일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20191120_7/15742132863658HGFL_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워터 디바이너]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/478919</link>
-            <guid>https://m.serieson.naver.com/v2/movie/478919</guid>
-            <pubDate>Thu, 07 Jul 2022 15:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[7월 21일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150116_94/14213729886205WUiY_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리스 헤지나]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/215765</link>
-            <guid>https://m.serieson.naver.com/v2/movie/215765</guid>
-            <pubDate>Thu, 07 Jul 2022 15:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[7월 21일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20220627_209/1656311458361HTtQw_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3820.EC9798EBA6ACEC8AA4ED97.png?type=w320_r145" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[히어로즈 앤 카워즈]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/442937</link>
-            <guid>https://m.serieson.naver.com/v2/movie/442937</guid>
-            <pubDate>Thu, 07 Jul 2022 15:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[7월 21일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210525_290/1621907495890sQlgj_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리벤저스]]></title>
+            <title><![CDATA[운디네]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 21 Jul 2022 14:16:46 GMT</pubDate>
+            <pubDate>Thu, 21 Jul 2022 15:19:53 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210902_250/1630560723994mJxyM_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20201203_42/1606961784754hFbwE_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트립 투 아메리카]]></title>
+            <title><![CDATA[킬러의 보디가드 2]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 21 Jul 2022 14:16:46 GMT</pubDate>
+            <pubDate>Thu, 21 Jul 2022 15:19:53 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210408_42/16178433519650Fboy_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20210624_286/1624496856988kAD9f_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[반교: 디텐션]]></title>
+            <title><![CDATA[그리고 우린 춤을 추었다]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 21 Jul 2022 14:16:46 GMT</pubDate>
+            <pubDate>Thu, 21 Jul 2022 15:19:53 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200813_98/15973043908847Ojuu_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20201106_164/1604629218336jHBEf_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[부다페스트 로큰롤]]></title>
+            <title><![CDATA[밤쉘: 세상을 바꾼 폭탄선언]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 21 Jul 2022 14:16:46 GMT</pubDate>
+            <pubDate>Thu, 21 Jul 2022 15:19:53 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200811_248/1597124726849gBB2o_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세이브 솔져스]]></title>
-            <link>https://m.serieson.naver.com/free</link>
-            <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 21 Jul 2022 14:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200630_2/1593506217141wVRl7_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220603_62/16542292347742rKL6_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3653.EBB0A4EC8998_%2BEC84B8EC.png?type=w320_r145" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
