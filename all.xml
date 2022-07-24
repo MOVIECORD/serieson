@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 14:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 15:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,13 +34,6 @@
             <guid>https://serieson.naver.com/events/20262?productType=movie</guid>
             <pubDate>Tue, 12 Jul 2022 15:29:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20262?productType=movie" class="" onclick="nclk(this, 'mov.list', '20262', '');">👰🏻 HBO MAX 1위 찍은 그 작품의 국내 최초 공개! 현대판 로미오와 줄리엣 ‘신부의 아버지’</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🍼 '브로커' 오픈! 할인해줘서 고마워! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20256?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20256?productType=movie</guid>
-            <pubDate>Mon, 04 Jul 2022 03:50:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20256?productType=movie" class="" onclick="nclk(this, 'mov.list', '20256', '');">🍼 '브로커' 오픈! 할인해줘서 고마워!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다! ([시리즈온] 이벤트)]]></title>
@@ -170,7 +163,7 @@
             <title><![CDATA[운디네 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 24 Jul 2022 14:16:06 GMT</pubDate>
+            <pubDate>Sun, 24 Jul 2022 15:18:04 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201203_42/1606961784754hFbwE_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -178,7 +171,7 @@
             <title><![CDATA[킬러의 보디가드 2 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 24 Jul 2022 14:16:06 GMT</pubDate>
+            <pubDate>Sun, 24 Jul 2022 15:18:04 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210624_286/1624496856988kAD9f_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -186,7 +179,7 @@
             <title><![CDATA[그리고 우린 춤을 추었다 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 24 Jul 2022 14:16:06 GMT</pubDate>
+            <pubDate>Sun, 24 Jul 2022 15:18:04 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201106_164/1604629218336jHBEf_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -194,7 +187,7 @@
             <title><![CDATA[밤쉘: 세상을 바꾼 폭탄선언 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 24 Jul 2022 14:16:06 GMT</pubDate>
+            <pubDate>Sun, 24 Jul 2022 15:18:04 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220603_62/16542292347742rKL6_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3653.EBB0A4EC8998_%2BEC84B8EC.png?type=w320_r145" length="0" type="image/png"/>
         </item>
