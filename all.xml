@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 15:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 16:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>https://serieson.naver.com/events/20264?productType=movie</guid>
             <pubDate>Wed, 13 Jul 2022 16:26:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20264?productType=movie" class="" onclick="nclk(this, 'mov.list', '20264', '');">🧙‍♀️ 마녀 아가씨, 오랜만이네?</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💥장혁의 폭주하는 킬러 본능! ‘더 킬러: 죽어도 되는 아이’ 경품 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20272?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20272?productType=movie</guid>
+            <pubDate>Tue, 26 Jul 2022 16:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20272?productType=movie" class="" onclick="nclk(this, 'mov.list', '20272', '');">💥장혁의 폭주하는 킬러 본능! ‘더 킬러: 죽어도 되는 아이’ 경품 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[😎 담당자 PICK! 이왕이면 시리즈 한 번에 소장하자! ([시리즈온] 이벤트)]]></title>
@@ -149,7 +156,7 @@
             <title><![CDATA[운디네 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 26 Jul 2022 15:20:13 GMT</pubDate>
+            <pubDate>Tue, 26 Jul 2022 16:25:07 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201203_42/1606961784754hFbwE_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -157,7 +164,7 @@
             <title><![CDATA[킬러의 보디가드 2 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 26 Jul 2022 15:20:13 GMT</pubDate>
+            <pubDate>Tue, 26 Jul 2022 16:25:07 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210624_286/1624496856988kAD9f_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -165,7 +172,7 @@
             <title><![CDATA[그리고 우린 춤을 추었다 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 26 Jul 2022 15:20:13 GMT</pubDate>
+            <pubDate>Tue, 26 Jul 2022 16:25:07 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201106_164/1604629218336jHBEf_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -173,7 +180,7 @@
             <title><![CDATA[밤쉘: 세상을 바꾼 폭탄선언 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 26 Jul 2022 15:20:13 GMT</pubDate>
+            <pubDate>Tue, 26 Jul 2022 16:25:07 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220603_62/16542292347742rKL6_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3653.EBB0A4EC8998_%2BEC84B8EC.png?type=w320_r145" length="0" type="image/png"/>
         </item>
