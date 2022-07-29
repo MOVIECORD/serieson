@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 23:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 01:51:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://serieson.naver.com/events/20265?productType=movie</guid>
             <pubDate>Mon, 18 Jul 2022 01:43:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20265?productType=movie" class="" onclick="nclk(this, 'mov.list', '20265', '');">👊 업그레이드된 말맛 &amp; 손맛으로 더 시원하게 터지는 ‘범죄도시2’ </a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🧙‍♂️ 소장각 세게 잡혔다! '해리포터 20주년:리턴 투 호그와트 패키지' ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20275?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20275?productType=movie</guid>
+            <pubDate>Fri, 29 Jul 2022 01:51:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20275?productType=movie" class="" onclick="nclk(this, 'mov.list', '20275', '');">🧙‍♂️ 소장각 세게 잡혔다! '해리포터 20주년:리턴 투 호그와트 패키지'</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🧙‍♀️ 마녀 아가씨, 오랜만이네? ([시리즈온] 이벤트)]]></title>
