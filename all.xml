@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 14:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 15:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,13 +62,6 @@
             <guid>https://serieson.naver.com/events/20268?productType=movie</guid>
             <pubDate>Tue, 19 Jul 2022 16:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20268?productType=movie" class="" onclick="nclk(this, 'mov.list', '20268', '');">✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[22년 7월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20254?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20254?productType=movie</guid>
-            <pubDate>Thu, 30 Jun 2022 15:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20254?productType=movie" class="" onclick="nclk(this, 'mov.list', '20254', '');">22년 7월 우수 이용자! 꼭 확인해보자!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[운디네 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -170,7 +163,7 @@
             <title><![CDATA[더 레터 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 31 Jul 2022 14:16:11 GMT</pubDate>
+            <pubDate>Sun, 31 Jul 2022 15:17:39 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20130819_121/1376881567482W1nkh_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -178,7 +171,7 @@
             <title><![CDATA[다시 사랑할 수 있을까? (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 31 Jul 2022 14:16:11 GMT</pubDate>
+            <pubDate>Sun, 31 Jul 2022 15:17:39 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_162/1324629246013rNjmO_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -186,7 +179,7 @@
             <title><![CDATA[굴뚝마을의 푸펠 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 31 Jul 2022 14:16:11 GMT</pubDate>
+            <pubDate>Sun, 31 Jul 2022 15:17:39 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210506_164/1620277609542X5o2T_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -194,7 +187,7 @@
             <title><![CDATA[나의 밤은 당신의 낮보다 아름답다 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 31 Jul 2022 14:16:11 GMT</pubDate>
+            <pubDate>Sun, 31 Jul 2022 15:17:39 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111212_21/1323671052877NADAr_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
