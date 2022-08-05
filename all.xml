@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 23:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 01:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,12 +64,12 @@
             <content:encoded><![CDATA[<a href="/events/20274?productType=movie" class="" onclick="nclk(this, 'mov.list', '20274', '');">22년 8월 우수 이용자! 꼭 확인해보자!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[더 레터 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/470084</link>
-            <guid>https://m.serieson.naver.com/v2/movie/470084</guid>
+            <title><![CDATA[굴뚝마을의 푸펠 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/446206</link>
+            <guid>https://m.serieson.naver.com/v2/movie/446206</guid>
             <pubDate>Thu, 04 Aug 2022 16:27:10 GMT</pubDate>
             <content:encoded><![CDATA[8월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20130819_121/1376881567482W1nkh_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20210506_164/1620277609542X5o2T_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 사랑할 수 있을까? (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -80,12 +80,12 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111223_162/1324629246013rNjmO_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굴뚝마을의 푸펠 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/446206</link>
-            <guid>https://m.serieson.naver.com/v2/movie/446206</guid>
+            <title><![CDATA[더 레터 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/470084</link>
+            <guid>https://m.serieson.naver.com/v2/movie/470084</guid>
             <pubDate>Thu, 04 Aug 2022 16:27:10 GMT</pubDate>
             <content:encoded><![CDATA[8월 18일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210506_164/1620277609542X5o2T_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20130819_121/1376881567482W1nkh_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나의 밤은 당신의 낮보다 아름답다 (모바일 네이버 시리즈온 ─ 무료)]]></title>
