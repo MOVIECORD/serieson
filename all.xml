@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 09:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 10:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,13 +27,6 @@
             <guid>https://serieson.naver.com/events/20275?productType=movie</guid>
             <pubDate>Fri, 29 Jul 2022 01:51:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20275?productType=movie" class="" onclick="nclk(this, 'mov.list', '20275', '');">🧙‍♂️ 소장각 세게 잡혔다! '해리포터 20주년:리턴 투 호그와트 패키지'</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🧙‍♀️ 마녀 아가씨, 오랜만이네? ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20264?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20264?productType=movie</guid>
-            <pubDate>Wed, 13 Jul 2022 16:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20264?productType=movie" class="" onclick="nclk(this, 'mov.list', '20264', '');">🧙‍♀️ 마녀 아가씨, 오랜만이네?</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💥장혁의 폭주하는 킬러 본능! ‘더 킬러: 죽어도 되는 아이’ 경품 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -163,7 +156,7 @@
             <title><![CDATA[악셀 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 05 Aug 2022 09:17:51 GMT</pubDate>
+            <pubDate>Fri, 05 Aug 2022 10:19:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180205_54/1517795220528wAadW_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -171,7 +164,7 @@
             <title><![CDATA[뉴욕 아이 러브 유 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 05 Aug 2022 09:17:51 GMT</pubDate>
+            <pubDate>Fri, 05 Aug 2022 10:19:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220113_53/1642062328621ohdJi_PNG/ONPOSTER_3050.___.png?type=w320_r145" length="0" type="image/png"/>
         </item>
@@ -179,7 +172,7 @@
             <title><![CDATA[파밍 보이즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 05 Aug 2022 09:17:51 GMT</pubDate>
+            <pubDate>Fri, 05 Aug 2022 10:19:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170628_5/149861218190464Hlx_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -187,7 +180,7 @@
             <title><![CDATA[알렉스의 상상은 현실이 된다 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 05 Aug 2022 09:17:51 GMT</pubDate>
+            <pubDate>Fri, 05 Aug 2022 10:19:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211025_260/1635151719021NxhUQ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
