@@ -4,15 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 14:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 15:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[💗 혜택 줄 결심! '헤어질 결심'이 왔어요! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20278?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20278?productType=movie</guid>
-            <pubDate>Thu, 04 Aug 2022 01:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20278?productType=movie" class="" onclick="nclk(this, 'mov.list', '20278', '');">💗 혜택 줄 결심! '헤어질 결심'이 왔어요!</a>]]></content:encoded>
+            <title><![CDATA[💙 오픈했구나! 드.디.어. '헤어질 결심' ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20280?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20280?productType=movie</guid>
+            <pubDate>Mon, 08 Aug 2022 15:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20280?productType=movie" class="" onclick="nclk(this, 'mov.list', '20280', '');">💙 오픈했구나! 드.디.어. '헤어질 결심'</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🚀 '토이스토리' 첫 스핀오프 시리즈온 상륙! '버즈 라이트이어' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -20,6 +20,13 @@
             <guid>https://serieson.naver.com/events/20277?productType=movie</guid>
             <pubDate>Tue, 02 Aug 2022 15:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20277?productType=movie" class="" onclick="nclk(this, 'mov.list', '20277', '');">🚀 '토이스토리' 첫 스핀오프 시리즈온 상륙! '버즈 라이트이어' 경품 이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🤍 호아킨 피닉스 X A24 제작의 힐링 로드무비가 왔다! 경품과 함께 지금 ‘컴온 컴온’! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20279?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20279?productType=movie</guid>
+            <pubDate>Mon, 08 Aug 2022 15:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20279?productType=movie" class="" onclick="nclk(this, 'mov.list', '20279', '');">🤍 호아킨 피닉스 X A24 제작의 힐링 로드무비가 왔다! 경품과 함께 지금 ‘컴온 컴온’!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🧙‍♂️ 소장각 세게 잡혔다! '해리포터 20주년:리턴 투 호그와트 패키지' ([시리즈온] 이벤트)]]></title>
@@ -163,7 +170,7 @@
             <title><![CDATA[악셀 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 08 Aug 2022 14:18:26 GMT</pubDate>
+            <pubDate>Mon, 08 Aug 2022 15:20:53 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180205_54/1517795220528wAadW_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -171,7 +178,7 @@
             <title><![CDATA[뉴욕 아이 러브 유 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 08 Aug 2022 14:18:26 GMT</pubDate>
+            <pubDate>Mon, 08 Aug 2022 15:20:53 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220113_53/1642062328621ohdJi_PNG/ONPOSTER_3050.___.png?type=w320_r145" length="0" type="image/png"/>
         </item>
@@ -179,7 +186,7 @@
             <title><![CDATA[파밍 보이즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 08 Aug 2022 14:18:26 GMT</pubDate>
+            <pubDate>Mon, 08 Aug 2022 15:20:53 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170628_5/149861218190464Hlx_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -187,7 +194,7 @@
             <title><![CDATA[알렉스의 상상은 현실이 된다 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 08 Aug 2022 14:18:26 GMT</pubDate>
+            <pubDate>Mon, 08 Aug 2022 15:20:53 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211025_260/1635151719021NxhUQ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
