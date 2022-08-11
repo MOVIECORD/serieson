@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 08:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 09:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎖️ '탑건: 매버릭' 얼리버드 출시! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20286?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20286?productType=movie</guid>
+            <pubDate>Thu, 11 Aug 2022 09:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20286?productType=movie" class="" onclick="nclk(this, 'mov.list', '20286', '');">🎖️ '탑건: 매버릭' 얼리버드 출시!</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[💙 오픈했구나! 드.디.어. '헤어질 결심' ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20280?productType=movie</link>
@@ -177,7 +184,7 @@
             <title><![CDATA[악셀 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 11 Aug 2022 08:21:23 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2022 09:18:12 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180205_54/1517795220528wAadW_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -185,7 +192,7 @@
             <title><![CDATA[뉴욕 아이 러브 유 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 11 Aug 2022 08:21:23 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2022 09:18:12 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220113_53/1642062328621ohdJi_PNG/ONPOSTER_3050.___.png?type=w320_r145" length="0" type="image/png"/>
         </item>
@@ -193,7 +200,7 @@
             <title><![CDATA[파밍 보이즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 11 Aug 2022 08:21:23 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2022 09:18:12 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170628_5/149861218190464Hlx_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -201,7 +208,7 @@
             <title><![CDATA[알렉스의 상상은 현실이 된다 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 11 Aug 2022 08:21:23 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2022 09:18:12 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211025_260/1635151719021NxhUQ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
