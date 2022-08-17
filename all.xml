@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 14:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 15:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,13 @@
             <guid>https://serieson.naver.com/events/20285?productType=movie</guid>
             <pubDate>Thu, 11 Aug 2022 06:24:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20285?productType=movie" class="" onclick="nclk(this, 'mov.list', '20285', '');">🎸 영원한 슈퍼스타! '엘비스' 오픈 이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎒 방학의 끝을 잡고♪ 신나는 애니 파티! 인기 애니메이션 할인전 ‘백 투 스쿨’ ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20290?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20290?productType=movie</guid>
+            <pubDate>Wed, 17 Aug 2022 15:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20290?productType=movie" class="" onclick="nclk(this, 'mov.list', '20290', '');">🎒 방학의 끝을 잡고♪ 신나는 애니 파티! 인기 애니메이션 할인전 ‘백 투 스쿨’</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🤍 호아킨 피닉스 X A24 제작의 힐링 로드무비가 왔다! 경품과 함께 지금 ‘컴온 컴온’! ([시리즈온] 이벤트)]]></title>
@@ -163,7 +170,7 @@
             <title><![CDATA[인피델 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 17 Aug 2022 14:22:43 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2022 15:20:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210720_175/1626756408676gipHQ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -171,7 +178,7 @@
             <title><![CDATA[펠리칸 베이커리 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 17 Aug 2022 14:22:43 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2022 15:20:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200326_197/1585210508393NwqfR_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -179,7 +186,7 @@
             <title><![CDATA[나와 언니와 셀린 디온 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 17 Aug 2022 14:22:43 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2022 15:20:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201117_237/1605595301373vl9kK_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -187,7 +194,7 @@
             <title><![CDATA[노크: 낯선 그림자 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 17 Aug 2022 14:22:43 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2022 15:20:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20191119_17/1574125945445CJyKt_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
