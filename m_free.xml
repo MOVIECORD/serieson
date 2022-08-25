@@ -4,16 +4,64 @@
         <title>모바일 네이버 시리즈온 ─ 무료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 14:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 15:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[인피델]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/452264</link>
-            <guid>https://m.serieson.naver.com/v2/movie/452264</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[8월 25일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210720_175/1626756408676gipHQ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/456470</link>
+            <guid>https://m.serieson.naver.com/v2/movie/456470</guid>
+            <pubDate>Thu, 25 Aug 2022 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[9월 8일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210818_291/1629279271873OcESQ_JPEG/_KB2_PO_A.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아스널: 리로디드]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/200813</link>
+            <guid>https://m.serieson.naver.com/v2/movie/200813</guid>
+            <pubDate>Thu, 25 Aug 2022 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[9월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170927_46/1506492510063KE2HC_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너의 이름은.]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/195926</link>
+            <guid>https://m.serieson.naver.com/v2/movie/195926</guid>
+            <pubDate>Thu, 25 Aug 2022 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[9월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171222_70/1513920001726sikUX_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이터널 코드]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/367655</link>
+            <guid>https://m.serieson.naver.com/v2/movie/367655</guid>
+            <pubDate>Thu, 25 Aug 2022 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[9월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200413_131/15867496364645hIdE_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원스 폴른]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/484006</link>
+            <guid>https://m.serieson.naver.com/v2/movie/484006</guid>
+            <pubDate>Thu, 25 Aug 2022 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[9월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20161107_78/1478482368180q1qpk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 로드]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/415748</link>
+            <guid>https://m.serieson.naver.com/v2/movie/415748</guid>
+            <pubDate>Thu, 25 Aug 2022 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[9월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201221_295/1608528031316N3WUp_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[렛츠 댄스 : 라스트 배틀]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/421970</link>
+            <guid>https://m.serieson.naver.com/v2/movie/421970</guid>
+            <pubDate>Thu, 25 Aug 2022 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[9월 1일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220811_192/1660187995765memAy_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_4163.EBA09BECB8A0%2BEB8C84EC8.png?type=w320_r145" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[펠리칸 베이커리]]></title>
@@ -54,86 +102,6 @@
             <pubDate>Wed, 24 Aug 2022 09:17:47 GMT</pubDate>
             <content:encoded><![CDATA[9월 1일까지]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220617_130/1655436589799plnuh_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3784.EBAAACEC8AA4ED84B0ED97.png?type=w320_r145" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[악셀]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/225934</link>
-            <guid>https://m.serieson.naver.com/v2/movie/225934</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[8월 25일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180205_54/1517795220528wAadW_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕 아이 러브 유]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/150503</link>
-            <guid>https://m.serieson.naver.com/v2/movie/150503</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[8월 25일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20220113_53/1642062328621ohdJi_PNG/ONPOSTER_3050.___.png?type=w320_r145" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파밍 보이즈]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/195979</link>
-            <guid>https://m.serieson.naver.com/v2/movie/195979</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[8월 25일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170628_5/149861218190464Hlx_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알렉스의 상상은 현실이 된다]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/470141</link>
-            <guid>https://m.serieson.naver.com/v2/movie/470141</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[8월 25일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20211025_260/1635151719021NxhUQ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피어썸]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/466243</link>
-            <guid>https://m.serieson.naver.com/v2/movie/466243</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[8월 25일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210917_247/1631854202877hx03Y_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매직빈]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/232177</link>
-            <guid>https://m.serieson.naver.com/v2/movie/232177</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[8월 25일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20220706_260/1657098083942V6tqB_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3904.EBA7A4ECA781EBB988.png?type=w320_r145" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프]]></title>
-            <link>https://m.serieson.naver.com/free</link>
-            <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 25 Aug 2022 14:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210818_291/1629279271873OcESQ_JPEG/_KB2_PO_A.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아스널: 리로디드]]></title>
-            <link>https://m.serieson.naver.com/free</link>
-            <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 25 Aug 2022 14:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170927_46/1506492510063KE2HC_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너의 이름은.]]></title>
-            <link>https://m.serieson.naver.com/free</link>
-            <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 25 Aug 2022 14:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171222_70/1513920001726sikUX_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이터널 코드]]></title>
-            <link>https://m.serieson.naver.com/free</link>
-            <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 25 Aug 2022 14:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200413_131/15867496364645hIdE_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
