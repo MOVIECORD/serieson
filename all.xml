@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 14:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 15:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,13 +29,6 @@
             <content:encoded><![CDATA[<a href="/events/20280?productType=movie" class="" onclick="nclk(this, 'mov.list', '20280', '');">💙 오픈했구나! 드.디.어. '헤어질 결심'</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🎒 방학의 끝을 잡고♪ 신나는 애니 파티! 인기 애니메이션 할인전 ‘백 투 스쿨’ ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20290?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20290?productType=movie</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20290?productType=movie" class="" onclick="nclk(this, 'mov.list', '20290', '');">🎒 방학의 끝을 잡고♪ 신나는 애니 파티! 인기 애니메이션 할인전 ‘백 투 스쿨’</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[🎁 네이버 멤버십 영화 무제한을 소개합니다! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20260?productType=movie</link>
             <guid>https://serieson.naver.com/events/20260?productType=movie</guid>
@@ -43,18 +36,11 @@
             <content:encoded><![CDATA[<a href="/events/20260?productType=movie" class="" onclick="nclk(this, 'mov.list', '20260', '');">🎁 네이버 멤버십 영화 무제한을 소개합니다!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20268?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20268?productType=movie</guid>
-            <pubDate>Tue, 30 Aug 2022 16:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20268?productType=movie" class="" onclick="nclk(this, 'mov.list', '20268', '');">✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[22년 8월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20274?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20274?productType=movie</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20274?productType=movie" class="" onclick="nclk(this, 'mov.list', '20274', '');">22년 8월 우수 이용자! 꼭 확인해보자!</a>]]></content:encoded>
+            <title><![CDATA[22년 9월 우수 이용자! 꼭 확인해보자! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20298?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20298?productType=movie</guid>
+            <pubDate>Wed, 31 Aug 2022 15:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20298?productType=movie" class="" onclick="nclk(this, 'mov.list', '20298', '');">22년 9월 우수 이용자! 꼭 확인해보자!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와이프 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -156,7 +142,7 @@
             <title><![CDATA[미트 페어런츠 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 31 Aug 2022 14:18:19 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2022 15:19:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_240/1324635427172vHxxV_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -164,7 +150,7 @@
             <title><![CDATA[페인 앤 게인 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 31 Aug 2022 14:18:19 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2022 15:19:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20121211_195/13552057700654jlEi_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -172,7 +158,7 @@
             <title><![CDATA[인투 더 와일드 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 31 Aug 2022 14:18:19 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2022 15:19:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_226/1324570317917Biitz_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -180,7 +166,7 @@
             <title><![CDATA[툼 레이더 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 31 Aug 2022 14:18:19 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2022 15:19:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211209_59/1639029293880p6BcV_JPEG/_TombRaider_KR_800x1200.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
