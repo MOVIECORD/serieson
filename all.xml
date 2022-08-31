@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 04:56:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 06:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[👨‍✈️ 끝나지 않은 '탑건: 매버릭' 프로모션! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20296?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20296?productType=movie</guid>
+            <pubDate>Wed, 31 Aug 2022 06:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20296?productType=movie" class="" onclick="nclk(this, 'mov.list', '20296', '');">👨‍✈️ 끝나지 않은 '탑건: 매버릭' 프로모션!</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[👽 '외계+인 1부' 소장하면 미공개 영상이!? ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20293?productType=movie</link>
@@ -149,7 +156,7 @@
             <title><![CDATA[미트 페어런츠 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 31 Aug 2022 04:55:52 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2022 06:24:53 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_240/1324635427172vHxxV_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -157,7 +164,7 @@
             <title><![CDATA[페인 앤 게인 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 31 Aug 2022 04:55:52 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2022 06:24:53 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20121211_195/13552057700654jlEi_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -165,7 +172,7 @@
             <title><![CDATA[인투 더 와일드 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 31 Aug 2022 04:55:52 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2022 06:24:53 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_226/1324570317917Biitz_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -173,7 +180,7 @@
             <title><![CDATA[툼 레이더 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Wed, 31 Aug 2022 04:55:52 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2022 06:24:53 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211209_59/1639029293880p6BcV_JPEG/_TombRaider_KR_800x1200.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
