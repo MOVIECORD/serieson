@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 14:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 15:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,13 +20,6 @@
             <guid>https://serieson.naver.com/events/20293?productType=movie</guid>
             <pubDate>Wed, 24 Aug 2022 09:17:38 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20293?productType=movie" class="" onclick="nclk(this, 'mov.list', '20293', '');">👽 '외계+인 1부' 소장하면 미공개 영상이!?</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[💙 오픈했구나! 드.디.어. '헤어질 결심' ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20280?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20280?productType=movie</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20280?productType=movie" class="" onclick="nclk(this, 'mov.list', '20280', '');">💙 오픈했구나! 드.디.어. '헤어질 결심'</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✅최신 영화 최고 혜택으로 보는 꿀팁! 네이버 플러스 멤버십 ([시리즈온] 이벤트)]]></title>
@@ -149,7 +142,7 @@
             <title><![CDATA[인생은 아름다워 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 05 Sep 2022 14:19:46 GMT</pubDate>
+            <pubDate>Mon, 05 Sep 2022 15:20:00 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20160321_156/14585243498978uRh9_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -157,7 +150,7 @@
             <title><![CDATA[트루먼 쇼 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 05 Sep 2022 14:19:46 GMT</pubDate>
+            <pubDate>Mon, 05 Sep 2022 15:20:00 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20181030_24/1540878641446PBOcp_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -165,7 +158,7 @@
             <title><![CDATA[공각기동대 : 고스트 인 더 쉘 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 05 Sep 2022 14:19:46 GMT</pubDate>
+            <pubDate>Mon, 05 Sep 2022 15:20:00 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170323_283/1490247365952HKKGB_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -173,7 +166,7 @@
             <title><![CDATA[줄무늬 파자마를 입은 소년 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 05 Sep 2022 14:19:46 GMT</pubDate>
+            <pubDate>Mon, 05 Sep 2022 15:20:00 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_70/1324549613512JaB1l_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
