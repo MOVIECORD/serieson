@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 23:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 01:53:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://serieson.naver.com/events/20307?productType=movie</guid>
             <pubDate>Wed, 07 Sep 2022 15:20:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20307?productType=movie" class="" onclick="nclk(this, 'mov.list', '20307', '');">⚡️ 지금 천둥의 스피드로 ‘토르: 러브 앤 썬더‘</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[☁️ 이런 영화 본 적 있으세요? NOPE! ‘놉’은 물론 ‘겟 아웃’ ‘어스’까지 쿠폰 지급! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20311?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20311?productType=movie</guid>
+            <pubDate>Wed, 14 Sep 2022 01:52:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20311?productType=movie" class="" onclick="nclk(this, 'mov.list', '20311', '');">☁️ 이런 영화 본 적 있으세요? NOPE! ‘놉’은 물론 ‘겟 아웃’ ‘어스’까지 쿠폰 지급!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎤에-오! 시리즈온 영화 무제한 X <보헤미안 랩소디> ([시리즈온] 이벤트)]]></title>
@@ -156,7 +163,7 @@
             <title><![CDATA[굿 윌 헌팅 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 13 Sep 2022 23:21:25 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 01:53:10 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20160810_49/14708058043034cuPp_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -164,7 +171,7 @@
             <title><![CDATA[트리플 엑스 리턴즈 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 13 Sep 2022 23:21:25 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 01:53:10 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170208_36/14865215818208kKCw_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -172,7 +179,7 @@
             <title><![CDATA[셔터 아일랜드 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 13 Sep 2022 23:21:25 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 01:53:10 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_134/13246055676979Y0FT_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -180,7 +187,7 @@
             <title><![CDATA[뷰티풀 마인드 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 13 Sep 2022 23:21:25 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 01:53:10 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111221_114/1324470706744EdNKe_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
