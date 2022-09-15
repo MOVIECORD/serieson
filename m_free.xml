@@ -4,9 +4,57 @@
         <title>모바일 네이버 시리즈온 ─ 무료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 14:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 15:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굿 윌 헌팅]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/143855</link>
+            <guid>https://m.serieson.naver.com/v2/movie/143855</guid>
+            <pubDate>Thu, 15 Sep 2022 15:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[9월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160810_49/14708058043034cuPp_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트리플 엑스 리턴즈]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/174335</link>
+            <guid>https://m.serieson.naver.com/v2/movie/174335</guid>
+            <pubDate>Thu, 15 Sep 2022 15:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[9월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170208_36/14865215818208kKCw_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셔터 아일랜드]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/86534</link>
+            <guid>https://m.serieson.naver.com/v2/movie/86534</guid>
+            <pubDate>Thu, 15 Sep 2022 15:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[9월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_134/13246055676979Y0FT_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뷰티풀 마인드]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/87854</link>
+            <guid>https://m.serieson.naver.com/v2/movie/87854</guid>
+            <pubDate>Thu, 15 Sep 2022 15:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[9월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111221_114/1324470706744EdNKe_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투 러버스]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/428070</link>
+            <guid>https://m.serieson.naver.com/v2/movie/428070</guid>
+            <pubDate>Thu, 15 Sep 2022 15:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[9월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140110_273/1389338340453v2bR3_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메이헴]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/222297</link>
+            <guid>https://m.serieson.naver.com/v2/movie/222297</guid>
+            <pubDate>Thu, 15 Sep 2022 15:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[9월 29일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210406_208/1617702133759Dc0Nx_JPEG/-_.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인생은 아름다워]]></title>
             <link>https://m.serieson.naver.com/v2/movie/144574</link>
@@ -56,84 +104,36 @@
             <enclosure url="https://movie-phinf.pstatic.net/20160901_187/1472711688297YP2jH_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미트 페어런츠]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/217740</link>
-            <guid>https://m.serieson.naver.com/v2/movie/217740</guid>
-            <pubDate>Mon, 05 Sep 2022 04:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[9월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_240/1324635427172vHxxV_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페인 앤 게인]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/168893</link>
-            <guid>https://m.serieson.naver.com/v2/movie/168893</guid>
-            <pubDate>Mon, 05 Sep 2022 04:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[9월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20121211_195/13552057700654jlEi_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인투 더 와일드]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/86416</link>
-            <guid>https://m.serieson.naver.com/v2/movie/86416</guid>
-            <pubDate>Mon, 05 Sep 2022 04:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[9월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_226/1324570317917Biitz_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[툼 레이더]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/476965</link>
-            <guid>https://m.serieson.naver.com/v2/movie/476965</guid>
-            <pubDate>Mon, 05 Sep 2022 04:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[9월 15일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211209_59/1639029293880p6BcV_JPEG/_TombRaider_KR_800x1200.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세렌디피티]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/143799</link>
-            <guid>https://m.serieson.naver.com/v2/movie/143799</guid>
-            <pubDate>Mon, 05 Sep 2022 04:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[9월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_191/13245519204174003f_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잉글리쉬 페이션트]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/144584</link>
-            <guid>https://m.serieson.naver.com/v2/movie/144584</guid>
-            <pubDate>Mon, 05 Sep 2022 04:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[9월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20161108_293/1478571228304RKilG_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿 윌 헌팅]]></title>
+            <title><![CDATA[마담 K]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 15 Sep 2022 14:25:52 GMT</pubDate>
+            <pubDate>Thu, 15 Sep 2022 15:21:05 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20160810_49/14708058043034cuPp_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220713_100/1657689692425f4qEn_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3943.EBA788EB8BB4%2BECBC80EC9.png?type=w320_r145" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[트리플 엑스 리턴즈]]></title>
+            <title><![CDATA[로봇 사용설명서]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 15 Sep 2022 14:25:52 GMT</pubDate>
+            <pubDate>Thu, 15 Sep 2022 15:21:05 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20170208_36/14865215818208kKCw_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220603_30/1654229397714swwLH_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3674.EBA19CEBB487%2BEC82ACEC9.png?type=w320_r145" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[셔터 아일랜드]]></title>
+            <title><![CDATA[그 누구도 아닌]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 15 Sep 2022 14:25:52 GMT</pubDate>
+            <pubDate>Thu, 15 Sep 2022 15:21:05 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_134/13246055676979Y0FT_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20200320_221/1584670987904hkMtx_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뷰티풀 마인드]]></title>
+            <title><![CDATA[엘리자의 내일]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 15 Sep 2022 14:25:52 GMT</pubDate>
+            <pubDate>Thu, 15 Sep 2022 15:21:05 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111221_114/1324470706744EdNKe_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20170719_59/1500427553573TC3Cy_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
