@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 10:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 11:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,13 @@
             <guid>https://serieson.naver.com/events/20316?productType=movie</guid>
             <pubDate>Thu, 15 Sep 2022 07:31:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20316?productType=movie" class="" onclick="nclk(this, 'mov.list', '20316', '');">🦇 배트맨 데이 기념! 배트맨 시리즈를 특별한 혜택으로!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[👀 연휴 끝! 혼자가 된 지금 보기 좋은 HOT한 영화 할인전! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20318?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20318?productType=movie</guid>
+            <pubDate>Fri, 16 Sep 2022 11:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20318?productType=movie" class="" onclick="nclk(this, 'mov.list', '20318', '');">👀 연휴 끝! 혼자가 된 지금 보기 좋은 HOT한 영화 할인전!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎁 영화 보기 딱 좋은 계절 가을! 가을맞이 천 원 쿠폰 무제한 선물 ([시리즈온] 이벤트)]]></title>
