@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 07:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 08:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>https://serieson.naver.com/events/20311?productType=movie</guid>
             <pubDate>Wed, 14 Sep 2022 01:52:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20311?productType=movie" class="" onclick="nclk(this, 'mov.list', '20311', '');">☁️ 이런 영화 본 적 있으세요? NOPE! ‘놉’은 물론 ‘겟 아웃’ ‘어스’까지 쿠폰 지급!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🛩️ 톰형과 함께, '미션임파서블7'을 기다리자! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20317?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20317?productType=movie</guid>
+            <pubDate>Fri, 16 Sep 2022 08:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20317?productType=movie" class="" onclick="nclk(this, 'mov.list', '20317', '');">🛩️ 톰형과 함께, '미션임파서블7'을 기다리자!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🦇 배트맨 데이 기념! 배트맨 시리즈를 특별한 혜택으로! ([시리즈온] 이벤트)]]></title>
@@ -177,7 +184,7 @@
             <title><![CDATA[마담 K (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 16 Sep 2022 07:29:22 GMT</pubDate>
+            <pubDate>Fri, 16 Sep 2022 08:24:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220713_100/1657689692425f4qEn_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3943.EBA788EB8BB4%2BECBC80EC9.png?type=w320_r145" length="0" type="image/png"/>
         </item>
@@ -185,7 +192,7 @@
             <title><![CDATA[로봇 사용설명서 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 16 Sep 2022 07:29:22 GMT</pubDate>
+            <pubDate>Fri, 16 Sep 2022 08:24:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220603_30/1654229397714swwLH_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3674.EBA19CEBB487%2BEC82ACEC9.png?type=w320_r145" length="0" type="image/png"/>
         </item>
@@ -193,7 +200,7 @@
             <title><![CDATA[그 누구도 아닌 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 16 Sep 2022 07:29:22 GMT</pubDate>
+            <pubDate>Fri, 16 Sep 2022 08:24:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200320_221/1584670987904hkMtx_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -201,7 +208,7 @@
             <title><![CDATA[엘리자의 내일 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Fri, 16 Sep 2022 07:29:22 GMT</pubDate>
+            <pubDate>Fri, 16 Sep 2022 08:24:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170719_59/1500427553573TC3Cy_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
