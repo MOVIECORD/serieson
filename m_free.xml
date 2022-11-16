@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.serieson.naver.com/free</id>
-    <title>모바일 네이버 시리즈온 ─ 무료</title>
-    <updated>2022-11-16T16:28:17.939Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ssl.pstatic.net/static/nstore/serieson_favicon_48.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>모바일 네이버 시리즈온 ─ 무료</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:23:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최후의 소녀]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/291665</link>
+            <guid>https://m.serieson.naver.com/v2/movie/291665</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190502_114/1556764618752rdzq0_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리미널 게임: 보석 사기단]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/267595</link>
+            <guid>https://m.serieson.naver.com/v2/movie/267595</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월 24일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181221_107/154537436479664zkb_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퓨쳐 월드]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/251800</link>
+            <guid>https://m.serieson.naver.com/v2/movie/251800</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월 24일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220728_197/1658978883160zqK6F_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_4060.ED93A8ECB390%2BEC9B94EB9.png?type=w320_r145" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[파리의 밤이 열리면]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/188323</link>
+            <guid>https://m.serieson.naver.com/v2/movie/188323</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월 24일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220713_38/16576896658462v9Aq_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3942.ED8C8CEBA6ACEC9D98%2BEBB.png?type=w320_r145" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오 마이 파파]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/166717</link>
+            <guid>https://m.serieson.naver.com/v2/movie/166717</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월 24일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220616_208/1655367873343f9qxo_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3773.EC98A4%2BEBA788EC9DB4%2BED.png?type=w320_r145" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[보스의 딸]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/151910</link>
+            <guid>https://m.serieson.naver.com/v2/movie/151910</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월 24일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220610_36/1654841468541dgRIj_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3708.EBB3B4EC8AA4EC9D98%2BEB9.png?type=w320_r145" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[남자들이 모르는 은밀한 것들]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/428080</link>
+            <guid>https://m.serieson.naver.com/v2/movie/428080</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_52/1324481442692wSrGu_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관종]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/225802</link>
+            <guid>https://m.serieson.naver.com/v2/movie/225802</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180226_122/151961273488325IDi_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플래시백]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/445208</link>
+            <guid>https://m.serieson.naver.com/v2/movie/445208</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210520_172/1621488726058avlYH_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 썸은 망했어]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/465480</link>
+            <guid>https://m.serieson.naver.com/v2/movie/465480</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210927_126/1632704489328kSsEa_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블라인드]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/439007</link>
+            <guid>https://m.serieson.naver.com/v2/movie/439007</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160114_124/1452734004311KHKzr_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트 오브 러브]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/97721</link>
+            <guid>https://m.serieson.naver.com/v2/movie/97721</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150617_210/1434527627582DRdWp_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 오렌지]]></title>
+            <link>https://m.serieson.naver.com/free</link>
+            <guid>https://m.serieson.naver.com/free</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150616_116/1434445943302J1ACx_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변산]]></title>
+            <link>https://m.serieson.naver.com/free</link>
+            <guid>https://m.serieson.naver.com/free</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180611_288/1528681584312lhsSF_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕 42번가 기타샵]]></title>
+            <link>https://m.serieson.naver.com/free</link>
+            <guid>https://m.serieson.naver.com/free</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180911_289/1536630923589zvc4R_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남북전쟁: 황야의 무법자]]></title>
+            <link>https://m.serieson.naver.com/free</link>
+            <guid>https://m.serieson.naver.com/free</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[오픈예정]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211118_228/1637219654516EIYEJ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
