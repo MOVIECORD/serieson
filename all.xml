@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 14:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 15:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,6 +27,13 @@
             <guid>https://serieson.naver.com/events/20365?productType=movie</guid>
             <pubDate>Thu, 17 Nov 2022 01:28:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20365?productType=movie" class="" onclick="nclk(this, 'mov.list', '20365', '');">🥳 수능 해방 기념! 시리즈온이 뽑은 추천 영화들!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[남주혁X이성민 필생의 복수극 '리멤버' 예약 구매 시작! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20366?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20366?productType=movie</guid>
+            <pubDate>Thu, 17 Nov 2022 15:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20366?productType=movie" class="" onclick="nclk(this, 'mov.list', '20366', '');">남주혁X이성민 필생의 복수극 '리멤버' 예약 구매 시작!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[👨🏻‍✈️ 한국형 어벤져스의 탄생! '공조2' 보면 1만 캐시 쏩니다! ([시리즈온] 이벤트)]]></title>
@@ -106,6 +113,54 @@
             <content:encoded><![CDATA[<a href="/events/20349?productType=movie" class="" onclick="nclk(this, 'mov.list', '20349', '');">22년 11월 우수 이용자! 꼭 확인해보자!</a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[크리스마스 오렌지 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/411294</link>
+            <guid>https://m.serieson.naver.com/v2/movie/411294</guid>
+            <pubDate>Thu, 17 Nov 2022 15:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[12월 1일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150616_116/1434445943302J1ACx_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변산 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/240555</link>
+            <guid>https://m.serieson.naver.com/v2/movie/240555</guid>
+            <pubDate>Thu, 17 Nov 2022 15:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[12월 1일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180611_288/1528681584312lhsSF_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕 42번가 기타샵 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/487175</link>
+            <guid>https://m.serieson.naver.com/v2/movie/487175</guid>
+            <pubDate>Thu, 17 Nov 2022 15:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[12월 1일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180911_289/1536630923589zvc4R_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남북전쟁: 황야의 무법자 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/482692</link>
+            <guid>https://m.serieson.naver.com/v2/movie/482692</guid>
+            <pubDate>Thu, 17 Nov 2022 15:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[12월 1일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211118_228/1637219654516EIYEJ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신조영웅 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/479607</link>
+            <guid>https://m.serieson.naver.com/v2/movie/479607</guid>
+            <pubDate>Thu, 17 Nov 2022 15:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[12월 1일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211105_290/16360917855054HypM_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[늑대소년의 모험 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/476325</link>
+            <guid>https://m.serieson.naver.com/v2/movie/476325</guid>
+            <pubDate>Thu, 17 Nov 2022 15:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[12월 1일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211201_224/1638322559763vk0FP_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최후의 소녀 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://m.serieson.naver.com/v2/movie/291665</link>
             <guid>https://m.serieson.naver.com/v2/movie/291665</guid>
@@ -154,84 +209,36 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20220610_36/1654841468541dgRIj_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3708.EBB3B4EC8AA4EC9D98%2BEB9.png?type=w320_r145" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[남자들이 모르는 은밀한 것들 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/428080</link>
-            <guid>https://m.serieson.naver.com/v2/movie/428080</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 17일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_52/1324481442692wSrGu_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관종 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/225802</link>
-            <guid>https://m.serieson.naver.com/v2/movie/225802</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 17일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180226_122/151961273488325IDi_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플래시백 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/445208</link>
-            <guid>https://m.serieson.naver.com/v2/movie/445208</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 17일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210520_172/1621488726058avlYH_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 썸은 망했어 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/465480</link>
-            <guid>https://m.serieson.naver.com/v2/movie/465480</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 17일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210927_126/1632704489328kSsEa_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블라인드 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/439007</link>
-            <guid>https://m.serieson.naver.com/v2/movie/439007</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 17일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20160114_124/1452734004311KHKzr_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트 오브 러브 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/97721</link>
-            <guid>https://m.serieson.naver.com/v2/movie/97721</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 17일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150617_210/1434527627582DRdWp_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 오렌지 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <title><![CDATA[파리, 13구 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 14:16:43 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 15:18:36 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150616_116/1434445943302J1ACx_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20220412_154/1649728583099XCGEh_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[변산 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <title><![CDATA[전설의 땁 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 14:16:43 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 15:18:36 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180611_288/1528681584312lhsSF_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220704_100/1656918437112yH2Jy_JPEG/ECA084EC84A4EC9D98%2BEB9581%2BED8FACEC8AA4ED84B0.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뉴욕 42번가 기타샵 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <title><![CDATA[실종: 사라진 소녀 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 14:16:43 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 15:18:36 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180911_289/1536630923589zvc4R_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20211206_256/1638755357806iN3n1_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[남북전쟁: 황야의 무법자 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <title><![CDATA[위험한 동거 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 14:16:43 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 15:18:36 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20211118_228/1637219654516EIYEJ_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20220530_41/16539005065717JY3X_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
