@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 14:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 15:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,6 +41,13 @@
             <guid>https://serieson.naver.com/events/20348?productType=movie</guid>
             <pubDate>Wed, 16 Nov 2022 17:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20348?productType=movie" class="" onclick="nclk(this, 'mov.list', '20348', '');">👨🏻‍✈️ 한국형 어벤져스의 탄생! '공조2' 보면 1만 캐시 쏩니다!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💚Barrier Free! 가치봄 무료 영화 왔어요! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20367?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20367?productType=movie</guid>
+            <pubDate>Sun, 20 Nov 2022 15:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20367?productType=movie" class="" onclick="nclk(this, 'mov.list', '20367', '');">💚Barrier Free! 가치봄 무료 영화 왔어요!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎶 K-맘마미아의 탄생! 한국 최초 뮤지컬 주크박스 영화 '인생은 아름다워' ([시리즈온] 이벤트)]]></title>
@@ -212,7 +219,7 @@
             <title><![CDATA[파리, 13구 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 20 Nov 2022 14:15:19 GMT</pubDate>
+            <pubDate>Sun, 20 Nov 2022 15:17:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20220412_154/1649728583099XCGEh_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -220,7 +227,7 @@
             <title><![CDATA[전설의 땁 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 20 Nov 2022 14:15:19 GMT</pubDate>
+            <pubDate>Sun, 20 Nov 2022 15:17:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220704_100/1656918437112yH2Jy_JPEG/ECA084EC84A4EC9D98%2BEB9581%2BED8FACEC8AA4ED84B0.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -228,7 +235,7 @@
             <title><![CDATA[실종: 사라진 소녀 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 20 Nov 2022 14:15:19 GMT</pubDate>
+            <pubDate>Sun, 20 Nov 2022 15:17:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211206_256/1638755357806iN3n1_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -236,7 +243,7 @@
             <title><![CDATA[위험한 동거 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Sun, 20 Nov 2022 14:15:19 GMT</pubDate>
+            <pubDate>Sun, 20 Nov 2022 15:17:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20220530_41/16539005065717JY3X_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
