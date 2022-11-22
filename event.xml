@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2022-11-22T14:17:08.410Z</updated>
+    <updated>2022-11-22T15:19:02.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://serieson.naver.com/movie/favicon.ico</icon>
     <entry>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[<a href="/events/20368?productType=movie" class="" onclick="nclk(this, 'mov.list', '20368', '');">💖 스케일이 다른 블프가 온다! 유니버셜 블랙프라이데이 고오급 경품 이벤트 오픈!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💣 '데시벨' 극장예매권과 소장VOD를 초특가로 구매하자!]]></title>
-        <id>https://serieson.naver.com/events/20361?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20361?productType=movie"/>
-        <updated>2022-11-16T17:22:50.277Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20361?productType=movie" class="" onclick="nclk(this, 'mov.list', '20361', '');">💣 '데시벨' 극장예매권과 소장VOD를 초특가로 구매하자!</a>]]></content>
+        <title type="html"><![CDATA[🎁 시리즈온 영화 슈퍼딜! 띵작으로 소문난 영화만 모아모아!]]></title>
+        <id>https://serieson.naver.com/events/20371?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20371?productType=movie"/>
+        <updated>2022-11-22T15:18:42.828Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20371?productType=movie" class="" onclick="nclk(this, 'mov.list', '20371', '');">🎁 시리즈온 영화 슈퍼딜! 띵작으로 소문난 영화만 모아모아!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨ 찬란하고 신비로운, '가재가 노래하는 곳' 경품 & 패키지 이벤트!]]></title>
+        <id>https://serieson.naver.com/events/20374?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20374?productType=movie"/>
+        <updated>2022-11-22T15:18:42.831Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20374?productType=movie" class="" onclick="nclk(this, 'mov.list', '20374', '');">✨ 찬란하고 신비로운, '가재가 노래하는 곳' 경품 &amp; 패키지 이벤트!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👨🏻‍✈️ 한국형 어벤져스의 탄생! '공조2' 보면 1만 캐시 쏩니다!]]></title>
+        <id>https://serieson.naver.com/events/20348?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20348?productType=movie"/>
+        <updated>2022-11-16T17:22:50.278Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20348?productType=movie" class="" onclick="nclk(this, 'mov.list', '20348', '');">👨🏻‍✈️ 한국형 어벤져스의 탄생! '공조2' 보면 1만 캐시 쏩니다!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🥳 수능 해방 기념! 시리즈온이 뽑은 추천 영화들!]]></title>
@@ -34,18 +48,11 @@
         <content type="html"><![CDATA[<a href="/events/20365?productType=movie" class="" onclick="nclk(this, 'mov.list', '20365', '');">🥳 수능 해방 기념! 시리즈온이 뽑은 추천 영화들!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남주혁X이성민 필생의 복수극 '리멤버' 예약 구매 시작!]]></title>
-        <id>https://serieson.naver.com/events/20366?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20366?productType=movie"/>
-        <updated>2022-11-17T15:18:27.137Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20366?productType=movie" class="" onclick="nclk(this, 'mov.list', '20366', '');">남주혁X이성민 필생의 복수극 '리멤버' 예약 구매 시작!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👨🏻‍✈️ 한국형 어벤져스의 탄생! '공조2' 보면 1만 캐시 쏩니다!]]></title>
-        <id>https://serieson.naver.com/events/20348?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20348?productType=movie"/>
-        <updated>2022-11-16T17:22:50.278Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20348?productType=movie" class="" onclick="nclk(this, 'mov.list', '20348', '');">👨🏻‍✈️ 한국형 어벤져스의 탄생! '공조2' 보면 1만 캐시 쏩니다!</a>]]></content>
+        <title type="html"><![CDATA[💣 '데시벨' 극장예매권과 소장VOD를 초특가로 구매하자!]]></title>
+        <id>https://serieson.naver.com/events/20361?productType=movie</id>
+        <link href="https://serieson.naver.com/events/20361?productType=movie"/>
+        <updated>2022-11-16T17:22:50.277Z</updated>
+        <content type="html"><![CDATA[<a href="/events/20361?productType=movie" class="" onclick="nclk(this, 'mov.list', '20361', '');">💣 '데시벨' 극장예매권과 소장VOD를 초특가로 구매하자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💚Barrier Free! 가치봄 무료 영화 왔어요!]]></title>
@@ -62,25 +69,11 @@
         <content type="html"><![CDATA[<a href="/events/20356?productType=movie" class="" onclick="nclk(this, 'mov.list', '20356', '');">🎶 K-맘마미아의 탄생! 한국 최초 뮤지컬 주크박스 영화 '인생은 아름다워'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🙂 세상에서 가장 흉측한 미소 '스마일' 보고 네이버페이 1만 포인트 받자!]]></title>
-        <id>https://serieson.naver.com/events/20358?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20358?productType=movie"/>
-        <updated>2022-11-16T17:22:50.283Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20358?productType=movie" class="" onclick="nclk(this, 'mov.list', '20358', '');">🙂 세상에서 가장 흉측한 미소 '스마일' 보고 네이버페이 1만 포인트 받자!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[👧 그때 그 아이의 충격적인 과거! 지금 ‘오펀: 천사의 탄생’ 감상하면 1만 캐시까지!]]></title>
         <id>https://serieson.naver.com/events/20360?productType=movie</id>
         <link href="https://serieson.naver.com/events/20360?productType=movie"/>
         <updated>2022-11-16T17:22:50.284Z</updated>
         <content type="html"><![CDATA[<a href="/events/20360?productType=movie" class="" onclick="nclk(this, 'mov.list', '20360', '');">👧 그때 그 아이의 충격적인 과거! 지금 ‘오펀: 천사의 탄생’ 감상하면 1만 캐시까지!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💗 심장 저격하는 로코 '티켓 투 파라다이스' 보고 1만 캐시 받자!]]></title>
-        <id>https://serieson.naver.com/events/20357?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20357?productType=movie"/>
-        <updated>2022-11-16T17:22:50.285Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20357?productType=movie" class="" onclick="nclk(this, 'mov.list', '20357', '');">💗 심장 저격하는 로코 '티켓 투 파라다이스' 보고 1만 캐시 받자!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✅ 이번 주엔 이 영화 어때요? 따끈 따끈한 최신 영화 보고 가세요!]]></title>

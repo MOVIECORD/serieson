@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 14:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 15:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,11 +22,25 @@
             <content:encoded><![CDATA[<a href="/events/20368?productType=movie" class="" onclick="nclk(this, 'mov.list', '20368', '');">💖 스케일이 다른 블프가 온다! 유니버셜 블랙프라이데이 고오급 경품 이벤트 오픈!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[💣 '데시벨' 극장예매권과 소장VOD를 초특가로 구매하자! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20361?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20361?productType=movie</guid>
+            <title><![CDATA[🎁 시리즈온 영화 슈퍼딜! 띵작으로 소문난 영화만 모아모아! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20371?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20371?productType=movie</guid>
+            <pubDate>Tue, 22 Nov 2022 15:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20371?productType=movie" class="" onclick="nclk(this, 'mov.list', '20371', '');">🎁 시리즈온 영화 슈퍼딜! 띵작으로 소문난 영화만 모아모아!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[✨ 찬란하고 신비로운, '가재가 노래하는 곳' 경품 & 패키지 이벤트! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20374?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20374?productType=movie</guid>
+            <pubDate>Tue, 22 Nov 2022 15:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20374?productType=movie" class="" onclick="nclk(this, 'mov.list', '20374', '');">✨ 찬란하고 신비로운, '가재가 노래하는 곳' 경품 &amp; 패키지 이벤트!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[👨🏻‍✈️ 한국형 어벤져스의 탄생! '공조2' 보면 1만 캐시 쏩니다! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20348?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20348?productType=movie</guid>
             <pubDate>Wed, 16 Nov 2022 17:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20361?productType=movie" class="" onclick="nclk(this, 'mov.list', '20361', '');">💣 '데시벨' 극장예매권과 소장VOD를 초특가로 구매하자!</a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/events/20348?productType=movie" class="" onclick="nclk(this, 'mov.list', '20348', '');">👨🏻‍✈️ 한국형 어벤져스의 탄생! '공조2' 보면 1만 캐시 쏩니다!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🥳 수능 해방 기념! 시리즈온이 뽑은 추천 영화들! ([시리즈온] 이벤트)]]></title>
@@ -36,18 +50,11 @@
             <content:encoded><![CDATA[<a href="/events/20365?productType=movie" class="" onclick="nclk(this, 'mov.list', '20365', '');">🥳 수능 해방 기념! 시리즈온이 뽑은 추천 영화들!</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[남주혁X이성민 필생의 복수극 '리멤버' 예약 구매 시작! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20366?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20366?productType=movie</guid>
-            <pubDate>Thu, 17 Nov 2022 15:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20366?productType=movie" class="" onclick="nclk(this, 'mov.list', '20366', '');">남주혁X이성민 필생의 복수극 '리멤버' 예약 구매 시작!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[👨🏻‍✈️ 한국형 어벤져스의 탄생! '공조2' 보면 1만 캐시 쏩니다! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20348?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20348?productType=movie</guid>
+            <title><![CDATA[💣 '데시벨' 극장예매권과 소장VOD를 초특가로 구매하자! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20361?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20361?productType=movie</guid>
             <pubDate>Wed, 16 Nov 2022 17:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20348?productType=movie" class="" onclick="nclk(this, 'mov.list', '20348', '');">👨🏻‍✈️ 한국형 어벤져스의 탄생! '공조2' 보면 1만 캐시 쏩니다!</a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/events/20361?productType=movie" class="" onclick="nclk(this, 'mov.list', '20361', '');">💣 '데시벨' 극장예매권과 소장VOD를 초특가로 구매하자!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💚Barrier Free! 가치봄 무료 영화 왔어요! ([시리즈온] 이벤트)]]></title>
@@ -64,25 +71,11 @@
             <content:encoded><![CDATA[<a href="/events/20356?productType=movie" class="" onclick="nclk(this, 'mov.list', '20356', '');">🎶 K-맘마미아의 탄생! 한국 최초 뮤지컬 주크박스 영화 '인생은 아름다워'</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🙂 세상에서 가장 흉측한 미소 '스마일' 보고 네이버페이 1만 포인트 받자! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20358?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20358?productType=movie</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20358?productType=movie" class="" onclick="nclk(this, 'mov.list', '20358', '');">🙂 세상에서 가장 흉측한 미소 '스마일' 보고 네이버페이 1만 포인트 받자!</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[👧 그때 그 아이의 충격적인 과거! 지금 ‘오펀: 천사의 탄생’ 감상하면 1만 캐시까지! ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20360?productType=movie</link>
             <guid>https://serieson.naver.com/events/20360?productType=movie</guid>
             <pubDate>Wed, 16 Nov 2022 17:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20360?productType=movie" class="" onclick="nclk(this, 'mov.list', '20360', '');">👧 그때 그 아이의 충격적인 과거! 지금 ‘오펀: 천사의 탄생’ 감상하면 1만 캐시까지!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[💗 심장 저격하는 로코 '티켓 투 파라다이스' 보고 1만 캐시 받자! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20357?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20357?productType=movie</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20357?productType=movie" class="" onclick="nclk(this, 'mov.list', '20357', '');">💗 심장 저격하는 로코 '티켓 투 파라다이스' 보고 1만 캐시 받자!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✅ 이번 주엔 이 영화 어때요? 따끈 따끈한 최신 영화 보고 가세요! ([시리즈온] 이벤트)]]></title>
@@ -219,7 +212,7 @@
             <title><![CDATA[파리, 13구 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 22 Nov 2022 14:16:58 GMT</pubDate>
+            <pubDate>Tue, 22 Nov 2022 15:18:52 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20220412_154/1649728583099XCGEh_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -227,7 +220,7 @@
             <title><![CDATA[전설의 땁 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 22 Nov 2022 14:16:58 GMT</pubDate>
+            <pubDate>Tue, 22 Nov 2022 15:18:52 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220704_100/1656918437112yH2Jy_JPEG/ECA084EC84A4EC9D98%2BEB9581%2BED8FACEC8AA4ED84B0.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -235,7 +228,7 @@
             <title><![CDATA[실종: 사라진 소녀 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 22 Nov 2022 14:16:58 GMT</pubDate>
+            <pubDate>Tue, 22 Nov 2022 15:18:52 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211206_256/1638755357806iN3n1_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -243,7 +236,7 @@
             <title><![CDATA[위험한 동거 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 22 Nov 2022 14:16:58 GMT</pubDate>
+            <pubDate>Tue, 22 Nov 2022 15:18:52 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20220530_41/16539005065717JY3X_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
