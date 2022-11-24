@@ -4,9 +4,57 @@
         <title>모바일 네이버 시리즈온 ─ 무료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 14:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 15:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리, 13구]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/504251</link>
+            <guid>https://m.serieson.naver.com/v2/movie/504251</guid>
+            <pubDate>Thu, 24 Nov 2022 15:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[12월 1일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20220412_154/1649728583099XCGEh_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전설의 땁]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/510734</link>
+            <guid>https://m.serieson.naver.com/v2/movie/510734</guid>
+            <pubDate>Thu, 24 Nov 2022 15:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[12월 8일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20220704_100/1656918437112yH2Jy_JPEG/ECA084EC84A4EC9D98%2BEB9581%2BED8FACEC8AA4ED84B0.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실종: 사라진 소녀]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/478127</link>
+            <guid>https://m.serieson.naver.com/v2/movie/478127</guid>
+            <pubDate>Thu, 24 Nov 2022 15:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[12월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211206_256/1638755357806iN3n1_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위험한 동거]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/507159</link>
+            <guid>https://m.serieson.naver.com/v2/movie/507159</guid>
+            <pubDate>Thu, 24 Nov 2022 15:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[12월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20220530_41/16539005065717JY3X_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[니키리라고도 알려진]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/476750</link>
+            <guid>https://m.serieson.naver.com/v2/movie/476750</guid>
+            <pubDate>Thu, 24 Nov 2022 15:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[12월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210825_222/1629859136005yOaNt_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2솔져스: 배틀필드]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/476752</link>
+            <guid>https://m.serieson.naver.com/v2/movie/476752</guid>
+            <pubDate>Thu, 24 Nov 2022 15:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[12월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211026_71/16352242313516oUy9_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스마스 오렌지]]></title>
             <link>https://m.serieson.naver.com/v2/movie/411294</link>
@@ -56,84 +104,36 @@
             <enclosure url="https://movie-phinf.pstatic.net/20211201_224/1638322559763vk0FP_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최후의 소녀]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/291665</link>
-            <guid>https://m.serieson.naver.com/v2/movie/291665</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 24일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190502_114/1556764618752rdzq0_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리미널 게임: 보석 사기단]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/267595</link>
-            <guid>https://m.serieson.naver.com/v2/movie/267595</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 24일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181221_107/154537436479664zkb_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퓨쳐 월드]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/251800</link>
-            <guid>https://m.serieson.naver.com/v2/movie/251800</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 24일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20220728_197/1658978883160zqK6F_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_4060.ED93A8ECB390%2BEC9B94EB9.png?type=w320_r145" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파리의 밤이 열리면]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/188323</link>
-            <guid>https://m.serieson.naver.com/v2/movie/188323</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 24일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20220713_38/16576896658462v9Aq_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3942.ED8C8CEBA6ACEC9D98%2BEBB.png?type=w320_r145" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오 마이 파파]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/166717</link>
-            <guid>https://m.serieson.naver.com/v2/movie/166717</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 24일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20220616_208/1655367873343f9qxo_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3773.EC98A4%2BEBA788EC9DB4%2BED.png?type=w320_r145" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보스의 딸]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/151910</link>
-            <guid>https://m.serieson.naver.com/v2/movie/151910</guid>
-            <pubDate>Wed, 16 Nov 2022 17:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 24일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20220610_36/1654841468541dgRIj_PNG/5BEC8B9CEBA6ACECA688ON5DPOSTER_3708.EBB3B4EC8AA4EC9D98%2BEB9.png?type=w320_r145" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파리, 13구]]></title>
+            <title><![CDATA[라이프 잇셀프]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 24 Nov 2022 14:15:31 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 15:17:15 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20220412_154/1649728583099XCGEh_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20220720_113/16583064474192p5v2_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전설의 땁]]></title>
+            <title><![CDATA[기묘한 가족]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 24 Nov 2022 14:15:31 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 15:17:15 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20220704_100/1656918437112yH2Jy_JPEG/ECA084EC84A4EC9D98%2BEB9581%2BED8FACEC8AA4ED84B0.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20190213_142/1550020349326Pk2m3_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[실종: 사라진 소녀]]></title>
+            <title><![CDATA[코비 브라이언트: 더 레전드]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 24 Nov 2022 14:15:31 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 15:17:15 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20211206_256/1638755357806iN3n1_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20211015_131/1634262493605FozHu_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위험한 동거]]></title>
+            <title><![CDATA[지구 최후의 날 2021]]></title>
             <link>https://m.serieson.naver.com/free</link>
             <guid>https://m.serieson.naver.com/free</guid>
-            <pubDate>Thu, 24 Nov 2022 14:15:31 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 15:17:15 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20220530_41/16539005065717JY3X_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20211015_66/1634263134571aJEa0_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
