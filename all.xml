@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 08:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 09:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,13 @@
             <guid>https://serieson.naver.com/events/20368?productType=movie</guid>
             <pubDate>Tue, 22 Nov 2022 01:26:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20368?productType=movie" class="" onclick="nclk(this, 'mov.list', '20368', '');">💖 스케일이 다른 블프가 온다! 유니버셜 블랙프라이데이 고오급 경품 이벤트 오픈!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎁 한꺼번에 소장각! 시리즈온이 엄선한 패키지 모음집 보고 가세요! ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20378?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20378?productType=movie</guid>
+            <pubDate>Tue, 29 Nov 2022 09:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20378?productType=movie" class="" onclick="nclk(this, 'mov.list', '20378', '');">🎁 한꺼번에 소장각! 시리즈온이 엄선한 패키지 모음집 보고 가세요!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎁 시리즈온 영화 슈퍼딜! 띵작으로 소문난 영화만 모아모아! ([시리즈온] 이벤트)]]></title>
@@ -191,7 +198,7 @@
             <title><![CDATA[라이프 잇셀프 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 08:21:37 GMT</pubDate>
+            <pubDate>Tue, 29 Nov 2022 09:16:31 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20220720_113/16583064474192p5v2_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -199,7 +206,7 @@
             <title><![CDATA[기묘한 가족 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 08:21:37 GMT</pubDate>
+            <pubDate>Tue, 29 Nov 2022 09:16:31 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190213_142/1550020349326Pk2m3_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -207,7 +214,7 @@
             <title><![CDATA[코비 브라이언트: 더 레전드 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 08:21:37 GMT</pubDate>
+            <pubDate>Tue, 29 Nov 2022 09:16:31 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211015_131/1634262493605FozHu_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -215,7 +222,7 @@
             <title><![CDATA[지구 최후의 날 2021 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 08:21:37 GMT</pubDate>
+            <pubDate>Tue, 29 Nov 2022 09:16:31 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211015_66/1634263134571aJEa0_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
