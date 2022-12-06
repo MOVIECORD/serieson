@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 14:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 15:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,13 +13,6 @@
             <guid>https://serieson.naver.com/events/20381?productType=movie</guid>
             <pubDate>Tue, 06 Dec 2022 02:42:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20381?productType=movie" class="" onclick="nclk(this, 'mov.list', '20381', '');">그날의 진실은..? ‘자백’ 지금 감상하고 쿠폰받자!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🔥 마지막일지도 모를 일주일, '리멤버' 보면 선착순 캐시를 드려요! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20373?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20373?productType=movie</guid>
-            <pubDate>Wed, 23 Nov 2022 01:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20373?productType=movie" class="" onclick="nclk(this, 'mov.list', '20373', '');">🔥 마지막일지도 모를 일주일, '리멤버' 보면 선착순 캐시를 드려요!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💄 '미시즈 해리스 파리에 가다' 구매 시 디올 립글로우를 드려요! ([시리즈온] 이벤트)]]></title>
@@ -48,13 +41,6 @@
             <guid>https://serieson.naver.com/events/20378?productType=movie</guid>
             <pubDate>Tue, 29 Nov 2022 09:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20378?productType=movie" class="" onclick="nclk(this, 'mov.list', '20378', '');">🎁 한꺼번에 소장각! 시리즈온이 엄선한 패키지 모음집 보고 가세요!</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[✨ 찬란하고 신비로운, '가재가 노래하는 곳' 경품 & 패키지 이벤트! ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20374?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20374?productType=movie</guid>
-            <pubDate>Tue, 22 Nov 2022 15:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20374?productType=movie" class="" onclick="nclk(this, 'mov.list', '20374', '');">✨ 찬란하고 신비로운, '가재가 노래하는 곳' 경품 &amp; 패키지 이벤트!</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💣 '데시벨' 극장예매권과 소장VOD를 초특가로 구매하자! ([시리즈온] 이벤트)]]></title>
@@ -177,7 +163,7 @@
             <title><![CDATA[쁘띠 마망 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 06 Dec 2022 14:14:42 GMT</pubDate>
+            <pubDate>Tue, 06 Dec 2022 15:16:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210917_227/1631842790698OTIjB_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -185,7 +171,7 @@
             <title><![CDATA[슈퍼노바 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 06 Dec 2022 14:14:42 GMT</pubDate>
+            <pubDate>Tue, 06 Dec 2022 15:16:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_222/1632482047978EISTK_PNG/ONPOSTER_27..png?type=w320_r145" length="0" type="image/png"/>
         </item>
@@ -193,7 +179,7 @@
             <title><![CDATA[배틀로얄 : 프리즌 브레이크 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 06 Dec 2022 14:14:42 GMT</pubDate>
+            <pubDate>Tue, 06 Dec 2022 15:16:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210121_265/1611193663818Y8Psw_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -201,7 +187,7 @@
             <title><![CDATA[신용쟁호투 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 06 Dec 2022 14:14:42 GMT</pubDate>
+            <pubDate>Tue, 06 Dec 2022 15:16:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210507_172/162037827142326mCM_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
