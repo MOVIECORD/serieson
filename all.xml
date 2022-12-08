@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 02:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 03:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,6 +27,13 @@
             <guid>https://serieson.naver.com/events/20362?productType=movie</guid>
             <pubDate>Wed, 30 Nov 2022 02:51:06 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20362?productType=movie" class="" onclick="nclk(this, 'mov.list', '20362', '');">⚡️ '블랙 아담' 경품 이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎁 '폴 600미터' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20383?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20383?productType=movie</guid>
+            <pubDate>Thu, 08 Dec 2022 03:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20383?productType=movie" class="" onclick="nclk(this, 'mov.list', '20383', '');">🎁 '폴 600미터' 경품 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎁 한꺼번에 소장각! 패키지 추천관 ([시리즈온] 이벤트)]]></title>
@@ -170,7 +177,7 @@
             <title><![CDATA[쁘띠 마망 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 08 Dec 2022 02:45:07 GMT</pubDate>
+            <pubDate>Thu, 08 Dec 2022 03:18:42 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210917_227/1631842790698OTIjB_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -178,7 +185,7 @@
             <title><![CDATA[슈퍼노바 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 08 Dec 2022 02:45:07 GMT</pubDate>
+            <pubDate>Thu, 08 Dec 2022 03:18:42 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_222/1632482047978EISTK_PNG/ONPOSTER_27..png?type=w320_r145" length="0" type="image/png"/>
         </item>
@@ -186,7 +193,7 @@
             <title><![CDATA[배틀로얄 : 프리즌 브레이크 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 08 Dec 2022 02:45:07 GMT</pubDate>
+            <pubDate>Thu, 08 Dec 2022 03:18:42 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210121_265/1611193663818Y8Psw_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -194,7 +201,7 @@
             <title><![CDATA[신용쟁호투 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 08 Dec 2022 02:45:07 GMT</pubDate>
+            <pubDate>Thu, 08 Dec 2022 03:18:42 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210507_172/162037827142326mCM_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
