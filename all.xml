@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 23:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 01:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎁 '자백' 캐시 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20381?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20381?productType=movie</guid>
+            <pubDate>Tue, 06 Dec 2022 02:42:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20381?productType=movie" class="" onclick="nclk(this, 'mov.list', '20381', '');">🎁 '자백' 캐시 이벤트</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[🎁 '데시벨' 할인 이벤트 ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20385?productType=movie</link>
@@ -15,11 +22,11 @@
             <content:encoded><![CDATA[<a href="/events/20385?productType=movie" class="" onclick="nclk(this, 'mov.list', '20385', '');">🎁 '데시벨' 할인 이벤트 </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🎁 '자백' 캐시 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20381?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20381?productType=movie</guid>
-            <pubDate>Tue, 06 Dec 2022 02:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20381?productType=movie" class="" onclick="nclk(this, 'mov.list', '20381', '');">🎁 '자백' 캐시 이벤트</a>]]></content:encoded>
+            <title><![CDATA[🎁 '폴 600미터' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20383?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20383?productType=movie</guid>
+            <pubDate>Thu, 08 Dec 2022 03:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20383?productType=movie" class="" onclick="nclk(this, 'mov.list', '20383', '');">🎁 '폴 600미터' 경품 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎁 SONY 연말 경품 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -34,13 +41,6 @@
             <guid>https://serieson.naver.com/events/20362?productType=movie</guid>
             <pubDate>Wed, 30 Nov 2022 02:51:06 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20362?productType=movie" class="" onclick="nclk(this, 'mov.list', '20362', '');">⚡️ '블랙 아담' 경품 이벤트</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🎁 '폴 600미터' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20383?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20383?productType=movie</guid>
-            <pubDate>Thu, 08 Dec 2022 03:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20383?productType=movie" class="" onclick="nclk(this, 'mov.list', '20383', '');">🎁 '폴 600미터' 경품 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎁 한꺼번에 소장각! 패키지 추천관 ([시리즈온] 이벤트)]]></title>
@@ -184,7 +184,7 @@
             <title><![CDATA[비포 미드나잇 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 12 Dec 2022 23:16:55 GMT</pubDate>
+            <pubDate>Tue, 13 Dec 2022 01:17:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210106_186/1609908952206pbQnO_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -192,7 +192,7 @@
             <title><![CDATA[가족의 색깔 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 12 Dec 2022 23:16:55 GMT</pubDate>
+            <pubDate>Tue, 13 Dec 2022 01:17:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211019_223/1634629133246r4Rrk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -200,7 +200,7 @@
             <title><![CDATA[스트레인저 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 12 Dec 2022 23:16:55 GMT</pubDate>
+            <pubDate>Tue, 13 Dec 2022 01:17:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210122_71/1611298833906xzEnw_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -208,7 +208,7 @@
             <title><![CDATA[팔백기마대 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 12 Dec 2022 23:16:55 GMT</pubDate>
+            <pubDate>Tue, 13 Dec 2022 01:17:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210407_168/16177828692192urkP_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
