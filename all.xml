@@ -4,22 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 01:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 02:47:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[🎁 '에에올' 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
+            <title><![CDATA[👁  '에에올' 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20388?productType=movie</link>
             <guid>https://serieson.naver.com/events/20388?productType=movie</guid>
             <pubDate>Thu, 15 Dec 2022 01:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20388?productType=movie" class="" onclick="nclk(this, 'mov.list', '20388', '');">🎁 '에에올' 쿠폰 이벤트</a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/events/20388?productType=movie" class="" onclick="nclk(this, 'mov.list', '20388', '');">👁  '에에올' 쿠폰 이벤트</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🎁  '블랙 아담' 할인 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20390?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20390?productType=movie</guid>
-            <pubDate>Thu, 15 Dec 2022 01:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20390?productType=movie" class="" onclick="nclk(this, 'mov.list', '20390', '');">🎁  '블랙 아담' 할인 이벤트</a>]]></content:encoded>
+            <title><![CDATA[🎁 '자백' 캐시 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20381?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20381?productType=movie</guid>
+            <pubDate>Tue, 06 Dec 2022 02:42:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20381?productType=movie" class="" onclick="nclk(this, 'mov.list', '20381', '');">🎁 '자백' 캐시 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎁  '데시벨' 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -29,11 +29,18 @@
             <content:encoded><![CDATA[<a href="/events/20389?productType=movie" class="" onclick="nclk(this, 'mov.list', '20389', '');">🎁  '데시벨' 쿠폰 이벤트</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🎁 '자백' 캐시 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20381?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20381?productType=movie</guid>
-            <pubDate>Tue, 06 Dec 2022 02:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20381?productType=movie" class="" onclick="nclk(this, 'mov.list', '20381', '');">🎁 '자백' 캐시 이벤트</a>]]></content:encoded>
+            <title><![CDATA[🎁  '블랙 아담' 할인 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20390?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20390?productType=movie</guid>
+            <pubDate>Thu, 15 Dec 2022 01:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20390?productType=movie" class="" onclick="nclk(this, 'mov.list', '20390', '');">🎁  '블랙 아담' 할인 이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[☑️ 시리즈 올인원! 패키지 기획전 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20391?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20391?productType=movie</guid>
+            <pubDate>Thu, 15 Dec 2022 02:47:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20391?productType=movie" class="" onclick="nclk(this, 'mov.list', '20391', '');">☑️ 시리즈 올인원! 패키지 기획전</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎁 '폴 600미터' 경품 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -177,7 +184,7 @@
             <title><![CDATA[비포 미드나잇 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 15 Dec 2022 01:14:53 GMT</pubDate>
+            <pubDate>Thu, 15 Dec 2022 02:47:42 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210106_186/1609908952206pbQnO_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -185,7 +192,7 @@
             <title><![CDATA[가족의 색깔 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 15 Dec 2022 01:14:53 GMT</pubDate>
+            <pubDate>Thu, 15 Dec 2022 02:47:42 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211019_223/1634629133246r4Rrk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -193,7 +200,7 @@
             <title><![CDATA[스트레인저 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 15 Dec 2022 01:14:53 GMT</pubDate>
+            <pubDate>Thu, 15 Dec 2022 02:47:42 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210122_71/1611298833906xzEnw_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -201,7 +208,7 @@
             <title><![CDATA[팔백기마대 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 15 Dec 2022 01:14:53 GMT</pubDate>
+            <pubDate>Thu, 15 Dec 2022 02:47:42 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210407_168/16177828692192urkP_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
