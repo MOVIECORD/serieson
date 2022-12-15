@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 14:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 15:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,13 +57,6 @@
             <content:encoded><![CDATA[<a href="/events/20382?productType=movie" class="" onclick="nclk(this, 'mov.list', '20382', '');">🎁 SONY 연말 경품 이벤트</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🎁 한꺼번에 소장각! 패키지 추천관 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20378?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20378?productType=movie</guid>
-            <pubDate>Tue, 29 Nov 2022 09:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20378?productType=movie" class="" onclick="nclk(this, 'mov.list', '20378', '');">🎁 한꺼번에 소장각! 패키지 추천관</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[✨ 영화, 뭐 볼지 고민된다면? ([시리즈온] 이벤트)]]></title>
             <link>https://serieson.naver.com/events/20379?productType=movie</link>
             <guid>https://serieson.naver.com/events/20379?productType=movie</guid>
@@ -83,6 +76,54 @@
             <guid>https://serieson.naver.com/events/20355?productType=movie</guid>
             <pubDate>Wed, 16 Nov 2022 17:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20355?productType=movie" class="" onclick="nclk(this, 'mov.list', '20355', '');">✅ 최신 영화 빙고 타임!</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비포 미드나잇 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/41332</link>
+            <guid>https://m.serieson.naver.com/v2/movie/41332</guid>
+            <pubDate>Thu, 15 Dec 2022 15:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[12월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210106_186/1609908952206pbQnO_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족의 색깔 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/471040</link>
+            <guid>https://m.serieson.naver.com/v2/movie/471040</guid>
+            <pubDate>Thu, 15 Dec 2022 15:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[12월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211019_223/1634629133246r4Rrk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트레인저 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/437760</link>
+            <guid>https://m.serieson.naver.com/v2/movie/437760</guid>
+            <pubDate>Thu, 15 Dec 2022 15:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[12월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210122_71/1611298833906xzEnw_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팔백기마대 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/435902</link>
+            <guid>https://m.serieson.naver.com/v2/movie/435902</guid>
+            <pubDate>Thu, 15 Dec 2022 15:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[12월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20210407_168/16177828692192urkP_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글래디에이터: 레전드 워리어 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/472703</link>
+            <guid>https://m.serieson.naver.com/v2/movie/472703</guid>
+            <pubDate>Thu, 15 Dec 2022 15:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[12월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20211013_43/1634105562281aIocT_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈감은 여름 (모바일 네이버 시리즈온 ─ 무료)]]></title>
+            <link>https://m.serieson.naver.com/v2/movie/508390</link>
+            <guid>https://m.serieson.naver.com/v2/movie/508390</guid>
+            <pubDate>Thu, 15 Dec 2022 15:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[12월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20220616_40/1655371511275DeBEK_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쁘띠 마망 (모바일 네이버 시리즈온 ─ 무료)]]></title>
@@ -131,86 +172,6 @@
             <pubDate>Thu, 08 Dec 2022 15:16:01 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일까지]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20220210_33/16444793687823bQez_JPEG/%BD%C3%B8%AE%C1%EEONPOSTER_3155.%C1%A6%C0%CC%C6%BC_%C6%AE%B7%CE%C0%CC.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기묘한 가족 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/271001</link>
-            <guid>https://m.serieson.naver.com/v2/movie/271001</guid>
-            <pubDate>Thu, 01 Dec 2022 15:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190213_142/1550020349326Pk2m3_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코비 브라이언트: 더 레전드 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/469169</link>
-            <guid>https://m.serieson.naver.com/v2/movie/469169</guid>
-            <pubDate>Thu, 01 Dec 2022 15:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20211015_131/1634262493605FozHu_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구 최후의 날 2021 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/469170</link>
-            <guid>https://m.serieson.naver.com/v2/movie/469170</guid>
-            <pubDate>Thu, 01 Dec 2022 15:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20211015_66/1634263134571aJEa0_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이도공간 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/462758</link>
-            <guid>https://m.serieson.naver.com/v2/movie/462758</guid>
-            <pubDate>Thu, 01 Dec 2022 15:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 15일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211118_256/1637242186825iIzjd_PNG/ONPOSTER_1725..png?type=w320_r145" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아담 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/461808</link>
-            <guid>https://m.serieson.naver.com/v2/movie/461808</guid>
-            <pubDate>Thu, 01 Dec 2022 15:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 15일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20220224_181/1645703186039YAEjd_JPEG/%BD%C3%B8%AE%C1%EEONPOSTER_3204.%BE%C6%B4%E3.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매직아치 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://m.serieson.naver.com/v2/movie/449963</link>
-            <guid>https://m.serieson.naver.com/v2/movie/449963</guid>
-            <pubDate>Thu, 01 Dec 2022 15:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210429_192/1619679768331akKbm_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비포 미드나잇 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
-            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 15 Dec 2022 14:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210106_186/1609908952206pbQnO_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족의 색깔 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
-            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 15 Dec 2022 14:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20211019_223/1634629133246r4Rrk_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트레인저 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
-            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 15 Dec 2022 14:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210122_71/1611298833906xzEnw_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔백기마대 (모바일 네이버 시리즈온 ─ 무료)]]></title>
-            <link>https://MOVIECORD.github.io/serieson/all.xml</link>
-            <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Thu, 15 Dec 2022 14:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210407_168/16177828692192urkP_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
