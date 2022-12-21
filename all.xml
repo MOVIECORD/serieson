@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 23:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 01:06:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,6 +27,13 @@
             <guid>https://serieson.naver.com/events/20387?productType=movie</guid>
             <pubDate>Thu, 15 Dec 2022 22:14:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20387?productType=movie" class="" onclick="nclk(this, 'mov.list', '20387', '');">🏆 연말 결산! 시리즈온 영화 어워즈</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎁  '크리스마스 캐럴' 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
+            <link>https://serieson.naver.com/events/20394?productType=movie</link>
+            <guid>https://serieson.naver.com/events/20394?productType=movie</guid>
+            <pubDate>Wed, 21 Dec 2022 01:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/events/20394?productType=movie" class="" onclick="nclk(this, 'mov.list', '20394', '');">🎁  '크리스마스 캐럴' 쿠폰 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎁  '같은 속옷을 입는 두 여자' 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -191,7 +198,7 @@
             <title><![CDATA[악인전 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 20 Dec 2022 23:15:47 GMT</pubDate>
+            <pubDate>Wed, 21 Dec 2022 01:06:47 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190515_203/1557888285764Rvouz_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -199,7 +206,7 @@
             <title><![CDATA[내가 죽기 전에 가장 듣고 싶은 말 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 20 Dec 2022 23:15:47 GMT</pubDate>
+            <pubDate>Wed, 21 Dec 2022 01:06:47 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211118_22/16372421201108iahO_PNG/ONPOSTER_1405.______.png?type=w320_r145" length="0" type="image/png"/>
         </item>
@@ -207,7 +214,7 @@
             <title><![CDATA[팜 스프링스 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 20 Dec 2022 23:15:47 GMT</pubDate>
+            <pubDate>Wed, 21 Dec 2022 01:06:47 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210730_271/16276212322688M1Vv_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -215,7 +222,7 @@
             <title><![CDATA[금의위: 용의 비검 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Tue, 20 Dec 2022 23:15:47 GMT</pubDate>
+            <pubDate>Wed, 21 Dec 2022 01:06:47 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20220516_18/1652688439203SYpm9_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
