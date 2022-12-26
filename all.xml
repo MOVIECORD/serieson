@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 14:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 15:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,13 +76,6 @@
             <guid>https://serieson.naver.com/events/20393?productType=movie</guid>
             <pubDate>Fri, 16 Dec 2022 02:33:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/events/20393?productType=movie" class="" onclick="nclk(this, 'mov.list', '20393', '');">🎁  '같은 속옷을 입는 두 여자' 쿠폰 이벤트</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🎁 '자백' 캐시 이벤트 ([시리즈온] 이벤트)]]></title>
-            <link>https://serieson.naver.com/events/20381?productType=movie</link>
-            <guid>https://serieson.naver.com/events/20381?productType=movie</guid>
-            <pubDate>Tue, 06 Dec 2022 02:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/events/20381?productType=movie" class="" onclick="nclk(this, 'mov.list', '20381', '');">🎁 '자백' 캐시 이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎁  '데시벨' 쿠폰 이벤트 ([시리즈온] 이벤트)]]></title>
@@ -219,7 +212,7 @@
             <title><![CDATA[355 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 26 Dec 2022 14:13:55 GMT</pubDate>
+            <pubDate>Mon, 26 Dec 2022 15:15:19 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20220209_85/1644381775023s7xf9_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -227,7 +220,7 @@
             <title><![CDATA[찬실이는 복도 많지 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 26 Dec 2022 14:13:55 GMT</pubDate>
+            <pubDate>Mon, 26 Dec 2022 15:15:19 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200214_123/1581659934908mAoGh_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -235,7 +228,7 @@
             <title><![CDATA[퍼스널 쇼퍼 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 26 Dec 2022 14:13:55 GMT</pubDate>
+            <pubDate>Mon, 26 Dec 2022 15:15:19 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20170119_66/1484809094459Nnt9J_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
@@ -243,7 +236,7 @@
             <title><![CDATA[인 더 다크 (모바일 네이버 시리즈온 ─ 무료)]]></title>
             <link>https://MOVIECORD.github.io/serieson/all.xml</link>
             <guid>https://MOVIECORD.github.io/serieson/all.xml</guid>
-            <pubDate>Mon, 26 Dec 2022 14:13:55 GMT</pubDate>
+            <pubDate>Mon, 26 Dec 2022 15:15:19 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210128_101/1611822539808pTHey_JPEG/movie_image.jpg?type=w320_r145" length="0" type="image/jpg"/>
         </item>
