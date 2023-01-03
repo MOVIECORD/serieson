@@ -2,70 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://serieson.naver.com/movie/eventList.nhn</id>
     <title>[시리즈온] 이벤트</title>
-    <updated>2023-01-03T08:19:37.754Z</updated>
+    <updated>2023-01-03T09:15:42.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static-serieson.pstatic.net/ssr-desktop/1.2301.2/_next/static/media/favicon_48.53050f2e.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[😎  '압꾸정' 캐시 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20400?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20400?productType=movie"/>
-        <updated>2023-01-03T08:19:26.424Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20400?productType=movie" class="" onclick="nclk(this, 'mov.list', '20400', '');">😎  '압꾸정' 캐시 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👁  '에에올' 쿠폰 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20388?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20388?productType=movie"/>
-        <updated>2023-01-03T08:19:26.426Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20388?productType=movie" class="" onclick="nclk(this, 'mov.list', '20388', '');">👁  '에에올' 쿠폰 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎁 '지옥의 화원' 캐시 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20402?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20402?productType=movie"/>
-        <updated>2023-01-03T08:19:26.428Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20402?productType=movie" class="" onclick="nclk(this, 'mov.list', '20402', '');">🎁 '지옥의 화원' 캐시 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎁 '스트레인지 월드' 경품 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20398?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20398?productType=movie"/>
-        <updated>2023-01-03T08:19:26.430Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20398?productType=movie" class="" onclick="nclk(this, 'mov.list', '20398', '');">🎁 '스트레인지 월드' 경품 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📞 '동감' 쿠폰 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20392?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20392?productType=movie"/>
-        <updated>2023-01-03T08:19:26.431Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20392?productType=movie" class="" onclick="nclk(this, 'mov.list', '20392', '');">📞 '동감' 쿠폰 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎁  '크리스마스 캐럴' 쿠폰 이벤트]]></title>
-        <id>https://serieson.naver.com/events/20394?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20394?productType=movie"/>
-        <updated>2023-01-03T08:19:26.433Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20394?productType=movie" class="" onclick="nclk(this, 'mov.list', '20394', '');">🎁  '크리스마스 캐럴' 쿠폰 이벤트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☑️ 시리즈 올인원! 패키지 기획전]]></title>
-        <id>https://serieson.naver.com/events/20391?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20391?productType=movie"/>
-        <updated>2023-01-03T08:19:26.435Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20391?productType=movie" class="" onclick="nclk(this, 'mov.list', '20391', '');">☑️ 시리즈 올인원! 패키지 기획전</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ 영화, 뭐 볼지 고민된다면?]]></title>
-        <id>https://serieson.naver.com/events/20379?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20379?productType=movie"/>
-        <updated>2023-01-03T08:19:26.436Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20379?productType=movie" class="" onclick="nclk(this, 'mov.list', '20379', '');">✨ 영화, 뭐 볼지 고민된다면?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✅ 최신 영화 빙고 타임!]]></title>
-        <id>https://serieson.naver.com/events/20355?productType=movie</id>
-        <link href="https://serieson.naver.com/events/20355?productType=movie"/>
-        <updated>2023-01-03T08:19:26.438Z</updated>
-        <content type="html"><![CDATA[<a href="/events/20355?productType=movie" class="" onclick="nclk(this, 'mov.list', '20355', '');">✅ 최신 영화 빙고 타임!</a>]]></content>
-    </entry>
 </feed>
